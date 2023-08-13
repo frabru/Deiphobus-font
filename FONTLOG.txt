@@ -1,0 +1,27 @@
+                   FONTLOG for the Deiphobus fonts
+
+This file provides detailed information on the Deiphobus Font Software. This information should be distributed along with the Deiphobus fonts and any derivative works.
+
+
+Basic Font Information
+
+Deiphobus is an all caps geometric display typeface with bold blocky shapes. The initial design is for Latin script but can easily be extended to cover Greek and Cyrillic scripts.
+
+This release supports the Unicode block Basic Latin / the US-ASCII character set.
+
+
+ChangeLog
+
+ 2023-08-13 (Frank Bruder)  Deiphobus Version 1.0
+- Initial release
+- US-ASCII glyphs
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Frank Bruder
+E: frank@frabru.de
+W: http://frabru.de/
+D: Designer - Design guide and original glyphs
