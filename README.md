@@ -1,3 +1,6 @@
+![Deiphobus 1.0](./demo/demo.svg)
+
+
 # Deiphobus font
 
 Deiphobus is an all caps geometric display typeface with bold blocky shapes.
