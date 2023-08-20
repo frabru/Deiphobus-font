@@ -4,12 +4,12 @@
 		<g>
 			<path id="B" transform="translate(0 160) scale(1 -1)" d="M16 0v128h76l20 -20v-19l-10 -10l10 -10v-49l-20 -20h-76zm34 34h28v30h-28v-30zm0 32l28 28h-28v-28"/>
 			<g transform="translate(0 352) scale(1 -1)">
-				<path d="M16 20v14h62l-30 30l30 30h-62v14l20 20h56l20 -20v-28l-16 -16l16 -16v-28l-20 -20h-56l-20 20z"/>
+				<path d="M16 20v14h62l-30 30l30 30h-62v34h76l20 -20v-28l-16 -16l16 -16v-28l-20 -20h-56l-20 20z"/>
 				<path fill="#224" opacity="0.9" d="M16 0v128h34v-128h-34z"/>
 				<circle fill="none" stroke="#c00" stroke-width="3" r="34" cx="71" cy="55"/>
 			</g>
 			<path transform="translate(64 384)" fill="none" stroke="#00c" stroke-width="12" d="M0 30v-50m-20 20l20 -20l20 20"/>
-			<path id="three" transform="translate(0 544) scale(1 -1)" d="M16 20v14h62l-30 30l30 30h-62v14l20 20h56l20 -20v-28l-16 -16l16 -16v-28l-20 -20h-56l-20 20z"/>
+			<path id="three" transform="translate(0 544) scale(1 -1)" d="M16 20v14h62l-30 30l30 30h-62v34h76l20 -20v-28l-16 -16l16 -16v-28l-20 -20h-56l-20 20z"/>
 		</g>
 		<g transform="translate(128 0)">
 			<path id="D" transform="translate(0 160) scale(1 -1)" d="M16 0v128h48l48 -48v-60l-20 -20h-76zm34 34h28v32l-28 28v-60z"/>
