@@ -9,12 +9,86 @@
 		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
+		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ydieresis</key>
+		<integer>-132</integer>
+	</dict>
+	<key>Agrave</key>
+	<dict>
+		<key>T</key>
+		<integer>-143</integer>
+		<key>Y</key>
+		<integer>-132</integer>
+		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ydieresis</key>
+		<integer>-132</integer>
+	</dict>
+	<key>Aacute</key>
+	<dict>
+		<key>T</key>
+		<integer>-143</integer>
+		<key>Y</key>
+		<integer>-132</integer>
+		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ydieresis</key>
+		<integer>-132</integer>
+	</dict>
+	<key>Acircumflex</key>
+	<dict>
+		<key>T</key>
+		<integer>-143</integer>
+		<key>Y</key>
+		<integer>-132</integer>
+		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ydieresis</key>
+		<integer>-132</integer>
+	</dict>
+	<key>Atilde</key>
+	<dict>
+		<key>T</key>
+		<integer>-143</integer>
+		<key>Y</key>
+		<integer>-132</integer>
+		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ydieresis</key>
+		<integer>-132</integer>
+	</dict>
+	<key>Adieresis</key>
+	<dict>
+		<key>T</key>
+		<integer>-143</integer>
+		<key>Y</key>
+		<integer>-132</integer>
+		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ydieresis</key>
+		<integer>-132</integer>
+	</dict>
+	<key>Aring</key>
+	<dict>
+		<key>T</key>
+		<integer>-143</integer>
+		<key>Y</key>
+		<integer>-132</integer>
+		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ydieresis</key>
+		<integer>-132</integer>
 	</dict>
 	<key>D</key>
 	<dict>
 		<key>T</key>
 		<integer>-154</integer>
 		<key>Y</key>
+		<integer>-176</integer>
+		<key>Yacute</key>
+		<integer>-176</integer>
+		<key>Ydieresis</key>
 		<integer>-176</integer>
 	</dict>
 	<key>E</key>
@@ -25,18 +99,133 @@
 		<integer>-88</integer>
 		<key>Y</key>
 		<integer>-154</integer>
+		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ydieresis</key>
+		<integer>-154</integer>
 		<key>quotedbl</key>
 		<integer>-154</integer>
 		<key>quotesingle</key>
+		<integer>-154</integer>
+	</dict>
+	<key>Egrave</key>
+	<dict>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>V</key>
+		<integer>-88</integer>
+		<key>Y</key>
+		<integer>-154</integer>
+		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>quotedbl</key>
+		<integer>-154</integer>
+		<key>quotesingle</key>
+		<integer>-154</integer>
+	</dict>
+	<key>Eacute</key>
+	<dict>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>V</key>
+		<integer>-88</integer>
+		<key>Y</key>
+		<integer>-154</integer>
+		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>quotedbl</key>
+		<integer>-154</integer>
+		<key>quotesingle</key>
+		<integer>-154</integer>
+	</dict>
+	<key>Ecircumflex</key>
+	<dict>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>V</key>
+		<integer>-88</integer>
+		<key>Y</key>
+		<integer>-154</integer>
+		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>quotedbl</key>
+		<integer>-154</integer>
+		<key>quotesingle</key>
+		<integer>-154</integer>
+	</dict>
+	<key>Edieresis</key>
+	<dict>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>V</key>
+		<integer>-88</integer>
+		<key>Y</key>
+		<integer>-154</integer>
+		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>quotedbl</key>
+		<integer>-154</integer>
+		<key>quotesingle</key>
+		<integer>-154</integer>
+	</dict>
+	<key>Eth</key>
+	<dict>
+		<key>I</key>
+		<integer>-154</integer>
+		<key>Igrave</key>
+		<integer>-154</integer>
+		<key>Iacute</key>
+		<integer>-154</integer>
+		<key>Icircumflex</key>
+		<integer>-154</integer>
+		<key>Idieresis</key>
+		<integer>-154</integer>
+		<key>J</key>
+		<integer>-154</integer>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>X</key>
+		<integer>-154</integer>
+		<key>Y</key>
+		<integer>-88</integer>
+		<key>Yacute</key>
+		<integer>-88</integer>
+		<key>Ydieresis</key>
+		<integer>-88</integer>
+		<key>Z</key>
 		<integer>-154</integer>
 	</dict>
 	<key>F</key>
 	<dict>
 		<key>A</key>
 		<integer>-143</integer>
+		<key>Agrave</key>
+		<integer>-143</integer>
+		<key>Aacute</key>
+		<integer>-143</integer>
+		<key>Acircumflex</key>
+		<integer>-143</integer>
+		<key>Atilde</key>
+		<integer>-143</integer>
+		<key>Adieresis</key>
+		<integer>-143</integer>
+		<key>Aring</key>
+		<integer>-143</integer>
 		<key>J</key>
 		<integer>-154</integer>
 		<key>Y</key>
+		<integer>-154</integer>
+		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ydieresis</key>
 		<integer>-154</integer>
 	</dict>
   <key>L</key>
@@ -47,6 +236,10 @@
     <integer>-88</integer>
     <key>Y</key>
     <integer>-341</integer>
+    <key>Yacute</key>
+    <integer>-341</integer>
+    <key>Ydieresis</key>
+    <integer>-341</integer>
 		<key>quotedbl</key>
 		<integer>-154</integer>
 		<key>quotesingle</key>
@@ -54,10 +247,51 @@
   </dict>
 	<key>T</key>
 	<dict>
+		<key>AE</key>
+		<integer>-143</integer>
 		<key>A</key>
+		<integer>-143</integer>
+		<key>Agrave</key>
+		<integer>-143</integer>
+		<key>Aacute</key>
+		<integer>-143</integer>
+		<key>Acircumflex</key>
+		<integer>-143</integer>
+		<key>Atilde</key>
+		<integer>-143</integer>
+		<key>Adieresis</key>
+		<integer>-143</integer>
+		<key>Aring</key>
 		<integer>-143</integer>
 		<key>J</key>
 		<integer>-341</integer>
+	</dict>
+	<key>Thorn</key>
+	<dict>
+		<key>I</key>
+		<integer>-110</integer>
+		<key>Igrave</key>
+		<integer>-110</integer>
+		<key>Iacute</key>
+		<integer>-110</integer>
+		<key>Icircumflex</key>
+		<integer>-110</integer>
+		<key>Idieresis</key>
+		<integer>-110</integer>
+		<key>J</key>
+		<integer>-110</integer>
+		<key>T</key>
+		<integer>-110</integer>
+		<key>X</key>
+		<integer>-187</integer>
+		<key>Y</key>
+		<integer>-121</integer>
+		<key>Yacute</key>
+		<integer>-121</integer>
+		<key>Ydieresis</key>
+		<integer>-121</integer>
+		<key>Z</key>
+		<integer>-110</integer>
 	</dict>
 	<key>V</key>
 	<dict>
@@ -66,7 +300,63 @@
 	</dict>
 	<key>Y</key>
 	<dict>
+		<key>AE</key>
+		<integer>-132</integer>
 		<key>A</key>
+		<integer>-132</integer>
+		<key>Agrave</key>
+		<integer>-132</integer>
+		<key>Aacute</key>
+		<integer>-132</integer>
+		<key>Acircumflex</key>
+		<integer>-132</integer>
+		<key>Atilde</key>
+		<integer>-132</integer>
+		<key>Adieresis</key>
+		<integer>-132</integer>
+		<key>Aring</key>
+		<integer>-132</integer>
+		<key>J</key>
+    <integer>-341</integer>
+	</dict>
+	<key>Yacute</key>
+	<dict>
+		<key>AE</key>
+		<integer>-132</integer>
+		<key>A</key>
+		<integer>-132</integer>
+		<key>Agrave</key>
+		<integer>-132</integer>
+		<key>Aacute</key>
+		<integer>-132</integer>
+		<key>Acircumflex</key>
+		<integer>-132</integer>
+		<key>Atilde</key>
+		<integer>-132</integer>
+		<key>Adieresis</key>
+		<integer>-132</integer>
+		<key>Aring</key>
+		<integer>-132</integer>
+		<key>J</key>
+    <integer>-341</integer>
+	</dict>
+	<key>Ydieresis</key>
+	<dict>
+		<key>AE</key>
+		<integer>-132</integer>
+		<key>A</key>
+		<integer>-132</integer>
+		<key>Agrave</key>
+		<integer>-132</integer>
+		<key>Aacute</key>
+		<integer>-132</integer>
+		<key>Acircumflex</key>
+		<integer>-132</integer>
+		<key>Atilde</key>
+		<integer>-132</integer>
+		<key>Adieresis</key>
+		<integer>-132</integer>
+		<key>Aring</key>
 		<integer>-132</integer>
 		<key>J</key>
     <integer>-341</integer>

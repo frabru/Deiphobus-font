@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="2">
+  <advance width="1408"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <contour>
+      <point x="176" y="1210" type="line"/>
+      <point x="374" y="1408" type="line"/>
+      <point x="506" y="1408" type="line"/>
+      <point x="506" y="704" type="line"/>
+      <point x="242" y="704" type="line"/>
+      <point x="242" y="1144" type="line"/>
+    </contour>
+		<contour>
+      <point x="176" y="363" type="line"/>
+      <point x="1045" y="1232" type="line"/>
+      <point x="1232" y="1045" type="line"/>
+      <point x="363" y="176" type="line"/>
+    </contour>
+		<contour>
+			<!-- M64 0v16l24 24l-6 6v18h16l14 -14v-20l-6 -6h6v-24z -->
+      <point x="704" y="0" type="line"/>
+      <point x="704" y="176" type="line"/>
+      <point x="968" y="440" type="line"/>
+      <point x="902" y="506" type="line"/>
+      <point x="902" y="704" type="line"/>
+      <point x="1078" y="704" type="line"/>
+      <point x="1232" y="550" type="line"/>
+      <point x="1232" y="330" type="line"/>
+      <point x="1166" y="264" type="line"/>
+      <point x="1232" y="264" type="line"/>
+      <point x="1232" y="0" type="line"/>
+		</contour>
+  </outline>
+</glyph>

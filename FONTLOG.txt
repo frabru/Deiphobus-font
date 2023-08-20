@@ -7,10 +7,13 @@ Basic Font Information
 
 Deiphobus is an all caps geometric display typeface with bold blocky shapes. The initial design is for Latin script but can easily be extended to cover Greek and Cyrillic scripts.
 
-This release supports the Unicode block Basic Latin / the US-ASCII character set.
+This release supports the Unicode blocks Basic Latin and Latin-1 Supplement / the Latin-1 character set.
 
 
 ChangeLog
+
+ 2023-08-20 (Frank Bruder)  Deiphobus Version 1.1
+- Latin-1 Supplement glyphs and some related glyphs
 
  2023-08-13 (Frank Bruder)  Deiphobus Version 1.0
 - Initial release
