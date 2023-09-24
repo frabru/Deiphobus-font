@@ -1,0 +1,41 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn TRK;
+languagesystem latn AZE;
+languagesystem latn CRT;
+
+feature locl {
+	script latn;
+	language TRK;
+	lookup idot {
+		sub i by Idotaccent;
+	} idot;
+	language AZE;
+	lookup idot;
+	language CRT;
+	lookup idot;
+} locl;
+
+feature abvm {
+	markClass [acutecomb brevecmb caroncmb circumflexcmb dotaccentcmb gravecomb hungarumlautcmb macroncmb ringcmb tildecomb uni0308] <anchor 704 1408> @TOP_MARKS;
+	pos base [Acyrillic A Aogonek Becyrillic B Ccedilla C Checyrillic Dzecyrillic Dzhecyrillic Ecyrillic Encyrillic Ercyrillic Ereversedcyrillic Escyrillic Eth F Gecyrillic Gheupturncyrillic gravecomb Hbar H IAcyrillic Icyrillic I Iogonek Iicyrillic Kacyrillic K Khacyrillic N Ncedilla Eng Ocyrillic O Oslash Pecyrillic P Q R Rcedilla Scedilla S Tcedilla Tecyrillic T Tbar Ucyrillic U Uogonek Vecyrillic V X Y Zecyrillic Z] <anchor 704 1408> mark @TOP_MARKS;
+	pos base [AE Efcyrillic Emcyrillic IUcyrillic M Shacyrillic W Yericyrillic Zhecyrillic] <anchor 880 1408> mark @TOP_MARKS;
+	pos base [D Dslash] <anchor 495 1408> mark @TOP_MARKS;
+	pos base [Decyrillic] <anchor 968 1408> mark @TOP_MARKS;
+	pos base [Hardsigncyrillic] <anchor 495 1408> mark @TOP_MARKS;
+	pos base [Djecyrillic Tshecyrillic] <anchor 605 1408> mark @TOP_MARKS;
+	pos base [E Eogonek Iecyrillic] <anchor 627 1408> mark @TOP_MARKS;
+	pos base [Elcyrillic] <anchor 792 1408> mark @TOP_MARKS;
+	pos base [G Gcedilla] <anchor 682 1408> mark @TOP_MARKS;
+	pos base [J] <anchor 858 1408> mark @TOP_MARKS;
+	pos base [Jecyrillic] <anchor 1045 1408> mark @TOP_MARKS;
+	pos base [L Lslash Lcaron Lcedilla] <anchor 550 1408> mark @TOP_MARKS;
+	pos base [Ljecyrillic] <anchor 671 1408> mark @TOP_MARKS;
+	pos base [Tsecyrillic] <anchor 671 1408> mark @TOP_MARKS;
+	pos base [Njecyrillic] <anchor 627 1408> mark @TOP_MARKS;
+	pos base [OE] <anchor 957 1408> mark @TOP_MARKS;
+	pos base [Shchacyrillic] <anchor 847 1408> mark @TOP_MARKS;
+	pos base [Softsigncyrillic] <anchor 594 1408> mark @TOP_MARKS;
+	pos base [Thorn] <anchor 33 1408> mark @TOP_MARKS;
+	pos base [uni1E9E] <anchor 616 1408> mark @TOP_MARKS;
+} abvm;

@@ -5,12 +5,35 @@ This file provides detailed information on the Deiphobus Font Software. This inf
 
 Basic Font Information
 
-Deiphobus is an all caps geometric display typeface with bold blocky shapes. The initial design is for Latin script but can easily be extended to cover Greek and Cyrillic scripts.
+Deiphobus is an all caps geometric display typeface with bold blocky shapes. The initial design was for Latin script and has since been extended to Cyrillic script. It can easily be extended to cover Greek script and others.
 
-This release supports the Unicode blocks Basic Latin and Latin-1 Supplement / the Latin-1 character set.
+This release supports:
+
+- the Unicode blocks
+  * Basic Latin,
+  * Latin-1 Supplement, and
+  * Latin Extended-A;
+- parts of the Unicode block Cyrillic sufficient to cover the character sets:
+  * ISO 8859-5 and
+  * Windows-1251
+- as well as the letters (but not all of the special characters) of the
+  * KOI8-R and
+  * KOI8-U character sets;
+- and various punctuation marks and letterlike symbols to cover the
+  * Windows-1252 and
+  * Windows-1251 character sets;
+- as well as modifying and combining characters that are used as components for glyphs.
 
 
 ChangeLog
+
+ 2023-09-24 (Frank Bruder)  Deiphobus Version 1.2
+- Latin Extended-A glyphs and some related glyphs
+- Cyrillic characters U+0400 to U+045F and ghe with upturn
+- various punctuation marks and letterlike symbols (CP-1251 and CP-1252 character sets)
+- four arrow characters
+- locale-sensitive substitution of 'i' with dotless or dotted 'I'
+- mark-to-base attachment positioning rules for top marks
 
  2023-08-20 (Frank Bruder)  Deiphobus Version 1.1
 - Latin-1 Supplement glyphs and some related glyphs

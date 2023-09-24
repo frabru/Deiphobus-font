@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ushortcyrillic" format="2">
+  <advance width="1408"/>
+  <unicode hex="040E"/>
+  <unicode hex="045E"/>
+  <outline>
+		<component base="Ucyrillic"/>
+		<component base="brevecmb"/>
+  </outline>
+</glyph>

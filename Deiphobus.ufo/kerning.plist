@@ -7,9 +7,17 @@
 	<dict>
 		<key>T</key>
 		<integer>-143</integer>
+		<key>Tbar</key>
+		<integer>-143</integer>
+		<key>Tcaron</key>
+		<integer>-143</integer>
+		<key>Tcedilla</key>
+		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
 		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ycircumflex</key>
 		<integer>-132</integer>
 		<key>Ydieresis</key>
 		<integer>-132</integer>
@@ -18,9 +26,17 @@
 	<dict>
 		<key>T</key>
 		<integer>-143</integer>
+		<key>Tbar</key>
+		<integer>-143</integer>
+		<key>Tcaron</key>
+		<integer>-143</integer>
+		<key>Tcedilla</key>
+		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
 		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ycircumflex</key>
 		<integer>-132</integer>
 		<key>Ydieresis</key>
 		<integer>-132</integer>
@@ -29,9 +45,17 @@
 	<dict>
 		<key>T</key>
 		<integer>-143</integer>
+		<key>Tbar</key>
+		<integer>-143</integer>
+		<key>Tcaron</key>
+		<integer>-143</integer>
+		<key>Tcedilla</key>
+		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
 		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ycircumflex</key>
 		<integer>-132</integer>
 		<key>Ydieresis</key>
 		<integer>-132</integer>
@@ -40,9 +64,36 @@
 	<dict>
 		<key>T</key>
 		<integer>-143</integer>
+		<key>Tbar</key>
+		<integer>-143</integer>
+		<key>Tcaron</key>
+		<integer>-143</integer>
+		<key>Tcedilla</key>
+		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
 		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ycircumflex</key>
+		<integer>-132</integer>
+		<key>Ydieresis</key>
+		<integer>-132</integer>
+	</dict>
+	<key>Amacron</key>
+	<dict>
+		<key>T</key>
+		<integer>-143</integer>
+		<key>Tbar</key>
+		<integer>-143</integer>
+		<key>Tcaron</key>
+		<integer>-143</integer>
+		<key>Tcedilla</key>
+		<integer>-143</integer>
+		<key>Y</key>
+		<integer>-132</integer>
+		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ycircumflex</key>
 		<integer>-132</integer>
 		<key>Ydieresis</key>
 		<integer>-132</integer>
@@ -51,9 +102,17 @@
 	<dict>
 		<key>T</key>
 		<integer>-143</integer>
+		<key>Tbar</key>
+		<integer>-143</integer>
+		<key>Tcaron</key>
+		<integer>-143</integer>
+		<key>Tcedilla</key>
+		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
 		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ycircumflex</key>
 		<integer>-132</integer>
 		<key>Ydieresis</key>
 		<integer>-132</integer>
@@ -62,9 +121,36 @@
 	<dict>
 		<key>T</key>
 		<integer>-143</integer>
+		<key>Tbar</key>
+		<integer>-143</integer>
+		<key>Tcaron</key>
+		<integer>-143</integer>
+		<key>Tcedilla</key>
+		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
 		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ycircumflex</key>
+		<integer>-132</integer>
+		<key>Ydieresis</key>
+		<integer>-132</integer>
+	</dict>
+	<key>Aogonek</key>
+	<dict>
+		<key>T</key>
+		<integer>-143</integer>
+		<key>Tbar</key>
+		<integer>-143</integer>
+		<key>Tcaron</key>
+		<integer>-143</integer>
+		<key>Tcedilla</key>
+		<integer>-143</integer>
+		<key>Y</key>
+		<integer>-132</integer>
+		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ycircumflex</key>
 		<integer>-132</integer>
 		<key>Ydieresis</key>
 		<integer>-132</integer>
@@ -73,9 +159,36 @@
 	<dict>
 		<key>T</key>
 		<integer>-143</integer>
+		<key>Tbar</key>
+		<integer>-143</integer>
+		<key>Tcaron</key>
+		<integer>-143</integer>
+		<key>Tcedilla</key>
+		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
 		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ycircumflex</key>
+		<integer>-132</integer>
+		<key>Ydieresis</key>
+		<integer>-132</integer>
+	</dict>
+	<key>Abreve</key>
+	<dict>
+		<key>T</key>
+		<integer>-143</integer>
+		<key>Tbar</key>
+		<integer>-143</integer>
+		<key>Tcaron</key>
+		<integer>-143</integer>
+		<key>Tcedilla</key>
+		<integer>-143</integer>
+		<key>Y</key>
+		<integer>-132</integer>
+		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ycircumflex</key>
 		<integer>-132</integer>
 		<key>Ydieresis</key>
 		<integer>-132</integer>
@@ -84,16 +197,70 @@
 	<dict>
 		<key>T</key>
 		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
+		<integer>-154</integer>
 		<key>Y</key>
 		<integer>-176</integer>
 		<key>Yacute</key>
+		<integer>-176</integer>
+		<key>Ycircumflex</key>
+		<integer>-176</integer>
+		<key>Ydieresis</key>
+		<integer>-176</integer>
+	</dict>
+	<key>Dcaron</key>
+	<dict>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
+		<integer>-154</integer>
+		<key>Y</key>
+		<integer>-176</integer>
+		<key>Yacute</key>
+		<integer>-176</integer>
+		<key>Ycircumflex</key>
+		<integer>-176</integer>
+		<key>Ydieresis</key>
+		<integer>-176</integer>
+	</dict>
+	<key>Dslash</key>
+	<dict>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
+		<integer>-154</integer>
+		<key>Y</key>
+		<integer>-176</integer>
+		<key>Yacute</key>
+		<integer>-176</integer>
+		<key>Ycircumflex</key>
 		<integer>-176</integer>
 		<key>Ydieresis</key>
 		<integer>-176</integer>
 	</dict>
 	<key>E</key>
 	<dict>
+		<key>napostrophe</key>
+		<integer>-154</integer>
 		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
 		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
@@ -101,16 +268,36 @@
 		<integer>-154</integer>
 		<key>Yacute</key>
 		<integer>-154</integer>
+		<key>Ycircumflex</key>
+		<integer>-154</integer>
 		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>apostrophemod</key>
 		<integer>-154</integer>
 		<key>quotedbl</key>
 		<integer>-154</integer>
+		<key>quotedblleft</key>
+		<integer>-154</integer>
+		<key>quotedblright</key>
+		<integer>-154</integer>
 		<key>quotesingle</key>
+		<integer>-154</integer>
+		<key>quoteleft</key>
+		<integer>-154</integer>
+		<key>quoteright</key>
 		<integer>-154</integer>
 	</dict>
 	<key>Egrave</key>
 	<dict>
+		<key>napostrophe</key>
+		<integer>-154</integer>
 		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
 		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
@@ -118,16 +305,36 @@
 		<integer>-154</integer>
 		<key>Yacute</key>
 		<integer>-154</integer>
+		<key>Ycircumflex</key>
+		<integer>-154</integer>
 		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>apostrophemod</key>
 		<integer>-154</integer>
 		<key>quotedbl</key>
 		<integer>-154</integer>
+		<key>quotedblleft</key>
+		<integer>-154</integer>
+		<key>quotedblright</key>
+		<integer>-154</integer>
 		<key>quotesingle</key>
+		<integer>-154</integer>
+		<key>quoteleft</key>
+		<integer>-154</integer>
+		<key>quoteright</key>
 		<integer>-154</integer>
 	</dict>
 	<key>Eacute</key>
 	<dict>
+		<key>napostrophe</key>
+		<integer>-154</integer>
 		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
 		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
@@ -135,16 +342,110 @@
 		<integer>-154</integer>
 		<key>Yacute</key>
 		<integer>-154</integer>
+		<key>Ycircumflex</key>
+		<integer>-154</integer>
 		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>apostrophemod</key>
 		<integer>-154</integer>
 		<key>quotedbl</key>
 		<integer>-154</integer>
+		<key>quotedblleft</key>
+		<integer>-154</integer>
+		<key>quotedblright</key>
+		<integer>-154</integer>
 		<key>quotesingle</key>
+		<integer>-154</integer>
+		<key>quoteleft</key>
+		<integer>-154</integer>
+		<key>quoteright</key>
+		<integer>-154</integer>
+	</dict>
+	<key>Ebreve</key>
+	<dict>
+		<key>napostrophe</key>
+		<integer>-154</integer>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
+		<integer>-154</integer>
+		<key>V</key>
+		<integer>-88</integer>
+		<key>Y</key>
+		<integer>-154</integer>
+		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ycircumflex</key>
+		<integer>-154</integer>
+		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>apostrophemod</key>
+		<integer>-154</integer>
+		<key>quotedbl</key>
+		<integer>-154</integer>
+		<key>quotedblleft</key>
+		<integer>-154</integer>
+		<key>quotedblright</key>
+		<integer>-154</integer>
+		<key>quotesingle</key>
+		<integer>-154</integer>
+		<key>quoteleft</key>
+		<integer>-154</integer>
+		<key>quoteright</key>
+		<integer>-154</integer>
+	</dict>
+	<key>Ecaron</key>
+	<dict>
+		<key>napostrophe</key>
+		<integer>-154</integer>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
+		<integer>-154</integer>
+		<key>V</key>
+		<integer>-88</integer>
+		<key>Y</key>
+		<integer>-154</integer>
+		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ycircumflex</key>
+		<integer>-154</integer>
+		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>apostrophemod</key>
+		<integer>-154</integer>
+		<key>quotedbl</key>
+		<integer>-154</integer>
+		<key>quotedblleft</key>
+		<integer>-154</integer>
+		<key>quotedblright</key>
+		<integer>-154</integer>
+		<key>quotesingle</key>
+		<integer>-154</integer>
+		<key>quoteleft</key>
+		<integer>-154</integer>
+		<key>quoteright</key>
 		<integer>-154</integer>
 	</dict>
 	<key>Ecircumflex</key>
 	<dict>
+		<key>napostrophe</key>
+		<integer>-154</integer>
 		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
 		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
@@ -152,16 +453,36 @@
 		<integer>-154</integer>
 		<key>Yacute</key>
 		<integer>-154</integer>
+		<key>Ycircumflex</key>
+		<integer>-154</integer>
 		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>apostrophemod</key>
 		<integer>-154</integer>
 		<key>quotedbl</key>
 		<integer>-154</integer>
+		<key>quotedblleft</key>
+		<integer>-154</integer>
+		<key>quotedblright</key>
+		<integer>-154</integer>
 		<key>quotesingle</key>
+		<integer>-154</integer>
+		<key>quoteleft</key>
+		<integer>-154</integer>
+		<key>quoteright</key>
 		<integer>-154</integer>
 	</dict>
 	<key>Edieresis</key>
 	<dict>
+		<key>napostrophe</key>
+		<integer>-154</integer>
 		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
 		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
@@ -169,28 +490,171 @@
 		<integer>-154</integer>
 		<key>Yacute</key>
 		<integer>-154</integer>
+		<key>Ycircumflex</key>
+		<integer>-154</integer>
 		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>apostrophemod</key>
 		<integer>-154</integer>
 		<key>quotedbl</key>
 		<integer>-154</integer>
+		<key>quotedblleft</key>
+		<integer>-154</integer>
+		<key>quotedblright</key>
+		<integer>-154</integer>
 		<key>quotesingle</key>
+		<integer>-154</integer>
+		<key>quoteleft</key>
+		<integer>-154</integer>
+		<key>quoteright</key>
+		<integer>-154</integer>
+	</dict>
+	<key>Edot</key>
+	<dict>
+		<key>napostrophe</key>
+		<integer>-154</integer>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
+		<integer>-154</integer>
+		<key>V</key>
+		<integer>-88</integer>
+		<key>Y</key>
+		<integer>-154</integer>
+		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ycircumflex</key>
+		<integer>-154</integer>
+		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>apostrophemod</key>
+		<integer>-154</integer>
+		<key>quotedbl</key>
+		<integer>-154</integer>
+		<key>quotedblleft</key>
+		<integer>-154</integer>
+		<key>quotedblright</key>
+		<integer>-154</integer>
+		<key>quotesingle</key>
+		<integer>-154</integer>
+		<key>quoteleft</key>
+		<integer>-154</integer>
+		<key>quoteright</key>
+		<integer>-154</integer>
+	</dict>
+	<key>Emacron</key>
+	<dict>
+		<key>napostrophe</key>
+		<integer>-154</integer>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
+		<integer>-154</integer>
+		<key>V</key>
+		<integer>-88</integer>
+		<key>Y</key>
+		<integer>-154</integer>
+		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ycircumflex</key>
+		<integer>-154</integer>
+		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>apostrophemod</key>
+		<integer>-154</integer>
+		<key>quotedbl</key>
+		<integer>-154</integer>
+		<key>quotedblleft</key>
+		<integer>-154</integer>
+		<key>quotedblright</key>
+		<integer>-154</integer>
+		<key>quotesingle</key>
+		<integer>-154</integer>
+		<key>quoteleft</key>
+		<integer>-154</integer>
+		<key>quoteright</key>
+		<integer>-154</integer>
+	</dict>
+	<key>Eogonek</key>
+	<dict>
+		<key>napostrophe</key>
+		<integer>-154</integer>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
+		<integer>-154</integer>
+		<key>V</key>
+		<integer>-88</integer>
+		<key>Y</key>
+		<integer>-154</integer>
+		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ycircumflex</key>
+		<integer>-154</integer>
+		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>apostrophemod</key>
+		<integer>-154</integer>
+		<key>quotedbl</key>
+		<integer>-154</integer>
+		<key>quotedblleft</key>
+		<integer>-154</integer>
+		<key>quotedblright</key>
+		<integer>-154</integer>
+		<key>quotesingle</key>
+		<integer>-154</integer>
+		<key>quoteleft</key>
+		<integer>-154</integer>
+		<key>quoteright</key>
 		<integer>-154</integer>
 	</dict>
 	<key>Eth</key>
 	<dict>
 		<key>I</key>
 		<integer>-154</integer>
+		<key>i</key>
+		<integer>-154</integer>
 		<key>Igrave</key>
 		<integer>-154</integer>
 		<key>Iacute</key>
+		<integer>-154</integer>
+		<key>Ibreve</key>
 		<integer>-154</integer>
 		<key>Icircumflex</key>
 		<integer>-154</integer>
 		<key>Idieresis</key>
 		<integer>-154</integer>
+		<key>Idotaccent</key>
+		<integer>-154</integer>
+		<key>Imacron</key>
+		<integer>-154</integer>
+		<key>Iogonek</key>
+		<integer>-154</integer>
+		<key>Itilde</key>
+		<integer>-154</integer>
 		<key>J</key>
 		<integer>-154</integer>
+		<key>Jcircumflex</key>
+		<integer>-154</integer>
 		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
 		<integer>-154</integer>
 		<key>X</key>
 		<integer>-154</integer>
@@ -198,9 +662,17 @@
 		<integer>-88</integer>
 		<key>Yacute</key>
 		<integer>-88</integer>
+		<key>Ycircumflex</key>
+		<integer>-88</integer>
 		<key>Ydieresis</key>
 		<integer>-88</integer>
 		<key>Z</key>
+		<integer>-154</integer>
+		<key>Zacute</key>
+		<integer>-154</integer>
+		<key>Zcaron</key>
+		<integer>-154</integer>
+		<key>Zdot</key>
 		<integer>-154</integer>
 	</dict>
 	<key>F</key>
@@ -213,24 +685,77 @@
 		<integer>-143</integer>
 		<key>Acircumflex</key>
 		<integer>-143</integer>
+		<key>Amacron</key>
+		<integer>-143</integer>
 		<key>Atilde</key>
 		<integer>-143</integer>
 		<key>Adieresis</key>
 		<integer>-143</integer>
+		<key>Aogonek</key>
+		<integer>-143</integer>
 		<key>Aring</key>
 		<integer>-143</integer>
+		<key>Abreve</key>
+		<integer>-143</integer>
 		<key>J</key>
+		<integer>-154</integer>
+		<key>Jcircumflex</key>
 		<integer>-154</integer>
 		<key>Y</key>
 		<integer>-154</integer>
 		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ycircumflex</key>
+		<integer>-154</integer>
+		<key>Ydieresis</key>
+		<integer>-154</integer>
+	</dict>
+	<key>Fhook</key>
+	<dict>
+		<key>A</key>
+		<integer>-143</integer>
+		<key>Agrave</key>
+		<integer>-143</integer>
+		<key>Aacute</key>
+		<integer>-143</integer>
+		<key>Acircumflex</key>
+		<integer>-143</integer>
+		<key>Amacron</key>
+		<integer>-143</integer>
+		<key>Atilde</key>
+		<integer>-143</integer>
+		<key>Adieresis</key>
+		<integer>-143</integer>
+		<key>Aogonek</key>
+		<integer>-143</integer>
+		<key>Aring</key>
+		<integer>-143</integer>
+		<key>Abreve</key>
+		<integer>-143</integer>
+		<key>J</key>
+		<integer>-154</integer>
+		<key>Jcircumflex</key>
+		<integer>-154</integer>
+		<key>Y</key>
+		<integer>-154</integer>
+		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ycircumflex</key>
 		<integer>-154</integer>
 		<key>Ydieresis</key>
 		<integer>-154</integer>
 	</dict>
   <key>L</key>
   <dict>
+		<key>napostrophe</key>
+		<integer>-341</integer>
     <key>T</key>
+    <integer>-341</integer>
+    <key>Tbar</key>
+    <integer>-341</integer>
+    <key>Tcaron</key>
+    <integer>-341</integer>
+    <key>Tcedilla</key>
     <integer>-341</integer>
     <key>V</key>
     <integer>-88</integer>
@@ -238,13 +763,239 @@
     <integer>-341</integer>
     <key>Yacute</key>
     <integer>-341</integer>
+    <key>Ycircumflex</key>
+    <integer>-341</integer>
     <key>Ydieresis</key>
     <integer>-341</integer>
+		<key>apostrophemod</key>
+		<integer>-341</integer>
 		<key>quotedbl</key>
-		<integer>-154</integer>
+		<integer>-352</integer>
+		<key>quotedblleft</key>
+		<integer>-352</integer>
+		<key>quotedblright</key>
+		<integer>-352</integer>
 		<key>quotesingle</key>
 		<integer>-341</integer>
+		<key>quoteleft</key>
+		<integer>-341</integer>
+		<key>quoteright</key>
+		<integer>-341</integer>
   </dict>
+  <key>Lacute</key>
+  <dict>
+		<key>napostrophe</key>
+		<integer>-341</integer>
+    <key>T</key>
+    <integer>-341</integer>
+    <key>Tbar</key>
+    <integer>-341</integer>
+    <key>Tcaron</key>
+    <integer>-341</integer>
+    <key>Tcedilla</key>
+    <integer>-341</integer>
+    <key>V</key>
+    <integer>-88</integer>
+    <key>Y</key>
+    <integer>-341</integer>
+    <key>Yacute</key>
+    <integer>-341</integer>
+    <key>Ycircumflex</key>
+    <integer>-341</integer>
+    <key>Ydieresis</key>
+    <integer>-341</integer>
+		<key>apostrophemod</key>
+		<integer>-341</integer>
+		<key>quotedbl</key>
+		<integer>-352</integer>
+		<key>quotedblleft</key>
+		<integer>-352</integer>
+		<key>quotedblright</key>
+		<integer>-352</integer>
+		<key>quotesingle</key>
+		<integer>-341</integer>
+		<key>quoteleft</key>
+		<integer>-341</integer>
+		<key>quoteright</key>
+		<integer>-341</integer>
+  </dict>
+  <key>Lcedilla</key>
+  <dict>
+		<key>napostrophe</key>
+		<integer>-341</integer>
+    <key>T</key>
+    <integer>-341</integer>
+    <key>Tbar</key>
+    <integer>-341</integer>
+    <key>Tcaron</key>
+    <integer>-341</integer>
+    <key>Tcedilla</key>
+    <integer>-341</integer>
+    <key>V</key>
+    <integer>-88</integer>
+    <key>Y</key>
+    <integer>-341</integer>
+    <key>Yacute</key>
+    <integer>-341</integer>
+    <key>Ycircumflex</key>
+    <integer>-341</integer>
+    <key>Ydieresis</key>
+    <integer>-341</integer>
+		<key>apostrophemod</key>
+		<integer>-341</integer>
+		<key>quotedbl</key>
+		<integer>-352</integer>
+		<key>quotedblleft</key>
+		<integer>-352</integer>
+		<key>quotedblright</key>
+		<integer>-352</integer>
+		<key>quotesingle</key>
+		<integer>-341</integer>
+		<key>quoteleft</key>
+		<integer>-341</integer>
+		<key>quoteright</key>
+		<integer>-341</integer>
+  </dict>
+  <key>Ldot</key>
+  <dict>
+		<key>napostrophe</key>
+		<integer>-341</integer>
+    <key>T</key>
+    <integer>-341</integer>
+    <key>Tbar</key>
+    <integer>-341</integer>
+    <key>Tcaron</key>
+    <integer>-341</integer>
+    <key>Tcedilla</key>
+    <integer>-341</integer>
+    <key>V</key>
+    <integer>-88</integer>
+    <key>Y</key>
+    <integer>-341</integer>
+    <key>Yacute</key>
+    <integer>-341</integer>
+    <key>Ycircumflex</key>
+    <integer>-341</integer>
+    <key>Ydieresis</key>
+    <integer>-341</integer>
+		<key>apostrophemod</key>
+		<integer>-341</integer>
+		<key>quotedbl</key>
+		<integer>-352</integer>
+		<key>quotedblleft</key>
+		<integer>-352</integer>
+		<key>quotedblright</key>
+		<integer>-352</integer>
+		<key>quotesingle</key>
+		<integer>-341</integer>
+		<key>quoteleft</key>
+		<integer>-341</integer>
+		<key>quoteright</key>
+		<integer>-341</integer>
+  </dict>
+  <key>Lslash</key>
+  <dict>
+		<key>napostrophe</key>
+		<integer>-341</integer>
+    <key>T</key>
+    <integer>-341</integer>
+    <key>Tbar</key>
+    <integer>-341</integer>
+    <key>Tcaron</key>
+    <integer>-341</integer>
+    <key>Tcedilla</key>
+    <integer>-341</integer>
+    <key>V</key>
+    <integer>-88</integer>
+    <key>Y</key>
+    <integer>-341</integer>
+    <key>Yacute</key>
+    <integer>-341</integer>
+    <key>Ycircumflex</key>
+    <integer>-341</integer>
+    <key>Ydieresis</key>
+    <integer>-341</integer>
+		<key>apostrophemod</key>
+		<integer>-341</integer>
+		<key>quotedbl</key>
+		<integer>-352</integer>
+		<key>quotedblleft</key>
+		<integer>-352</integer>
+		<key>quotedblright</key>
+		<integer>-352</integer>
+		<key>quotesingle</key>
+		<integer>-341</integer>
+		<key>quoteleft</key>
+		<integer>-341</integer>
+		<key>quoteright</key>
+		<integer>-341</integer>
+  </dict>
+  <key>Lcaron</key>
+  <dict>
+		<key>napostrophe</key>
+		<integer>-187</integer>
+    <key>T</key>
+    <integer>-198</integer>
+    <key>Tbar</key>
+    <integer>-198</integer>
+    <key>Tcaron</key>
+    <integer>-198</integer>
+    <key>Tcedilla</key>
+    <integer>-198</integer>
+    <key>V</key>
+    <integer>-88</integer>
+    <key>Y</key>
+    <integer>-198</integer>
+    <key>Yacute</key>
+    <integer>-198</integer>
+    <key>Ycircumflex</key>
+    <integer>-198</integer>
+    <key>Ydieresis</key>
+    <integer>-198</integer>
+		<key>apostrophemod</key>
+		<integer>-187</integer>
+		<key>quotedbl</key>
+		<integer>-198</integer>
+		<key>quotedblleft</key>
+		<integer>-198</integer>
+		<key>quotedblright</key>
+		<integer>-198</integer>
+		<key>quotesingle</key>
+		<integer>-187</integer>
+		<key>quoteleft</key>
+		<integer>-187</integer>
+		<key>quoteright</key>
+		<integer>-187</integer>
+  </dict>
+	<key>longs</key>
+	<dict>
+		<key>AE</key>
+		<integer>-143</integer>
+		<key>A</key>
+		<integer>-143</integer>
+		<key>Agrave</key>
+		<integer>-143</integer>
+		<key>Aacute</key>
+		<integer>-143</integer>
+		<key>Acircumflex</key>
+		<integer>-143</integer>
+		<key>Amacron</key>
+		<integer>-143</integer>
+		<key>Atilde</key>
+		<integer>-143</integer>
+		<key>Adieresis</key>
+		<integer>-143</integer>
+		<key>Aogonek</key>
+		<integer>-143</integer>
+		<key>Aring</key>
+		<integer>-143</integer>
+		<key>Abreve</key>
+		<integer>-143</integer>
+		<key>J</key>
+		<integer>-330</integer>
+		<key>Jcircumflex</key>
+		<integer>-330</integer>
+	</dict>
 	<key>T</key>
 	<dict>
 		<key>AE</key>
@@ -257,30 +1008,145 @@
 		<integer>-143</integer>
 		<key>Acircumflex</key>
 		<integer>-143</integer>
+		<key>Amacron</key>
+		<integer>-143</integer>
 		<key>Atilde</key>
 		<integer>-143</integer>
 		<key>Adieresis</key>
 		<integer>-143</integer>
+		<key>Aogonek</key>
+		<integer>-143</integer>
 		<key>Aring</key>
 		<integer>-143</integer>
+		<key>Abreve</key>
+		<integer>-143</integer>
 		<key>J</key>
+		<integer>-341</integer>
+		<key>Jcircumflex</key>
+		<integer>-341</integer>
+	</dict>
+	<key>Tbar</key>
+	<dict>
+		<key>AE</key>
+		<integer>-143</integer>
+		<key>A</key>
+		<integer>-143</integer>
+		<key>Agrave</key>
+		<integer>-143</integer>
+		<key>Aacute</key>
+		<integer>-143</integer>
+		<key>Acircumflex</key>
+		<integer>-143</integer>
+		<key>Amacron</key>
+		<integer>-143</integer>
+		<key>Atilde</key>
+		<integer>-143</integer>
+		<key>Adieresis</key>
+		<integer>-143</integer>
+		<key>Aogonek</key>
+		<integer>-143</integer>
+		<key>Aring</key>
+		<integer>-143</integer>
+		<key>Abreve</key>
+		<integer>-143</integer>
+		<key>J</key>
+		<integer>-341</integer>
+		<key>Jcircumflex</key>
+		<integer>-341</integer>
+	</dict>
+	<key>Tcaron</key>
+	<dict>
+		<key>AE</key>
+		<integer>-143</integer>
+		<key>A</key>
+		<integer>-143</integer>
+		<key>Agrave</key>
+		<integer>-143</integer>
+		<key>Aacute</key>
+		<integer>-143</integer>
+		<key>Acircumflex</key>
+		<integer>-143</integer>
+		<key>Amacron</key>
+		<integer>-143</integer>
+		<key>Atilde</key>
+		<integer>-143</integer>
+		<key>Adieresis</key>
+		<integer>-143</integer>
+		<key>Aogonek</key>
+		<integer>-143</integer>
+		<key>Aring</key>
+		<integer>-143</integer>
+		<key>Abreve</key>
+		<integer>-143</integer>
+		<key>J</key>
+		<integer>-341</integer>
+		<key>Jcircumflex</key>
+		<integer>-341</integer>
+	</dict>
+	<key>Tcedilla</key>
+	<dict>
+		<key>AE</key>
+		<integer>-143</integer>
+		<key>A</key>
+		<integer>-143</integer>
+		<key>Agrave</key>
+		<integer>-143</integer>
+		<key>Aacute</key>
+		<integer>-143</integer>
+		<key>Acircumflex</key>
+		<integer>-143</integer>
+		<key>Amacron</key>
+		<integer>-143</integer>
+		<key>Atilde</key>
+		<integer>-143</integer>
+		<key>Adieresis</key>
+		<integer>-143</integer>
+		<key>Aogonek</key>
+		<integer>-143</integer>
+		<key>Aring</key>
+		<integer>-143</integer>
+		<key>Abreve</key>
+		<integer>-143</integer>
+		<key>J</key>
+		<integer>-341</integer>
+		<key>Jcircumflex</key>
 		<integer>-341</integer>
 	</dict>
 	<key>Thorn</key>
 	<dict>
 		<key>I</key>
 		<integer>-110</integer>
+		<key>i</key>
+		<integer>-110</integer>
 		<key>Igrave</key>
 		<integer>-110</integer>
 		<key>Iacute</key>
+		<integer>-110</integer>
+		<key>Ibreve</key>
 		<integer>-110</integer>
 		<key>Icircumflex</key>
 		<integer>-110</integer>
 		<key>Idieresis</key>
 		<integer>-110</integer>
+		<key>Idotaccent</key>
+		<integer>-110</integer>
+		<key>Imacron</key>
+		<integer>-110</integer>
+		<key>Iogonek</key>
+		<integer>-110</integer>
+		<key>Itilde</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-110</integer>
+		<key>Jcircumflex</key>
+		<integer>-110</integer>
 		<key>T</key>
+		<integer>-110</integer>
+		<key>Tbar</key>
+		<integer>-110</integer>
+		<key>Tcaron</key>
+		<integer>-110</integer>
+		<key>Tcedilla</key>
 		<integer>-110</integer>
 		<key>X</key>
 		<integer>-187</integer>
@@ -288,14 +1154,24 @@
 		<integer>-121</integer>
 		<key>Yacute</key>
 		<integer>-121</integer>
+		<key>Ycircumflex</key>
+		<integer>-121</integer>
 		<key>Ydieresis</key>
 		<integer>-121</integer>
 		<key>Z</key>
+		<integer>-110</integer>
+		<key>Zacute</key>
+		<integer>-110</integer>
+		<key>Zcaron</key>
+		<integer>-110</integer>
+		<key>Zdot</key>
 		<integer>-110</integer>
 	</dict>
 	<key>V</key>
 	<dict>
 		<key>J</key>
+		<integer>-132</integer>
+		<key>Jcircumflex</key>
 		<integer>-132</integer>
 	</dict>
 	<key>Y</key>
@@ -310,13 +1186,21 @@
 		<integer>-132</integer>
 		<key>Acircumflex</key>
 		<integer>-132</integer>
+		<key>Amacron</key>
+		<integer>-132</integer>
 		<key>Atilde</key>
 		<integer>-132</integer>
 		<key>Adieresis</key>
 		<integer>-132</integer>
+		<key>Aogonek</key>
+		<integer>-132</integer>
 		<key>Aring</key>
 		<integer>-132</integer>
+		<key>Abreve</key>
+		<integer>-132</integer>
 		<key>J</key>
+    <integer>-341</integer>
+		<key>Jcircumflex</key>
     <integer>-341</integer>
 	</dict>
 	<key>Yacute</key>
@@ -331,13 +1215,50 @@
 		<integer>-132</integer>
 		<key>Acircumflex</key>
 		<integer>-132</integer>
+		<key>Amacron</key>
+		<integer>-132</integer>
 		<key>Atilde</key>
 		<integer>-132</integer>
 		<key>Adieresis</key>
 		<integer>-132</integer>
+		<key>Aogonek</key>
+		<integer>-132</integer>
 		<key>Aring</key>
 		<integer>-132</integer>
+		<key>Abreve</key>
+		<integer>-132</integer>
 		<key>J</key>
+    <integer>-341</integer>
+		<key>Jcircumflex</key>
+    <integer>-341</integer>
+	</dict>
+	<key>Ycircumflex</key>
+	<dict>
+		<key>AE</key>
+		<integer>-132</integer>
+		<key>A</key>
+		<integer>-132</integer>
+		<key>Agrave</key>
+		<integer>-132</integer>
+		<key>Aacute</key>
+		<integer>-132</integer>
+		<key>Acircumflex</key>
+		<integer>-132</integer>
+		<key>Amacron</key>
+		<integer>-132</integer>
+		<key>Atilde</key>
+		<integer>-132</integer>
+		<key>Adieresis</key>
+		<integer>-132</integer>
+		<key>Aogonek</key>
+		<integer>-132</integer>
+		<key>Aring</key>
+		<integer>-132</integer>
+		<key>Abreve</key>
+		<integer>-132</integer>
+		<key>J</key>
+    <integer>-341</integer>
+		<key>Jcircumflex</key>
     <integer>-341</integer>
 	</dict>
 	<key>Ydieresis</key>
@@ -352,33 +1273,354 @@
 		<integer>-132</integer>
 		<key>Acircumflex</key>
 		<integer>-132</integer>
+		<key>Amacron</key>
+		<integer>-132</integer>
 		<key>Atilde</key>
 		<integer>-132</integer>
 		<key>Adieresis</key>
 		<integer>-132</integer>
+		<key>Aogonek</key>
+		<integer>-132</integer>
 		<key>Aring</key>
+		<integer>-132</integer>
+		<key>Abreve</key>
 		<integer>-132</integer>
 		<key>J</key>
     <integer>-341</integer>
+		<key>Jcircumflex</key>
+    <integer>-341</integer>
+	</dict>
+	<key>Acyrillic</key>
+	<dict>
+		<key>Djecyrillic</key>
+		<integer>-143</integer>
+		<key>Tshecyrillic</key>
+		<integer>-143</integer>
+		<key>Tecyrillic</key>
+		<integer>-143</integer>
+		<key>Hardsigncyrillic</key>
+		<integer>-132</integer>
+	</dict>
+	<key>Becyrillic</key>
+	<dict>
+		<key>Djecyrillic</key>
+		<integer>-110</integer>
+		<key>Tshecyrillic</key>
+		<integer>-110</integer>
+		<key>Tecyrillic</key>
+		<integer>-110</integer>
+		<key>Hardsigncyrillic</key>
+		<integer>-110</integer>
+		<key>apostrophemod</key>
+		<integer>-99</integer>
+		<key>quotedbl</key>
+		<integer>-110</integer>
+		<key>quotedblleft</key>
+		<integer>-110</integer>
+		<key>quotedblright</key>
+		<integer>-110</integer>
+		<key>quoteleft</key>
+		<integer>-99</integer>
+		<key>quoteright</key>
+		<integer>-99</integer>
+		<key>quotesingle</key>
+		<integer>-99</integer>
+	</dict>
+	<key>Gecyrillic</key>
+	<dict>
+		<key>Acyrillic</key>
+		<integer>-77</integer>
+		<key>Decyrillic</key>
+		<integer>-286</integer>
+		<key>Elcyrillic</key>
+		<integer>-176</integer>
+		<key>Ljecyrillic</key>
+		<integer>-66</integer>
+		<key>IAcyrillic</key>
+		<integer>-66</integer>
+		<key>Jecyrillic</key>
+		<integer>-341</integer>
+	</dict>
+	<key>Gjecyrillic</key>
+	<dict>
+		<key>Acyrillic</key>
+		<integer>-77</integer>
+		<key>Decyrillic</key>
+		<integer>-286</integer>
+		<key>Elcyrillic</key>
+		<integer>-176</integer>
+		<key>Ljecyrillic</key>
+		<integer>-66</integer>
+		<key>IAcyrillic</key>
+		<integer>-66</integer>
+		<key>Jecyrillic</key>
+		<integer>-341</integer>
+	</dict>
+	<key>Gheupturncyrillic</key>
+	<dict>
+		<key>Acyrillic</key>
+		<integer>-143</integer>
+		<key>Decyrillic</key>
+		<integer>-352</integer>
+		<key>Elcyrillic</key>
+		<integer>-176</integer>
+		<key>Ljecyrillic</key>
+		<integer>-66</integer>
+		<key>IAcyrillic</key>
+		<integer>-66</integer>
+		<key>Jecyrillic</key>
+		<integer>-341</integer>
+	</dict>
+	<key>Djecyrillic</key>
+	<dict>
+		<key>Djecyrillic</key>
+		<integer>-187</integer>
+		<key>Tshecyrillic</key>
+		<integer>-187</integer>
+		<key>Tecyrillic</key>
+		<integer>-187</integer>
+		<key>Hardsigncyrillic</key>
+		<integer>-110</integer>
+	</dict>
+	<key>Tshecyrillic</key>
+	<dict>
+		<key>Djecyrillic</key>
+		<integer>-187</integer>
+		<key>Tshecyrillic</key>
+		<integer>-187</integer>
+		<key>Tecyrillic</key>
+		<integer>-187</integer>
+		<key>Hardsigncyrillic</key>
+		<integer>-110</integer>
+	</dict>
+	<key>Iecyrillic</key>
+	<dict>
+		<key>Djecyrillic</key>
+		<integer>-154</integer>
+		<key>Tshecyrillic</key>
+		<integer>-154</integer>
+		<key>Tecyrillic</key>
+		<integer>-154</integer>
+		<key>Checyrillic</key>
+		<integer>-154</integer>
+		<key>Hardsigncyrillic</key>
+		<integer>-110</integer>
+		<key>apostrophemod</key>
+		<integer>-143</integer>
+		<key>quotedbl</key>
+		<integer>-154</integer>
+		<key>quotedblleft</key>
+		<integer>-154</integer>
+		<key>quotedblright</key>
+		<integer>-154</integer>
+		<key>quoteleft</key>
+		<integer>-143</integer>
+		<key>quoteright</key>
+		<integer>-143</integer>
+		<key>quotesingle</key>
+		<integer>-143</integer>
+	</dict>
+	<key>uni0400</key>
+	<dict>
+		<key>Djecyrillic</key>
+		<integer>-154</integer>
+		<key>Tshecyrillic</key>
+		<integer>-154</integer>
+		<key>Tecyrillic</key>
+		<integer>-154</integer>
+		<key>Checyrillic</key>
+		<integer>-154</integer>
+		<key>Hardsigncyrillic</key>
+		<integer>-110</integer>
+		<key>apostrophemod</key>
+		<integer>-143</integer>
+		<key>quotedbl</key>
+		<integer>-154</integer>
+		<key>quotedblleft</key>
+		<integer>-154</integer>
+		<key>quotedblright</key>
+		<integer>-154</integer>
+		<key>quoteleft</key>
+		<integer>-143</integer>
+		<key>quoteright</key>
+		<integer>-143</integer>
+		<key>quotesingle</key>
+		<integer>-143</integer>
+	</dict>
+	<key>Iocyrillic</key>
+	<dict>
+		<key>Djecyrillic</key>
+		<integer>-154</integer>
+		<key>Tshecyrillic</key>
+		<integer>-154</integer>
+		<key>Tecyrillic</key>
+		<integer>-154</integer>
+		<key>Checyrillic</key>
+		<integer>-154</integer>
+		<key>Hardsigncyrillic</key>
+		<integer>-110</integer>
+		<key>apostrophemod</key>
+		<integer>-143</integer>
+		<key>quotedbl</key>
+		<integer>-154</integer>
+		<key>quotedblleft</key>
+		<integer>-154</integer>
+		<key>quotedblright</key>
+		<integer>-154</integer>
+		<key>quoteleft</key>
+		<integer>-143</integer>
+		<key>quoteright</key>
+		<integer>-143</integer>
+		<key>quotesingle</key>
+		<integer>-143</integer>
+	</dict>
+	<key>Ercyrillic</key>
+	<dict>
+		<key>Acyrillic</key>
+		<integer>-22</integer>
+		<key>Decyrillic</key>
+		<integer>-275</integer>
+		<key>Elcyrillic</key>
+		<integer>-176</integer>
+		<key>Ljecyrillic</key>
+		<integer>-66</integer>
+		<key>IAcyrillic</key>
+		<integer>-66</integer>
+	</dict>
+	<key>Tecyrillic</key>
+	<dict>
+		<key>Acyrillic</key>
+		<integer>-143</integer>
+		<key>Decyrillic</key>
+		<integer>-352</integer>
+		<key>Elcyrillic</key>
+		<integer>-176</integer>
+		<key>Ljecyrillic</key>
+		<integer>-66</integer>
+		<key>IAcyrillic</key>
+		<integer>-66</integer>
+		<key>Jecyrillic</key>
+		<integer>-341</integer>
+	</dict>
+	<key>Ucyrillic</key>
+	<dict>
+		<key>Decyrillic</key>
+		<integer>-154</integer>
+		<key>Elcyrillic</key>
+		<integer>-176</integer>
+		<key>Ljecyrillic</key>
+		<integer>-66</integer>
+		<key>IAcyrillic</key>
+		<integer>-66</integer>
+		<key>Icyrillic</key>
+		<integer>-121</integer>
+		<key>Yicyrillic</key>
+		<integer>-121</integer>
+		<key>Jecyrillic</key>
+		<integer>-121</integer>
+	</dict>
+	<key>Ushortcyrillic</key>
+	<dict>
+		<key>Decyrillic</key>
+		<integer>-154</integer>
+		<key>Elcyrillic</key>
+		<integer>-176</integer>
+		<key>Ljecyrillic</key>
+		<integer>-66</integer>
+		<key>IAcyrillic</key>
+		<integer>-66</integer>
+		<key>Icyrillic</key>
+		<integer>-121</integer>
+		<key>Yicyrillic</key>
+		<integer>-121</integer>
+		<key>Jecyrillic</key>
+		<integer>-121</integer>
+	</dict>
+	<key>apostrophemod</key>
+	<dict>
+		<key>J</key>
+		<integer>-341</integer>
+		<key>Jcircumflex</key>
+		<integer>-341</integer>
+		<key>Jecyrillic</key>
+		<integer>-341</integer>
 	</dict>
 	<key>period</key>
 	<dict>
 		<key>space</key>
 		<integer>-352</integer>
 	</dict>
+	<key>ellipsis</key>
+	<dict>
+		<key>ellipsis</key>
+		<integer>-176</integer>
+		<key>period</key>
+		<integer>-176</integer>
+		<key>space</key>
+		<integer>-352</integer>
+	</dict>
 	<key>quotedbl</key>
 	<dict>
 		<key>J</key>
+		<integer>-352</integer>
+		<key>Jcircumflex</key>
+		<integer>-352</integer>
+		<key>Jecyrillic</key>
+		<integer>-352</integer>
+	</dict>
+	<key>quotedblleft</key>
+	<dict>
+		<key>J</key>
+		<integer>-352</integer>
+		<key>Jcircumflex</key>
+		<integer>-352</integer>
+		<key>Jecyrillic</key>
+		<integer>-352</integer>
+	</dict>
+	<key>quotedblright</key>
+	<dict>
+		<key>J</key>
+		<integer>-352</integer>
+		<key>Jcircumflex</key>
+		<integer>-352</integer>
+		<key>Jecyrillic</key>
+		<integer>-352</integer>
+	</dict>
+	<key>quoteleft</key>
+	<dict>
+		<key>J</key>
+		<integer>-341</integer>
+		<key>Jcircumflex</key>
+		<integer>-341</integer>
+		<key>Jecyrillic</key>
+		<integer>-341</integer>
+	</dict>
+	<key>quoteright</key>
+	<dict>
+		<key>J</key>
+		<integer>-341</integer>
+		<key>Jcircumflex</key>
+		<integer>-341</integer>
+		<key>Jecyrillic</key>
 		<integer>-341</integer>
 	</dict>
 	<key>quotesingle</key>
 	<dict>
 		<key>J</key>
 		<integer>-341</integer>
+		<key>Jcircumflex</key>
+		<integer>-341</integer>
+		<key>Jecyrillic</key>
+		<integer>-341</integer>
 	</dict>
 	<key>slash</key>
 	<dict>
 		<key>slash</key>
+		<integer>-352</integer>
+	</dict>
+	<key>space</key>
+	<dict>
+		<key>ellipsis</key>
 		<integer>-352</integer>
 	</dict>
 	<key>backslash</key>

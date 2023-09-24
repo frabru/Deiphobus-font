@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncmb" format="2">
+	<advance width="1408"/>
+  <unicode hex="030C"/>
+	<anchor x="704" y="1408" name="top.mark"/>
+  <outline>
+		<component base="caron" yOffset="506"/>
+  </outline>
+</glyph>

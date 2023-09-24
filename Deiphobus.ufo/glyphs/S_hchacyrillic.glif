@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shchacyrillic" format="2">
+  <advance width="1760"/>
+  <unicode hex="0429"/>
+  <unicode hex="0449"/>
+	<anchor x="847" y="1408" name="top"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="1408" type="line"/>
+      <point x="550" y="1408" type="line"/>
+      <point x="550" y="374" type="line"/>
+      <point x="660" y="374" type="line"/>
+      <point x="660" y="1408" type="line"/>
+      <point x="1034" y="1408" type="line"/>
+      <point x="1034" y="374" type="line"/>
+      <point x="1144" y="374" type="line"/>
+      <point x="1144" y="1408" type="line"/>
+      <point x="1518" y="1408" type="line"/>
+      <point x="1518" y="528" type="line"/>
+      <point x="1364" y="374" type="line"/>
+      <point x="1584" y="374" type="line"/>
+      <point x="1584" y="-187" type="line"/>
+      <point x="1210" y="-187" type="line"/>
+      <point x="1210" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

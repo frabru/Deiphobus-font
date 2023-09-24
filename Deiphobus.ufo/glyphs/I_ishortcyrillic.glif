@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iishortcyrillic" format="2">
+  <advance width="1408"/>
+  <unicode hex="0419"/>
+  <unicode hex="0439"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="1408" type="line"/>
+      <point x="550" y="1408" type="line"/>
+      <point x="550" y="682" type="line"/>
+      <point x="858" y="990" type="line"/>
+      <point x="858" y="1408" type="line"/>
+      <point x="1232" y="1408" type="line"/>
+      <point x="1232" y="0" type="line"/>
+      <point x="858" y="0" type="line"/>
+      <point x="858" y="462" type="line"/>
+      <point x="550" y="154" type="line"/>
+      <point x="550" y="0" type="line"/>
+    </contour>
+		<component base="brevecmb"/>
+  </outline>
+</glyph>

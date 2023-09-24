@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zecyrillic" format="2">
+  <advance width="1408"/>
+  <unicode hex="0417"/>
+  <unicode hex="0437"/>
+	<anchor x="704" y="1408" name="top"/>
+  <outline>
+    <contour>
+      <point x="176" y="220" type="line"/>
+      <point x="176" y="374" type="line"/>
+      <point x="858" y="374" type="line"/>
+      <point x="858" y="528" type="line"/>
+      <point x="517" y="528" type="line"/>
+      <point x="517" y="902" type="line"/>
+      <point x="726" y="902" type="line"/>
+      <point x="858" y="1034" type="line"/>
+      <point x="176" y="1034" type="line"/>
+      <point x="176" y="1408" type="line"/>
+      <point x="1012" y="1408" type="line"/>
+      <point x="1232" y="1188" type="line"/>
+      <point x="1232" y="880" type="line"/>
+      <point x="1133" y="781" type="line"/>
+      <point x="1232" y="682" type="line"/>
+      <point x="1232" y="220" type="line"/>
+      <point x="1012" y="0" type="line"/>
+      <point x="396" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

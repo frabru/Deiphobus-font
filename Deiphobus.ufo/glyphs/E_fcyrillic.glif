@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Efcyrillic" format="2">
+  <advance width="1760"/>
+  <unicode hex="0424"/>
+  <unicode hex="0444"/>
+	<anchor x="880" y="1408" name="top"/>
+  <outline>
+    <contour>
+      <point x="176" y="220" type="line"/>
+      <point x="176" y="1133" type="line"/>
+      <point x="396" y="1353" type="line"/>
+      <point x="693" y="1353" type="line"/>
+      <point x="693" y="1540" type="line"/>
+      <point x="1067" y="1540" type="line"/>
+      <point x="1067" y="1353" type="line"/>
+      <point x="1364" y="1353" type="line"/>
+      <point x="1584" y="1133" type="line"/>
+      <point x="1584" y="220" type="line"/>
+      <point x="1364" y="0" type="line"/>
+      <point x="1067" y="0" type="line"/>
+      <point x="1067" y="-187" type="line"/>
+      <point x="693" y="-187" type="line"/>
+      <point x="693" y="0" type="line"/>
+      <point x="396" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="550" y="374" type="line"/>
+      <point x="693" y="374" type="line"/>
+      <point x="693" y="979" type="line"/>
+      <point x="550" y="979" type="line"/>
+    </contour>
+    <contour>
+      <point x="1067" y="374" type="line"/>
+      <point x="1210" y="374" type="line"/>
+      <point x="1210" y="979" type="line"/>
+      <point x="1067" y="979" type="line"/>
+    </contour>
+  </outline>
+</glyph>

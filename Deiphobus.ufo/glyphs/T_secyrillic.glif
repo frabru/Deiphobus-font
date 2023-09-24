@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tsecyrillic" format="2">
+  <advance width="1408"/>
+  <unicode hex="0426"/>
+  <unicode hex="0446"/>
+	<anchor x="671" y="1408" name="top"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="1408" type="line"/>
+      <point x="550" y="1408" type="line"/>
+      <point x="550" y="374" type="line"/>
+      <point x="792" y="374" type="line"/>
+      <point x="792" y="1408" type="line"/>
+      <point x="1166" y="1408" type="line"/>
+      <point x="1166" y="374" type="line"/>
+      <point x="1232" y="374" type="line"/>
+      <point x="1232" y="-187" type="line"/>
+      <point x="858" y="-187" type="line"/>
+      <point x="858" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
