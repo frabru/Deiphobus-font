@@ -4,7 +4,7 @@
   <unicode hex="00C2"/>
   <unicode hex="00E2"/>
   <outline>
-		<component base="A"/>
-		<component base="circumflexcmb"/>
+		<component base="A.short"/>
+		<component base="circumflexcmb" yOffset="-154"/>
   </outline>
 </glyph>

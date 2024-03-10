@@ -4,7 +4,7 @@
   <unicode hex="00D9"/>
   <unicode hex="00F9"/>
   <outline>
-		<component base="U"/>
-		<component base="gravecomb"/>
+		<component base="U.short"/>
+		<component base="gravecomb" yOffset="-154"/>
   </outline>
 </glyph>

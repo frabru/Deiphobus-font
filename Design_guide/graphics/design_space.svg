@@ -13,7 +13,7 @@
 		</g>
 		<g fill="#99f" opacity="0.5">
 			<path d="M0 -20v-88l20 -20h56l20 20v88l-20 20h-56l-20 -20zm34 -14h28v-60h-28v60z"/>
-			<path transform="translate(128 0)" d="M0 0v-128h34l30 30l30 -30h34v128h-34v-80l-30 30l-30 -30v80h-34z"/>
+			<path transform="translate(128 0)" d="M0 0v-128h24l40 40l40 -40h24v128h-34v-70l-30 30l-30 -30v70h-34z"/>
 		</g>
 		<g>
 			<g transform="translate(16 -136)">

@@ -4,7 +4,7 @@
   <unicode hex="016E"/>
   <unicode hex="016F"/>
   <outline>
-		<component base="U"/>
-		<component base="ringcmb" yOffset="-66"/>
+		<component base="U.short"/>
+		<component base="ringcmb" yOffset="-220"/>
   </outline>
 </glyph>

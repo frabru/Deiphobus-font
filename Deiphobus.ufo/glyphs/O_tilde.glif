@@ -4,7 +4,7 @@
   <unicode hex="00D5"/>
   <unicode hex="00F5"/>
   <outline>
-		<component base="O"/>
-		<component base="tildecomb"/>
+		<component base="O.short"/>
+		<component base="tildecomb" yOffset="-154"/>
   </outline>
 </glyph>

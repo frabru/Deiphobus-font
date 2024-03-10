@@ -4,7 +4,7 @@
   <unicode hex="011A"/>
   <unicode hex="011B"/>
   <outline>
-		<component base="E"/>
-		<component base="caroncmb" xOffset="-77"/>
+		<component base="E.short"/>
+		<component base="caroncmb" xOffset="-77" yOffset="-154"/>
   </outline>
 </glyph>

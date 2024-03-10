@@ -1290,6 +1290,249 @@
 		<key>Jcircumflex</key>
     <integer>-341</integer>
 	</dict>
+	<key>Alpha</key>
+	<dict>
+		<key>Tau</key>
+		<integer>-99</integer>
+		<key>Upsilon</key>
+		<integer>-187</integer>
+		<key>Upsilondieresis</key>
+		<integer>-187</integer>
+		<key>upsilondieresistonos</key>
+		<integer>-187</integer>
+	</dict>
+	<key>Alphatonos</key>
+	<dict>
+		<key>Tau</key>
+		<integer>-99</integer>
+		<key>Upsilon</key>
+		<integer>-187</integer>
+		<key>Upsilondieresis</key>
+		<integer>-187</integer>
+		<key>upsilondieresistonos</key>
+		<integer>-187</integer>
+	</dict>
+	<key>Gamma</key>
+	<dict>
+		<key>Alpha</key>
+		<integer>-99</integer>
+		<key>Deltagreek</key>
+		<integer>-242</integer>
+		<key>Lambda</key>
+		<integer>-165</integer>
+		<key>Phi</key>
+		<integer>-66</integer>
+		<key>Acyrillic</key>
+		<integer>-77</integer>
+		<key>Decyrillic</key>
+		<integer>-286</integer>
+		<key>Elcyrillic</key>
+		<integer>-176</integer>
+		<key>Ljecyrillic</key>
+		<integer>-66</integer>
+		<key>IAcyrillic</key>
+		<integer>-66</integer>
+		<key>Jecyrillic</key>
+		<integer>-341</integer>
+	</dict>
+	<key>Deltagreek</key>
+	<dict>
+		<key>Tau</key>
+		<integer>-165</integer>
+		<key>Upsilon</key>
+		<integer>-187</integer>
+		<key>Upsilondieresis</key>
+		<integer>-187</integer>
+		<key>upsilondieresistonos</key>
+		<integer>-187</integer>
+		<key>Psi</key>
+		<integer>-77</integer>
+		<key>Alphatonos</key>
+		<integer>-209</integer>
+		<key>Epsilontonos</key>
+		<integer>-209</integer>
+		<key>Etatonos</key>
+		<integer>-209</integer>
+		<key>Iotatonos</key>
+		<integer>-209</integer>
+		<key>Omicrontonos</key>
+		<integer>-209</integer>
+		<key>Upsilontonos</key>
+		<integer>-209</integer>
+		<key>Omegatonos</key>
+		<integer>-209</integer>
+		<key>Tecyrillic</key>
+		<integer>-165</integer>
+	</dict>
+	<key>Epsilon</key>
+	<dict>
+		<key>Tau</key>
+		<integer>-154</integer>
+		<key>Upsilon</key>
+		<integer>-154</integer>
+		<key>Upsilondieresis</key>
+		<integer>-154</integer>
+		<key>upsilondieresistonos</key>
+		<integer>-154</integer>
+		<key>Phi</key>
+		<integer>-66</integer>
+	</dict>
+	<key>Epsilontonos</key>
+	<dict>
+		<key>Tau</key>
+		<integer>-154</integer>
+		<key>Upsilon</key>
+		<integer>-154</integer>
+		<key>Upsilondieresis</key>
+		<integer>-154</integer>
+		<key>upsilondieresistonos</key>
+		<integer>-154</integer>
+		<key>Phi</key>
+		<integer>-66</integer>
+	</dict>
+	<key>Iota</key>
+	<dict>
+		<key>Phi</key>
+		<integer>-66</integer>
+	</dict>
+	<key>Iotatonos</key>
+	<dict>
+		<key>Phi</key>
+		<integer>-66</integer>
+	</dict>
+	<key>Iotadieresis</key>
+	<dict>
+		<key>Phi</key>
+		<integer>-66</integer>
+	</dict>
+	<key>iotadieresistonos</key>
+	<dict>
+		<key>Phi</key>
+		<integer>-66</integer>
+	</dict>
+	<key>Kappa</key>
+	<dict>
+		<key>Phi</key>
+		<integer>-132</integer>
+	</dict>
+	<key>Lambda</key>
+	<dict>
+		<key>Tau</key>
+		<integer>-165</integer>
+		<key>Upsilon</key>
+		<integer>-253</integer>
+		<key>Upsilondieresis</key>
+		<integer>-253</integer>
+		<key>upsilondieresistonos</key>
+		<integer>-253</integer>
+		<key>Alphatonos</key>
+		<integer>-132</integer>
+		<key>Epsilontonos</key>
+		<integer>-132</integer>
+		<key>Etatonos</key>
+		<integer>-132</integer>
+		<key>Iotatonos</key>
+		<integer>-132</integer>
+		<key>Omicrontonos</key>
+		<integer>-132</integer>
+		<key>Upsilontonos</key>
+		<integer>-132</integer>
+		<key>Omegatonos</key>
+		<integer>-132</integer>
+	</dict>
+	<key>Rho</key>
+	<dict>
+		<key>Alpha</key>
+		<integer>-66</integer>
+		<key>Deltagreek</key>
+		<integer>-165</integer>
+		<key>Lambda</key>
+		<integer>-132</integer>
+	</dict>
+	<key>Tau</key>
+	<dict>
+		<key>Alpha</key>
+		<integer>-99</integer>
+		<key>Deltagreek</key>
+		<integer>-165</integer>
+		<key>Lambda</key>
+		<integer>-165</integer>
+		<key>Phi</key>
+		<integer>-66</integer>
+	</dict>
+	<key>Upsilon</key>
+	<dict>
+		<key>Alpha</key>
+		<integer>-187</integer>
+		<key>Deltagreek</key>
+		<integer>-187</integer>
+		<key>Lambda</key>
+		<integer>-253</integer>
+		<key>Phi</key>
+		<integer>-176</integer>
+	</dict>
+	<key>Upsilontonos</key>
+	<dict>
+		<key>Alpha</key>
+		<integer>-187</integer>
+		<key>Deltagreek</key>
+		<integer>-187</integer>
+		<key>Lambda</key>
+		<integer>-253</integer>
+		<key>Phi</key>
+		<integer>-176</integer>
+	</dict>
+	<key>Upsilondieresis</key>
+	<dict>
+		<key>Alpha</key>
+		<integer>-187</integer>
+		<key>Deltagreek</key>
+		<integer>-187</integer>
+		<key>Lambda</key>
+		<integer>-253</integer>
+		<key>Phi</key>
+		<integer>-176</integer>
+	</dict>
+	<key>upsilondieresistonos</key>
+	<dict>
+		<key>Alpha</key>
+		<integer>-187</integer>
+		<key>Deltagreek</key>
+		<integer>-187</integer>
+		<key>Lambda</key>
+		<integer>-253</integer>
+		<key>Phi</key>
+		<integer>-176</integer>
+	</dict>
+	<key>Phi</key>
+	<dict>
+		<key>Iota</key>
+		<integer>-66</integer>
+		<key>Iotadieresis</key>
+		<integer>-66</integer>
+		<key>iotadieresistonos</key>
+		<integer>-66</integer>
+		<key>Tau</key>
+		<integer>-66</integer>
+		<key>Upsilon</key>
+		<integer>-176</integer>
+		<key>Upsilondieresis</key>
+		<integer>-176</integer>
+		<key>upsilondieresistonos</key>
+		<integer>-176</integer>
+		<key>Chi</key>
+		<integer>-66</integer>
+	</dict>
+	<key>Chi</key>
+	<dict>
+		<key>Phi</key>
+		<integer>-66</integer>
+	</dict>
+	<key>Psi</key>
+	<dict>
+		<key>Deltagreek</key>
+		<integer>-77</integer>
+	</dict>
 	<key>Acyrillic</key>
 	<dict>
 		<key>Djecyrillic</key>
@@ -1340,6 +1583,14 @@
 		<integer>-66</integer>
 		<key>Jecyrillic</key>
 		<integer>-341</integer>
+		<key>Alpha</key>
+		<integer>-99</integer>
+		<key>Deltagreek</key>
+		<integer>-242</integer>
+		<key>Lambda</key>
+		<integer>-165</integer>
+		<key>Phi</key>
+		<integer>-66</integer>
 	</dict>
 	<key>Gjecyrillic</key>
 	<dict>
@@ -1355,6 +1606,12 @@
 		<integer>-66</integer>
 		<key>Jecyrillic</key>
 		<integer>-341</integer>
+		<key>Deltagreek</key>
+		<integer>-242</integer>
+		<key>Lambda</key>
+		<integer>-165</integer>
+		<key>Phi</key>
+		<integer>-66</integer>
 	</dict>
 	<key>Gheupturncyrillic</key>
 	<dict>
@@ -1370,6 +1627,12 @@
 		<integer>-66</integer>
 		<key>Jecyrillic</key>
 		<integer>-341</integer>
+		<key>Deltagreek</key>
+		<integer>-242</integer>
+		<key>Lambda</key>
+		<integer>-165</integer>
+		<key>Phi</key>
+		<integer>-66</integer>
 	</dict>
 	<key>Djecyrillic</key>
 	<dict>
@@ -1501,6 +1764,8 @@
 		<integer>-66</integer>
 		<key>Jecyrillic</key>
 		<integer>-341</integer>
+		<key>Deltagreek</key>
+		<integer>-165</integer>
 	</dict>
 	<key>Ucyrillic</key>
 	<dict>

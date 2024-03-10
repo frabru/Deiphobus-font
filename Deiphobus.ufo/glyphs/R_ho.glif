@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rho" format="2">
+  <advance width="1408"/>
+  <unicode hex="03A1"/>
+  <unicode hex="03C1"/>
+	<anchor x="704" y="1408" name="top"/>
+  <outline>
+		<component base="Ercyrillic"/>
+  </outline>
+</glyph>

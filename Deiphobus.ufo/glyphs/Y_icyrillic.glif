@@ -4,7 +4,7 @@
   <unicode hex="0407"/>
   <unicode hex="0457"/>
   <outline>
-		<component base="Icyrillic"/>
-		<component base="uni0308"/>
+		<component base="Icyrillic.short"/>
+		<component base="uni0308" yOffset="-154"/>
   </outline>
 </glyph>

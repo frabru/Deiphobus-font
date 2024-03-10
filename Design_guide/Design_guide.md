@@ -22,6 +22,8 @@ Where the general glyph shape would have curved lines, in this typeface the inne
 
 Diacritics are designed with a smaller stem width of 24 and use 34 as their approximation of √2 times the stem width.
 
+Shortened variants of base glyphs (with the name suffix «.short») for use with diacritics have their height reduced by 14 units, reducing them to 114 units.
+
 
 ## Glyph design
 
@@ -29,4 +31,27 @@ Despite the blocky geometric style of the typeface, glyphs are designed to be di
 
 ![Forgery-impeding design](./graphics/impeding_forgery.svg)
 
-The glyphs are primarily sans-serifs. But the letter ‹I› has slab serifs to make it occupy the same width as the majority of the letters. Its upper serifs are shorter than the lower ones to distinguish it from ‹T› even when the bottom is obscured. The letter ‹J› has a slab serif to distinguish it from ‹U› even when the left side is obscured. And the digit ‹1› has an underline/slab serifs to make it clearly distinct from a ‹7› even when the text orientation is unclear and the reader is unfamiliar with the typeface's digit designs.
+The glyphs are primarily sans-serifs. But the Latin letter ‹I› has slab serifs to make it occupy the same width as the majority of the letters. Its upper serifs are shorter than the lower ones to distinguish it from ‹T› even when the bottom is obscured. The Latin letter ‹J› has a slab serif to distinguish it from ‹U› even when the left side is obscured. Latin letter ‹L› has a slab serif to distinguish it from ‹E›. Greek letter ‹Γ› has a slab serif to distinguish it from ‹Π› even when the right side is obscured. Cyrillic letter ‹Г› has slab serifs to distinguish it from ‹П› and ‹Б›. And the digit ‹1› has an underline/slab serifs to make it clearly distinct from a ‹7› even when the text orientation is unclear and the reader is unfamiliar with the typeface's digit designs.
+
+Some characters with diacritical marks above use a shortened form of the base character so that it would be noticeable if diacritical marks were just drawn onto the regular base character. This was added in version 1.3 and isn't implemented for all characters yet. The main goal was to distinguish umlauts for German. Cyrillic ‹Й› and ‹Ѝ› instead use a base character of the same height as ‹И› but with the diagonal stroke placed lower.
+
+Characters of different scripts that share the same basic shape only reuse the same glyph outline if they generally have equal or near equal sound value and are transcibed as each other.
+
+* Thus Latin ‹A›, Greek ‹Α›, and Cyrillic ‹А› have the same outline.
+* But Cyrillic ‹В› has a design distinct from Latin ‹B›. The Cyrillic letter is symmetric in analogy to a sideways turned ‹W›, because ‹W› would be the Polish equivalent to Cyrillic ‹В›. And Greek ‹Β› has yet another redesign, because while it is transcribed as and historically pronounced like Latin ‹B›, its pronunciation in modern Greek is like Cyrillic ‹В›. So neither of them is an acceptable equivalent.
+* The horizontal stroke in Greek ‹Η› is higher than in the symmetrical Latin ‹H›, and in Cyrillic ‹Н› the horizontal stroke has a notch which also serves to impede changing ‹Ч› to ‹Н›.
+* Greek ‹Ρ› and Cyrillic ‹Р› share the same outline, but Latin ‹P› differs from them, while the former two share the triangular arc with Latin ‹R›.
+* Latin ‹Y›, being the Greek letter ‹Υ› imported into the Latin alphabet does share the same outline. Because of the different pronunciation and transcription it might get redesigned in a future version.
+* Greek ‹Χ› and Cyrillic ‹Х› share the same outline, but Latin ‹X› differs from them.
+* Cyrillic ‹С› has a small chip at the bottom edge of the top stroke that distinguishes it from Latin ‹C› but is shared with Latin ‹S›.
+* Cyrillic ‹Ѕ› has bevelled stroke ends unlike Latin ‹S›
+
+Other inter-script redesigns are motivated by the forgery-impeding goal.
+
+* Latin ‹O› and Cyrillic ‹О› use the obvious outline based on the glyph geometry guide. By adding a horizontal stroke in the middle, this could be changed into a Greek ‹Θ›. Therefore the Greek ‹Ο› has a different top with a non-rectangular inner curve that would be very noticeable if split horizontally.
+* Greek ‹Φ› has a very different outline from Cyrillic ‹Ф›, partly because Greek has the letter ‹Ψ› that could be altered.
+* Cyrillic ‹М› uses the same angle and if the right half is obscured would look the same as Latin ‹N› and Greek ‹Ν›. Therefore Latin ‹M› and Greek ‹Μ› use a different outline with 45° angles.
+
+Some inter-script redesigns are just aesthetic choices.
+
+* Greek ‹Δ› and ‹Λ› have outlines that would be acceptable to reuse for Cyrillic ‹Д› and ‹Л›. But the Cyrillic letters were instead designed based on more uniquely Cyrillic variant shapes of these glyphs.

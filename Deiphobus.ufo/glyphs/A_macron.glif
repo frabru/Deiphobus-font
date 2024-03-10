@@ -4,7 +4,7 @@
   <unicode hex="0100"/>
   <unicode hex="0101"/>
   <outline>
-		<component base="A"/>
-		<component base="macroncmb"/>
+		<component base="A.short"/>
+		<component base="macroncmb" yOffset="-154"/>
   </outline>
 </glyph>

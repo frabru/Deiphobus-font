@@ -4,7 +4,7 @@
   <unicode hex="00CB"/>
   <unicode hex="00EB"/>
   <outline>
-		<component base="E"/>
-		<component base="uni0308" xOffset="-77"/>
+		<component base="E.short"/>
+		<component base="uni0308" xOffset="-77" yOffset="-154"/>
   </outline>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="040E"/>
   <unicode hex="045E"/>
   <outline>
-		<component base="Ucyrillic"/>
-		<component base="brevecmb"/>
+		<component base="Ucyrillic.short"/>
+		<component base="brevecmb" yOffset="-154"/>
   </outline>
 </glyph>

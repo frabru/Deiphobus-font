@@ -4,7 +4,7 @@
   <unicode hex="0400"/>
   <unicode hex="0450"/>
   <outline>
-		<component base="Iecyrillic"/>
-		<component base="gravecomb" xOffset="-77"/>
+		<component base="Iecyrillic.short"/>
+		<component base="gravecomb" xOffset="-77" yOffset="-154"/>
   </outline>
 </glyph>

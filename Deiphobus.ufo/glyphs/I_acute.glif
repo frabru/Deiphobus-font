@@ -4,7 +4,7 @@
   <unicode hex="00CD"/>
   <unicode hex="00ED"/>
   <outline>
-		<component base="I"/>
-		<component base="acutecomb"/>
+		<component base="I.short"/>
+		<component base="acutecomb" yOffset="-154"/>
   </outline>
 </glyph>

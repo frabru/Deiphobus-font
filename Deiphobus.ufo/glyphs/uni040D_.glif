@@ -4,7 +4,20 @@
   <unicode hex="040D"/>
   <unicode hex="045D"/>
   <outline>
-		<component base="Iicyrillic"/>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="1408" type="line"/>
+      <point x="550" y="1408" type="line"/>
+      <point x="550" y="682" type="line"/>
+      <point x="858" y="990" type="line"/>
+      <point x="858" y="1408" type="line"/>
+      <point x="1232" y="1408" type="line"/>
+      <point x="1232" y="0" type="line"/>
+      <point x="858" y="0" type="line"/>
+      <point x="858" y="462" type="line"/>
+      <point x="550" y="154" type="line"/>
+      <point x="550" y="0" type="line"/>
+    </contour>
 		<component base="gravecomb"/>
   </outline>
 </glyph>

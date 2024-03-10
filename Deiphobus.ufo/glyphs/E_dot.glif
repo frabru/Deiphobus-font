@@ -4,7 +4,7 @@
   <unicode hex="0116"/>
   <unicode hex="0117"/>
   <outline>
-		<component base="E"/>
-		<component base="dotaccentcmb" xOffset="-77"/>
+		<component base="E.short"/>
+		<component base="dotaccentcmb" xOffset="-77" yOffset="-154"/>
   </outline>
 </glyph>

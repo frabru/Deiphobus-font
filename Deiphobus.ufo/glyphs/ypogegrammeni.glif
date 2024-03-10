@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ypogegrammeni" format="2">
+  <advance width="704"/>
+  <unicode hex="037A"/>
+  <outline>
+    <contour>
+      <point x="176" y="-374" type="line"/>
+      <point x="176" y="-154" type="line"/>
+      <point x="440" y="-154" type="line"/>
+      <point x="440" y="-528" type="line"/>
+      <point x="330" y="-528" type="line"/>
+    </contour>
+  </outline>
+</glyph>
