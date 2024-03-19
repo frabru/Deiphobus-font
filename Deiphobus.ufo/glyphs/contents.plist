@@ -12,6 +12,8 @@
     <string>A_acute.glif</string>
     <key>Abreve</key>
     <string>A_breve.glif</string>
+    <key>Acaron</key>
+    <string>A_caron.glif</string>
     <key>Acircumflex</key>
     <string>A_circumflex.glif</string>
     <key>Acyrillic</key>
