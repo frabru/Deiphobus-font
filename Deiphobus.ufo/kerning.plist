@@ -60,6 +60,25 @@
 		<key>Ydieresis</key>
 		<integer>-132</integer>
 	</dict>
+	<key>Adotbelow</key>
+	<dict>
+		<key>T</key>
+		<integer>-143</integer>
+		<key>Tbar</key>
+		<integer>-143</integer>
+		<key>Tcaron</key>
+		<integer>-143</integer>
+		<key>Tcedilla</key>
+		<integer>-143</integer>
+		<key>Y</key>
+		<integer>-132</integer>
+		<key>Yacute</key>
+		<integer>-132</integer>
+		<key>Ycircumflex</key>
+		<integer>-132</integer>
+		<key>Ydieresis</key>
+		<integer>-132</integer>
+	</dict>
 	<key>Acaron</key>
 	<dict>
 		<key>T</key>
@@ -706,6 +725,8 @@
 		<integer>-143</integer>
 		<key>Acircumflex</key>
 		<integer>-143</integer>
+		<key>Adotbelow</key>
+		<integer>-143</integer>
 		<key>Amacron</key>
 		<integer>-143</integer>
 		<key>Atilde</key>
@@ -742,6 +763,8 @@
 		<key>Acaron</key>
 		<integer>-143</integer>
 		<key>Acircumflex</key>
+		<integer>-143</integer>
+		<key>Adotbelow</key>
 		<integer>-143</integer>
 		<key>Amacron</key>
 		<integer>-143</integer>
@@ -1004,6 +1027,8 @@
 		<integer>-143</integer>
 		<key>Acircumflex</key>
 		<integer>-143</integer>
+		<key>Adotbelow</key>
+		<integer>-143</integer>
 		<key>Amacron</key>
 		<integer>-143</integer>
 		<key>Atilde</key>
@@ -1034,6 +1059,8 @@
 		<key>Acaron</key>
 		<integer>-143</integer>
 		<key>Acircumflex</key>
+		<integer>-143</integer>
+		<key>Adotbelow</key>
 		<integer>-143</integer>
 		<key>Amacron</key>
 		<integer>-143</integer>
@@ -1066,6 +1093,8 @@
 		<integer>-143</integer>
 		<key>Acircumflex</key>
 		<integer>-143</integer>
+		<key>Adotbelow</key>
+		<integer>-143</integer>
 		<key>Amacron</key>
 		<integer>-143</integer>
 		<key>Atilde</key>
@@ -1097,6 +1126,8 @@
 		<integer>-143</integer>
 		<key>Acircumflex</key>
 		<integer>-143</integer>
+		<key>Adotbelow</key>
+		<integer>-143</integer>
 		<key>Amacron</key>
 		<integer>-143</integer>
 		<key>Atilde</key>
@@ -1127,6 +1158,8 @@
 		<key>Acaron</key>
 		<integer>-143</integer>
 		<key>Acircumflex</key>
+		<integer>-143</integer>
+		<key>Adotbelow</key>
 		<integer>-143</integer>
 		<key>Amacron</key>
 		<integer>-143</integer>
@@ -1221,6 +1254,8 @@
 		<integer>-132</integer>
 		<key>Acircumflex</key>
 		<integer>-132</integer>
+		<key>Adotbelow</key>
+		<integer>-132</integer>
 		<key>Amacron</key>
 		<integer>-132</integer>
 		<key>Atilde</key>
@@ -1251,6 +1286,8 @@
 		<key>Acaron</key>
 		<integer>-132</integer>
 		<key>Acircumflex</key>
+		<integer>-132</integer>
+		<key>Adotbelow</key>
 		<integer>-132</integer>
 		<key>Amacron</key>
 		<integer>-132</integer>
@@ -1283,6 +1320,8 @@
 		<integer>-132</integer>
 		<key>Acircumflex</key>
 		<integer>-132</integer>
+		<key>Adotbelow</key>
+		<integer>-132</integer>
 		<key>Amacron</key>
 		<integer>-132</integer>
 		<key>Atilde</key>
@@ -1313,6 +1352,8 @@
 		<key>Acaron</key>
 		<integer>-132</integer>
 		<key>Acircumflex</key>
+		<integer>-132</integer>
+		<key>Adotbelow</key>
 		<integer>-132</integer>
 		<key>Amacron</key>
 		<integer>-132</integer>

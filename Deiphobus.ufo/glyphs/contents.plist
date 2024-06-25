@@ -20,6 +20,8 @@
     <string>A_cyrillic.glif</string>
     <key>Adieresis</key>
     <string>A_dieresis.glif</string>
+    <key>Adotbelow</key>
+    <string>A_dotbelow.glif</string>
     <key>Agrave</key>
     <string>A_grave.glif</string>
     <key>Alpha</key>
@@ -510,6 +512,8 @@
     <string>dotaccent.glif</string>
     <key>dotaccentcmb</key>
     <string>dotaccentcmb.glif</string>
+    <key>dotbelowcmb</key>
+    <string>dotbelowcmb.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
     <key>ellipsis</key>
