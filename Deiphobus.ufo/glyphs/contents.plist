@@ -40,6 +40,8 @@
     <string>A_tilde.glif</string>
     <key>B</key>
     <string>B_.glif</string>
+    <key>Bdotbelow</key>
+    <string>B_dotbelow.glif</string>
     <key>Becyrillic</key>
     <string>B_ecyrillic.glif</string>
     <key>Beta</key>
