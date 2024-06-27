@@ -20,6 +20,7 @@ feature abvm {
 	markClass [acutecomb brevecmb caroncmb circumflexcmb dotaccentcmb gravecomb hungarumlautcmb macroncmb ringcmb tildecomb uni0308] <anchor 704 1408> @TOP_MARKS;
 	pos base [Acyrillic A Aogonek Becyrillic B Ccedilla C Checyrillic Dzecyrillic Dzhecyrillic Ecyrillic Encyrillic Ercyrillic Ereversedcyrillic Escyrillic Eth F Gecyrillic Gheupturncyrillic gravecomb Hbar H IAcyrillic Icyrillic I Iogonek Iicyrillic Kacyrillic K Khacyrillic N Ncedilla Eng Ocyrillic O Oslash Pecyrillic P Q R Rcedilla Scedilla S Tcedilla Tecyrillic T Tbar Ucyrillic U Uogonek Vecyrillic V X Y Zecyrillic Z] <anchor 704 1408> mark @TOP_MARKS;
 	pos base [AE Efcyrillic Emcyrillic IUcyrillic M Shacyrillic W Yericyrillic Zhecyrillic] <anchor 880 1408> mark @TOP_MARKS;
+	pos base [Alphalatin] <anchor 627 1408> mark @TOP_MARKS;
 	pos base [D Dslash] <anchor 495 1408> mark @TOP_MARKS;
 	pos base [Decyrillic] <anchor 968 1408> mark @TOP_MARKS;
 	pos base [Hardsigncyrillic] <anchor 495 1408> mark @TOP_MARKS;

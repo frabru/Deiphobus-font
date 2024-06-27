@@ -26,6 +26,8 @@
     <string>A_grave.glif</string>
     <key>Alpha</key>
     <string>A_lpha.glif</string>
+    <key>Alphalatin</key>
+    <string>A_lphalatin.glif</string>
     <key>Alphatonos</key>
     <string>A_lphatonos.glif</string>
     <key>Amacron</key>
