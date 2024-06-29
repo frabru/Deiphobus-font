@@ -250,6 +250,25 @@
 		<key>Ydieresis</key>
 		<integer>-176</integer>
 	</dict>
+	<key>Dafrican</key>
+	<dict>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
+		<integer>-154</integer>
+		<key>Y</key>
+		<integer>-176</integer>
+		<key>Yacute</key>
+		<integer>-176</integer>
+		<key>Ycircumflex</key>
+		<integer>-176</integer>
+		<key>Ydieresis</key>
+		<integer>-176</integer>
+	</dict>
 	<key>Dcaron</key>
 	<dict>
 		<key>T</key>
