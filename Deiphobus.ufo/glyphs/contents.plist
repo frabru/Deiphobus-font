@@ -68,12 +68,16 @@
     <string>D_.glif</string>
     <key>Dcaron</key>
     <string>D_caron.glif</string>
+    <key>Ddotbelow</key>
+    <string>D_dotbelow.glif</string>
     <key>Decyrillic</key>
     <string>D_ecyrillic.glif</string>
     <key>Deltagreek</key>
     <string>D_eltagreek.glif</string>
     <key>Djecyrillic</key>
     <string>D_jecyrillic.glif</string>
+    <key>Dlinebelow</key>
+    <string>D_linebelow.glif</string>
     <key>Dslash</key>
     <string>D_slash.glif</string>
     <key>Dzecyrillic</key>

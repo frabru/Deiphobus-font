@@ -269,6 +269,44 @@
 		<key>Ydieresis</key>
 		<integer>-176</integer>
 	</dict>
+	<key>Ddotbelow</key>
+	<dict>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
+		<integer>-154</integer>
+		<key>Y</key>
+		<integer>-176</integer>
+		<key>Yacute</key>
+		<integer>-176</integer>
+		<key>Ycircumflex</key>
+		<integer>-176</integer>
+		<key>Ydieresis</key>
+		<integer>-176</integer>
+	</dict>
+	<key>Dlinebelow</key>
+	<dict>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
+		<integer>-154</integer>
+		<key>Y</key>
+		<integer>-176</integer>
+		<key>Yacute</key>
+		<integer>-176</integer>
+		<key>Ycircumflex</key>
+		<integer>-176</integer>
+		<key>Ydieresis</key>
+		<integer>-176</integer>
+	</dict>
 	<key>Dslash</key>
 	<dict>
 		<key>T</key>
