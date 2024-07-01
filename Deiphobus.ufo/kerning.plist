@@ -307,6 +307,25 @@
 		<key>Ydieresis</key>
 		<integer>-176</integer>
 	</dict>
+	<key>Dhook</key>
+	<dict>
+		<key>T</key>
+		<integer>-22</integer>
+		<key>Tbar</key>
+		<integer>-22</integer>
+		<key>Tcaron</key>
+		<integer>-22</integer>
+		<key>Tcedilla</key>
+		<integer>-22</integer>
+		<key>Y</key>
+		<integer>-110</integer>
+		<key>Yacute</key>
+		<integer>-110</integer>
+		<key>Ycircumflex</key>
+		<integer>-110</integer>
+		<key>Ydieresis</key>
+		<integer>-110</integer>
+	</dict>
 	<key>Dlinebelow</key>
 	<dict>
 		<key>T</key>

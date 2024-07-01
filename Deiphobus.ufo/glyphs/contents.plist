@@ -76,6 +76,8 @@
     <string>D_ecyrillic.glif</string>
     <key>Deltagreek</key>
     <string>D_eltagreek.glif</string>
+    <key>Dhook</key>
+    <string>D_hook.glif</string>
     <key>Djecyrillic</key>
     <string>D_jecyrillic.glif</string>
     <key>Dlinebelow</key>
