@@ -122,6 +122,8 @@
     <string>E_ng.glif</string>
     <key>Eogonek</key>
     <string>E_ogonek.glif</string>
+    <key>Eopen</key>
+    <string>E_open.glif</string>
     <key>Epsilon</key>
     <string>E_psilon.glif</string>
     <key>Epsilontonos</key>
