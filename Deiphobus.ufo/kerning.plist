@@ -401,6 +401,43 @@
 		<key>quoteright</key>
 		<integer>-154</integer>
 	</dict>
+	<key>Edotbelow</key>
+	<dict>
+		<key>napostrophe</key>
+		<integer>-154</integer>
+		<key>T</key>
+		<integer>-154</integer>
+		<key>Tbar</key>
+		<integer>-154</integer>
+		<key>Tcaron</key>
+		<integer>-154</integer>
+		<key>Tcedilla</key>
+		<integer>-154</integer>
+		<key>V</key>
+		<integer>-88</integer>
+		<key>Y</key>
+		<integer>-154</integer>
+		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ycircumflex</key>
+		<integer>-154</integer>
+		<key>Ydieresis</key>
+		<integer>-154</integer>
+		<key>apostrophemod</key>
+		<integer>-154</integer>
+		<key>quotedbl</key>
+		<integer>-154</integer>
+		<key>quotedblleft</key>
+		<integer>-154</integer>
+		<key>quotedblright</key>
+		<integer>-154</integer>
+		<key>quotesingle</key>
+		<integer>-154</integer>
+		<key>quoteleft</key>
+		<integer>-154</integer>
+		<key>quoteright</key>
+		<integer>-154</integer>
+	</dict>
 	<key>Egrave</key>
 	<dict>
 		<key>napostrophe</key>

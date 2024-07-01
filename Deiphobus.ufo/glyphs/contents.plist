@@ -106,6 +106,8 @@
     <string>E_dieresis.glif</string>
     <key>Edot</key>
     <string>E_dot.glif</string>
+    <key>Edotbelow</key>
+    <string>E_dotbelow.glif</string>
     <key>Efcyrillic</key>
     <string>E_fcyrillic.glif</string>
     <key>Egrave</key>
