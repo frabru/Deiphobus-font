@@ -796,9 +796,9 @@
 		<key>Itilde</key>
 		<integer>-154</integer>
 		<key>J</key>
-		<integer>-154</integer>
+		<integer>-66</integer>
 		<key>Jcircumflex</key>
-		<integer>-154</integer>
+		<integer>-66</integer>
 		<key>T</key>
 		<integer>-154</integer>
 		<key>Tbar</key>
@@ -1316,9 +1316,9 @@
 		<key>Itilde</key>
 		<integer>-110</integer>
 		<key>J</key>
-		<integer>-110</integer>
+		<integer>-44</integer>
 		<key>Jcircumflex</key>
-		<integer>-110</integer>
+		<integer>-44</integer>
 		<key>T</key>
 		<integer>-110</integer>
 		<key>Tbar</key>
@@ -1349,9 +1349,9 @@
 	<key>V</key>
 	<dict>
 		<key>J</key>
-		<integer>-132</integer>
+		<integer>-44</integer>
 		<key>Jcircumflex</key>
-		<integer>-132</integer>
+		<integer>-44</integer>
 	</dict>
 	<key>Y</key>
 	<dict>
@@ -1977,7 +1977,7 @@
 		<key>Yicyrillic</key>
 		<integer>-121</integer>
 		<key>Jecyrillic</key>
-		<integer>-121</integer>
+		<integer>-33</integer>
 	</dict>
 	<key>Ushortcyrillic</key>
 	<dict>
@@ -1994,7 +1994,7 @@
 		<key>Yicyrillic</key>
 		<integer>-121</integer>
 		<key>Jecyrillic</key>
-		<integer>-121</integer>
+		<integer>-33</integer>
 	</dict>
 	<key>apostrophemod</key>
 	<dict>
