@@ -76,12 +76,12 @@
 		<g transform="translate(896 0)">
 			<path id="U" transform="translate(0 160) scale(1 -1)" d="M16 20v108h34v-94h28v94h34v-108l-20 -20h-56l-20 20z"/>
 			<g transform="translate(0 352) scale(1 -1)">
-				<path d="M16 20v14h62v60h-17v34h51v-108l-20 -20h-56l-20 20z"/>
+				<path d="M16 20v31h34v-17h28v60h-17v34h51v-108l-20 -20h-56l-20 20z"/>
 				<path fill="#224" opacity="0.9" d="M16 27v101h34v-101h-34z"/>
 				<circle fill="none" stroke="#c00" stroke-width="3" r="34" cx="70" cy="111"/>
 			</g>
 			<path transform="translate(64 384)" fill="none" stroke="#00c" stroke-width="12" d="M0 30v-50m-20 20l20 -20l20 20"/>
-			<path id="J" transform="translate(0 544) scale(1 -1)" d="M16 20v14h62v60h-17v34h51v-108l-20 -20h-56l-20 20z"/>
+			<path id="J" transform="translate(0 544) scale(1 -1)" d="M16 20v31h34v-17h28v60h-17v34h51v-108l-20 -20h-56l-20 20z"/>
 		</g>
 		<g transform="translate(1024 0)">
 			<path id="W" transform="translate(0 160) scale(1 -1)" d="M16 46v82h34v-74l6 -12l7 14v72h34v-72l7 -14l6 12v74h34v-82l-23 -46h-34l-7 14l-7 -14h-34l-23 46z"/>
