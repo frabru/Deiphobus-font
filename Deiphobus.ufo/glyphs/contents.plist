@@ -132,6 +132,8 @@
     <string>E_psilontonos.glif</string>
     <key>Ercyrillic</key>
     <string>E_rcyrillic.glif</string>
+    <key>Ereversed</key>
+    <string>E_reversed.glif</string>
     <key>Ereversedcyrillic</key>
     <string>E_reversedcyrillic.glif</string>
     <key>Escyrillic</key>
