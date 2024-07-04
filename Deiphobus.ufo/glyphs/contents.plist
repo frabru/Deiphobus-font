@@ -556,6 +556,8 @@
     <string>five.glif</string>
     <key>florin</key>
     <string>florin.glif</string>
+    <key>florin.sign</key>
+    <string>florin.sign.glif</string>
     <key>four</key>
     <string>four.glif</string>
     <key>grave</key>

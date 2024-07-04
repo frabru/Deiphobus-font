@@ -904,6 +904,45 @@
 		<key>Ydieresis</key>
 		<integer>-154</integer>
 	</dict>
+	<key>florin</key>
+	<dict>
+		<key>A</key>
+		<integer>-143</integer>
+		<key>Agrave</key>
+		<integer>-143</integer>
+		<key>Aacute</key>
+		<integer>-143</integer>
+		<key>Acaron</key>
+		<integer>-143</integer>
+		<key>Acircumflex</key>
+		<integer>-143</integer>
+		<key>Adotbelow</key>
+		<integer>-143</integer>
+		<key>Amacron</key>
+		<integer>-143</integer>
+		<key>Atilde</key>
+		<integer>-143</integer>
+		<key>Adieresis</key>
+		<integer>-143</integer>
+		<key>Aogonek</key>
+		<integer>-143</integer>
+		<key>Aring</key>
+		<integer>-143</integer>
+		<key>Abreve</key>
+		<integer>-143</integer>
+		<key>J</key>
+		<integer>-154</integer>
+		<key>Jcircumflex</key>
+		<integer>-154</integer>
+		<key>Y</key>
+		<integer>-154</integer>
+		<key>Yacute</key>
+		<integer>-154</integer>
+		<key>Ycircumflex</key>
+		<integer>-154</integer>
+		<key>Ydieresis</key>
+		<integer>-154</integer>
+	</dict>
   <key>L</key>
   <dict>
 		<key>napostrophe</key>
