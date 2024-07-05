@@ -164,6 +164,8 @@
     <string>G_ecyrillic.glif</string>
     <key>Gheupturncyrillic</key>
     <string>G_heupturncyrillic.glif</string>
+    <key>Ghook</key>
+    <string>G_hook.glif</string>
     <key>Gjecyrillic</key>
     <string>G_jecyrillic.glif</string>
     <key>H</key>
