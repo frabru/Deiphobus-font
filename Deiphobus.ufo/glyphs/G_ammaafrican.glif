@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gammaafrican" format="2">
+  <advance width="1408"/>
+  <unicode hex="0194"/>
+  <unicode hex="0263"/>
+	<anchor x="704" y="1408" name="top"/>
+  <outline>
+    <contour>
+      <point x="176" y="1034" type="line"/>
+      <point x="176" y="1408" type="line"/>
+      <point x="374" y="1408" type="line"/>
+      <point x="528" y="1254" type="line"/>
+      <point x="704" y="902" type="line"/>
+      <point x="880" y="1254" type="line"/>
+      <point x="1034" y="1408" type="line"/>
+      <point x="1232" y="1408" type="line"/>
+      <point x="1232" y="1034" type="line"/>
+      <point x="1188" y="1034" type="line"/>
+      <point x="913" y="484" type="line"/>
+      <point x="1023" y="264" type="line"/>
+      <point x="1023" y="55" type="line"/>
+      <point x="836" y="-132" type="line"/>
+      <point x="572" y="-132" type="line"/>
+      <point x="385" y="55" type="line"/>
+      <point x="385" y="264" type="line"/>
+      <point x="495" y="484" type="line"/>
+      <point x="220" y="1034" type="line"/>
+    </contour>
+  </outline>
+</glyph>

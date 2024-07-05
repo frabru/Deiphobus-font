@@ -58,10 +58,12 @@ F
 Fhook
 G
 Gamma
+Gammaafrican
 Gbreve
 Gcedilla
 Gcircumflex
 Gdot
+Ghook
 H
 Hbar
 Hcircumflex
@@ -190,7 +192,7 @@ feature locl {
 
 feature abvm {
 	markClass [acutecomb brevecmb caroncmb circumflexcmb dotaccentcmb gravecomb hungarumlautcmb macroncmb ringcmb tildecomb uni0308] <anchor 704 1408> @TOP_MARKS;
-	pos base [Acyrillic A Aogonek Becyrillic B Ccedilla C Checyrillic Dzecyrillic Dzhecyrillic Ecyrillic Encyrillic Eopen Ercyrillic Ereversedcyrillic Escyrillic Eth F Fhook florin Gecyrillic Gheupturncyrillic gravecomb Hbar H IAcyrillic Icyrillic I Iogonek Iicyrillic Kacyrillic K Khacyrillic N Ncedilla Eng Ocyrillic O Oslash Pecyrillic P Q R Rcedilla Scedilla S Tcedilla Tecyrillic T Tbar Ucyrillic U Uogonek Vecyrillic V X Y Zecyrillic Z] <anchor 704 1408> mark @TOP_MARKS;
+	pos base [Acyrillic A Aogonek Becyrillic B Ccedilla C Checyrillic Dzecyrillic Dzhecyrillic Ecyrillic Encyrillic Eopen Ercyrillic Ereversedcyrillic Escyrillic Eth F Fhook florin Gammaafrican Gecyrillic Gheupturncyrillic gravecomb Hbar H IAcyrillic Icyrillic I Iogonek Iicyrillic Kacyrillic K Khacyrillic N Ncedilla Eng Ocyrillic O Oslash Pecyrillic P Q R Rcedilla Scedilla S Tcedilla Tecyrillic T Tbar Ucyrillic U Uogonek Vecyrillic V X Y Zecyrillic Z] <anchor 704 1408> mark @TOP_MARKS;
 	pos base [AE Efcyrillic Emcyrillic IUcyrillic M Shacyrillic W Yericyrillic Zhecyrillic] <anchor 880 1408> mark @TOP_MARKS;
 	pos base [Alphalatin Dhook] <anchor 627 1408> mark @TOP_MARKS;
 	pos base [D Dafrican Ddotbelow Dlinebelow Dslash] <anchor 495 1408> mark @TOP_MARKS;
@@ -200,7 +202,7 @@ feature abvm {
 	pos base [E Edotbelow Eogonek Iecyrillic] <anchor 627 1408> mark @TOP_MARKS;
 	pos base [Elcyrillic] <anchor 792 1408> mark @TOP_MARKS;
 	pos base [florin.sign] <anchor 1056 1408> mark @TOP_MARKS;
-	pos base [G Gcedilla] <anchor 682 1408> mark @TOP_MARKS;
+	pos base [G Ghook Gcedilla] <anchor 682 1408> mark @TOP_MARKS;
 	pos base [J] <anchor 858 1408> mark @TOP_MARKS;
 	pos base [Jecyrillic] <anchor 1045 1408> mark @TOP_MARKS;
 	pos base [L Lslash Lcaron Lcedilla] <anchor 550 1408> mark @TOP_MARKS;

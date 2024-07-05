@@ -152,6 +152,8 @@
     <string>G_.glif</string>
     <key>Gamma</key>
     <string>G_amma.glif</string>
+    <key>Gammaafrican</key>
+    <string>G_ammaafrican.glif</string>
     <key>Gbreve</key>
     <string>G_breve.glif</string>
     <key>Gcedilla</key>
