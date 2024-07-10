@@ -67,6 +67,7 @@ Ghook
 H
 Hbar
 Hcircumflex
+Hhook
 I
 I.short
 IJ
@@ -197,6 +198,7 @@ feature abvm {
 	pos base [Alphalatin Dhook] <anchor 627 1408> mark @TOP_MARKS;
 	pos base [D Dafrican Ddotbelow Dlinebelow Dslash] <anchor 495 1408> mark @TOP_MARKS;
 	pos base [Decyrillic] <anchor 968 1408> mark @TOP_MARKS;
+	pos base [Hhook] <anchor 770 1408> mark @TOP_MARKS;
 	pos base [Hardsigncyrillic] <anchor 495 1408> mark @TOP_MARKS;
 	pos base [Djecyrillic Tshecyrillic] <anchor 605 1408> mark @TOP_MARKS;
 	pos base [E Edotbelow Eogonek Iecyrillic] <anchor 627 1408> mark @TOP_MARKS;

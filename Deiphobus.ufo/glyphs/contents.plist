@@ -178,6 +178,8 @@
     <string>H_bar.glif</string>
     <key>Hcircumflex</key>
     <string>H_circumflex.glif</string>
+    <key>Hhook</key>
+    <string>H_hook.glif</string>
     <key>I</key>
     <string>I_.glif</string>
     <key>I.short</key>
