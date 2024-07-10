@@ -206,6 +206,8 @@
     <string>I_dieresis.glif</string>
     <key>Idotaccent</key>
     <string>I_dotaccent.glif</string>
+    <key>Idotbelow</key>
+    <string>I_dotbelow.glif</string>
     <key>Iecyrillic</key>
     <string>I_ecyrillic.glif</string>
     <key>Iecyrillic.short</key>
