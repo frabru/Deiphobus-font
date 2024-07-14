@@ -228,6 +228,8 @@
     <string>I_ota.glif</string>
     <key>Iota.short</key>
     <string>I_ota.short.glif</string>
+    <key>Iotaafrican</key>
+    <string>I_otaafrican.glif</string>
     <key>Iotadieresis</key>
     <string>I_otadieresis.glif</string>
     <key>Iotatonos</key>

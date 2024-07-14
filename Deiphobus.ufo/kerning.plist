@@ -1042,6 +1042,41 @@
 		<key>Jcircumflex</key>
 		<integer>-209</integer>
 	</dict>
+	<key>Iotaafrican</key>
+	<dict>
+		<key>T</key>
+		<integer>-198</integer>
+		<key>Tbar</key>
+		<integer>-198</integer>
+		<key>Tcaron</key>
+		<integer>-198</integer>
+		<key>Tcedilla</key>
+		<integer>-198</integer>
+		<key>V</key>
+		<integer>-88</integer>
+		<key>Y</key>
+		<integer>-198</integer>
+		<key>Yacute</key>
+		<integer>-198</integer>
+		<key>Ycircumflex</key>
+		<integer>-198</integer>
+		<key>Ydieresis</key>
+		<integer>-198</integer>
+		<key>apostrophemod</key>
+		<integer>-187</integer>
+		<key>quotedbl</key>
+		<integer>-198</integer>
+		<key>quotedblleft</key>
+		<integer>-198</integer>
+		<key>quotedblright</key>
+		<integer>-198</integer>
+		<key>quotesingle</key>
+		<integer>-187</integer>
+		<key>quoteleft</key>
+		<integer>-187</integer>
+		<key>quoteright</key>
+		<integer>-187</integer>
+	</dict>
   <key>L</key>
   <dict>
 		<key>Gammaafrican</key>
