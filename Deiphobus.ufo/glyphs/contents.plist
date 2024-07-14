@@ -232,6 +232,8 @@
     <string>I_otadieresis.glif</string>
     <key>Iotatonos</key>
     <string>I_otatonos.glif</string>
+    <key>Istroke</key>
+    <string>I_stroke.glif</string>
     <key>Itilde</key>
     <string>I_tilde.glif</string>
     <key>J</key>

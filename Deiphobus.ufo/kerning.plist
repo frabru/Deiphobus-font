@@ -857,6 +857,8 @@
 		<integer>-154</integer>
 		<key>Iogonek</key>
 		<integer>-154</integer>
+		<key>Istroke</key>
+		<integer>-154</integer>
 		<key>Itilde</key>
 		<integer>-154</integer>
 		<key>J</key>
@@ -1464,6 +1466,8 @@
 		<key>Imacron</key>
 		<integer>-110</integer>
 		<key>Iogonek</key>
+		<integer>-110</integer>
+		<key>Istroke</key>
 		<integer>-110</integer>
 		<key>Itilde</key>
 		<integer>-110</integer>
