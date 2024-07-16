@@ -254,6 +254,8 @@
     <string>K_cedilla.glif</string>
     <key>Khacyrillic</key>
     <string>K_hacyrillic.glif</string>
+    <key>Khook</key>
+    <string>K_hook.glif</string>
     <key>Kjecyrillic</key>
     <string>K_jecyrillic.glif</string>
     <key>L</key>
