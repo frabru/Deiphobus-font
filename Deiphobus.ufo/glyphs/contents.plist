@@ -290,6 +290,8 @@
     <string>N_cedilla.glif</string>
     <key>Ndotbelow</key>
     <string>N_dotbelow.glif</string>
+    <key>Nhookleft</key>
+    <string>N_hookleft.glif</string>
     <key>Njecyrillic</key>
     <string>N_jecyrillic.glif</string>
     <key>Ntilde</key>
