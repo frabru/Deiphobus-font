@@ -94,6 +94,7 @@ Lacute
 Lcaron
 Lcedilla
 Ldot
+Ldotbelow
 Lslash
 M
 N
@@ -212,7 +213,7 @@ feature abvm {
 	pos base [G Ghook Gcedilla] <anchor 682 1408> mark @TOP_MARKS;
 	pos base [J] <anchor 858 1408> mark @TOP_MARKS;
 	pos base [Jecyrillic] <anchor 1045 1408> mark @TOP_MARKS;
-	pos base [L Lslash Lcaron Lcedilla] <anchor 550 1408> mark @TOP_MARKS;
+	pos base [L Ldotbelow Lslash Lcaron Lcedilla] <anchor 550 1408> mark @TOP_MARKS;
 	pos base [Ljecyrillic] <anchor 671 1408> mark @TOP_MARKS;
 	pos base [Tsecyrillic] <anchor 671 1408> mark @TOP_MARKS;
 	pos base [Njecyrillic] <anchor 627 1408> mark @TOP_MARKS;

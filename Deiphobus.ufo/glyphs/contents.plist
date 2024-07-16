@@ -270,6 +270,8 @@
     <string>L_cedilla.glif</string>
     <key>Ldot</key>
     <string>L_dot.glif</string>
+    <key>Ldotbelow</key>
+    <string>L_dotbelow.glif</string>
     <key>Ljecyrillic</key>
     <string>L_jecyrillic.glif</string>
     <key>Lslash</key>

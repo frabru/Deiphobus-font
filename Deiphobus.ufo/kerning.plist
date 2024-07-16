@@ -1233,6 +1233,45 @@
 		<key>quoteright</key>
 		<integer>-341</integer>
   </dict>
+  <key>Ldotbelow</key>
+  <dict>
+		<key>Gammaafrican</key>
+		<integer>-209</integer>
+		<key>napostrophe</key>
+		<integer>-341</integer>
+    <key>T</key>
+    <integer>-341</integer>
+    <key>Tbar</key>
+    <integer>-341</integer>
+    <key>Tcaron</key>
+    <integer>-341</integer>
+    <key>Tcedilla</key>
+    <integer>-341</integer>
+    <key>V</key>
+    <integer>-88</integer>
+    <key>Y</key>
+    <integer>-341</integer>
+    <key>Yacute</key>
+    <integer>-341</integer>
+    <key>Ycircumflex</key>
+    <integer>-341</integer>
+    <key>Ydieresis</key>
+    <integer>-341</integer>
+		<key>apostrophemod</key>
+		<integer>-341</integer>
+		<key>quotedbl</key>
+		<integer>-352</integer>
+		<key>quotedblleft</key>
+		<integer>-352</integer>
+		<key>quotedblright</key>
+		<integer>-352</integer>
+		<key>quotesingle</key>
+		<integer>-341</integer>
+		<key>quoteleft</key>
+		<integer>-341</integer>
+		<key>quoteright</key>
+		<integer>-341</integer>
+  </dict>
   <key>Lslash</key>
   <dict>
 		<key>Gammaafrican</key>
