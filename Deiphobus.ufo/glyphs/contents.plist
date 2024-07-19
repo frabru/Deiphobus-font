@@ -122,6 +122,8 @@
     <string>E_ncyrillic.glif</string>
     <key>Eng</key>
     <string>E_ng.glif</string>
+    <key>Eng.sami</key>
+    <string>E_ng.sami.glif</string>
     <key>Eogonek</key>
     <string>E_ogonek.glif</string>
     <key>Eopen</key>

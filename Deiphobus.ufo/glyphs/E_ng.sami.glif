@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Eng" format="2">
+<glyph name="Eng.sami" format="2">
   <advance width="1408"/>
-  <unicode hex="014A"/>
-  <unicode hex="014B"/>
 	<anchor x="704" y="1408" name="top"/>
   <outline>
     <contour>
       <point x="176" y="0" type="line"/>
       <point x="176" y="1408" type="line"/>
-      <point x="550" y="1408" type="line"/>
-      <point x="550" y="1254" type="line"/>
-      <point x="704" y="1408" type="line"/>
-      <point x="1012" y="1408" type="line"/>
-      <point x="1232" y="1188" type="line"/>
+      <point x="561" y="1408" type="line"/>
+      <point x="858" y="814" type="line"/>
+      <point x="858" y="1408" type="line"/>
+      <point x="1232" y="1408" type="line"/>
       <point x="1232" y="-308" type="line"/>
       <point x="1012" y="-528" type="line"/>
       <point x="704" y="-528" type="line"/>
       <point x="704" y="-154" type="line"/>
       <point x="858" y="-154" type="line"/>
-      <point x="858" y="1034" type="line"/>
-      <point x="550" y="726" type="line"/>
+      <point x="858" y="-22" type="line"/>
+      <point x="550" y="594" type="line"/>
       <point x="550" y="0" type="line"/>
     </contour>
   </outline>

@@ -3,6 +3,17 @@ languagesystem latn dflt;
 languagesystem latn TRK;
 languagesystem latn AZE;
 languagesystem latn CRT;
+languagesystem latn SMI;
+languagesystem latn SME;
+languagesystem latn SJE;
+languagesystem latn SJU;
+languagesystem latn SMJ;
+languagesystem latn SMS;
+languagesystem latn SJD;
+languagesystem latn SJK;
+languagesystem latn SMA;
+languagesystem latn SMN;
+
 
 @digit = [zero one two three four five six seven eight nine];
 @letter.latn = [
@@ -50,6 +61,7 @@ Edotbelow
 Egrave
 Emacron
 Eng
+Eng.sami
 Eogonek
 Eopen
 Ereversed
@@ -187,6 +199,10 @@ uni0308
 ];
 @whitespace = [space];
 
+lookup engvar {
+	sub Eng by Eng.sami;
+} engvar;
+
 feature locl {
 	script latn;
 	language TRK;
@@ -197,11 +213,22 @@ feature locl {
 	lookup idot;
 	language CRT;
 	lookup idot;
+
+	language SMI; lookup engvar;
+	language SME; lookup engvar;
+	language SJE; lookup engvar;
+	language SJU; lookup engvar;
+	language SMJ; lookup engvar;
+	language SMS; lookup engvar;
+	language SJD; lookup engvar;
+	language SJK; lookup engvar;
+	language SMA; lookup engvar;
+	language SMN; lookup engvar;
 } locl;
 
 feature abvm {
 	markClass [acutecomb brevecmb caroncmb circumflexcmb dotaccentcmb gravecomb hungarumlautcmb macroncmb ringcmb tildecomb uni0308] <anchor 704 1408> @TOP_MARKS;
-	pos base [Acyrillic A Adotbelow Aogonek Becyrillic B Bdotbelow Ccedilla C Checyrillic Dzecyrillic Dzhecyrillic Ecyrillic Encyrillic Eopen Ercyrillic Ereversedcyrillic Escyrillic Eth F Fhook florin Gammaafrican Gecyrillic Gheupturncyrillic gravecomb Hbar H Hdotbelow IAcyrillic Icyrillic I Idotbelow Iogonek Istroke Iicyrillic Kacyrillic K Khook Khacyrillic N Ncedilla Ndotbelow Nhookleft Eng Ocyrillic O Oslash Pecyrillic P Q R Rcedilla Scedilla S Tcedilla Tecyrillic T Tbar Ucyrillic U Uogonek Vecyrillic V X Y Zecyrillic Z] <anchor 704 1408> mark @TOP_MARKS;
+	pos base [Acyrillic A Adotbelow Aogonek Becyrillic B Bdotbelow Ccedilla C Checyrillic Dzecyrillic Dzhecyrillic Ecyrillic Encyrillic Eopen Ercyrillic Ereversedcyrillic Escyrillic Eth F Fhook florin Gammaafrican Gecyrillic Gheupturncyrillic gravecomb Hbar H Hdotbelow IAcyrillic Icyrillic I Idotbelow Iogonek Istroke Iicyrillic Kacyrillic K Khook Khacyrillic N Ncedilla Ndotbelow Nhookleft Eng Eng.sami Ocyrillic O Oslash Pecyrillic P Q R Rcedilla Scedilla S Tcedilla Tecyrillic T Tbar Ucyrillic U Uogonek Vecyrillic V X Y Zecyrillic Z] <anchor 704 1408> mark @TOP_MARKS;
 	pos base [AE Efcyrillic Emcyrillic IUcyrillic M Shacyrillic W Yericyrillic Zhecyrillic] <anchor 880 1408> mark @TOP_MARKS;
 	pos base [Alphalatin Dhook] <anchor 627 1408> mark @TOP_MARKS;
 	pos base [D Dafrican Ddotbelow Dlinebelow Dslash] <anchor 495 1408> mark @TOP_MARKS;
@@ -228,6 +255,7 @@ feature abvm {
 
 lookup alternatives {
 	sub florin from [Fhook florin.sign];
+	sub Eng from [Eng Eng.sami];
 } alternatives;
 
 feature calt {
