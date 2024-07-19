@@ -340,6 +340,8 @@
     <string>O_tilde.glif</string>
     <key>P</key>
     <string>P_.glif</string>
+    <key>Pacute</key>
+    <string>P_acute.glif</string>
     <key>Pecyrillic</key>
     <string>P_ecyrillic.glif</string>
     <key>Phi</key>
