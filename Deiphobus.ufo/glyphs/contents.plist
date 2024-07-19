@@ -316,6 +316,8 @@
     <string>O_cyrillic.glif</string>
     <key>Odieresis</key>
     <string>O_dieresis.glif</string>
+    <key>Odotbelow</key>
+    <string>O_dotbelow.glif</string>
     <key>Ograve</key>
     <string>O_grave.glif</string>
     <key>Ohungarumlaut</key>
