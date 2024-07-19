@@ -1383,6 +1383,39 @@
 		<key>Jcircumflex</key>
 		<integer>-330</integer>
 	</dict>
+	<key>rfishhook</key>
+	<dict>
+		<key>AE</key>
+		<integer>-143</integer>
+		<key>A</key>
+		<integer>-143</integer>
+		<key>Agrave</key>
+		<integer>-143</integer>
+		<key>Aacute</key>
+		<integer>-143</integer>
+		<key>Acaron</key>
+		<integer>-143</integer>
+		<key>Acircumflex</key>
+		<integer>-143</integer>
+		<key>Adotbelow</key>
+		<integer>-143</integer>
+		<key>Amacron</key>
+		<integer>-143</integer>
+		<key>Atilde</key>
+		<integer>-143</integer>
+		<key>Adieresis</key>
+		<integer>-143</integer>
+		<key>Aogonek</key>
+		<integer>-143</integer>
+		<key>Aring</key>
+		<integer>-143</integer>
+		<key>Abreve</key>
+		<integer>-143</integer>
+		<key>J</key>
+		<integer>-341</integer>
+		<key>Jcircumflex</key>
+		<integer>-341</integer>
+	</dict>
 	<key>T</key>
 	<dict>
 		<key>AE</key>
