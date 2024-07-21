@@ -618,6 +618,8 @@
     <string>florin.sign.glif</string>
     <key>four</key>
     <string>four.glif</string>
+    <key>glottalstop</key>
+    <string>glottalstop.glif</string>
     <key>glottalstopreversed</key>
     <string>glottalstopreversed.glif</string>
     <key>grave</key>

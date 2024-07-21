@@ -29,6 +29,8 @@
 		<integer>-132</integer>
 		<key>Yhook</key>
 		<integer>-132</integer>
+		<key>glottalstop</key>
+		<integer>-143</integer>
 	</dict>
 	<key>Agrave</key>
 	<dict>
@@ -56,6 +58,8 @@
 		<integer>-132</integer>
 		<key>Yhook</key>
 		<integer>-132</integer>
+		<key>glottalstop</key>
+		<integer>-143</integer>
 	</dict>
 	<key>Aacute</key>
 	<dict>
@@ -83,6 +87,8 @@
 		<integer>-132</integer>
 		<key>Yhook</key>
 		<integer>-132</integer>
+		<key>glottalstop</key>
+		<integer>-143</integer>
 	</dict>
 	<key>Adotbelow</key>
 	<dict>
@@ -110,6 +116,8 @@
 		<integer>-132</integer>
 		<key>Yhook</key>
 		<integer>-132</integer>
+		<key>glottalstop</key>
+		<integer>-143</integer>
 	</dict>
 	<key>Acaron</key>
 	<dict>
@@ -137,6 +145,8 @@
 		<integer>-132</integer>
 		<key>Yhook</key>
 		<integer>-132</integer>
+		<key>glottalstop</key>
+		<integer>-143</integer>
 	</dict>
 	<key>Acircumflex</key>
 	<dict>
@@ -164,6 +174,8 @@
 		<integer>-132</integer>
 		<key>Yhook</key>
 		<integer>-132</integer>
+		<key>glottalstop</key>
+		<integer>-143</integer>
 	</dict>
 	<key>Amacron</key>
 	<dict>
@@ -191,6 +203,8 @@
 		<integer>-132</integer>
 		<key>Yhook</key>
 		<integer>-132</integer>
+		<key>glottalstop</key>
+		<integer>-143</integer>
 	</dict>
 	<key>Atilde</key>
 	<dict>
@@ -218,6 +232,8 @@
 		<integer>-132</integer>
 		<key>Yhook</key>
 		<integer>-132</integer>
+		<key>glottalstop</key>
+		<integer>-143</integer>
 	</dict>
 	<key>Adieresis</key>
 	<dict>
@@ -245,6 +261,8 @@
 		<integer>-132</integer>
 		<key>Yhook</key>
 		<integer>-132</integer>
+		<key>glottalstop</key>
+		<integer>-143</integer>
 	</dict>
 	<key>Aogonek</key>
 	<dict>
@@ -272,6 +290,8 @@
 		<integer>-132</integer>
 		<key>Yhook</key>
 		<integer>-132</integer>
+		<key>glottalstop</key>
+		<integer>-143</integer>
 	</dict>
 	<key>Aring</key>
 	<dict>
@@ -299,6 +319,8 @@
 		<integer>-132</integer>
 		<key>Yhook</key>
 		<integer>-132</integer>
+		<key>glottalstop</key>
+		<integer>-143</integer>
 	</dict>
 	<key>Abreve</key>
 	<dict>
@@ -326,6 +348,8 @@
 		<integer>-132</integer>
 		<key>Yhook</key>
 		<integer>-132</integer>
+		<key>glottalstop</key>
+		<integer>-143</integer>
 	</dict>
 	<key>D</key>
 	<dict>
@@ -353,6 +377,8 @@
 		<integer>-176</integer>
 		<key>Yhook</key>
 		<integer>-176</integer>
+		<key>glottalstop</key>
+		<integer>-154</integer>
 	</dict>
 	<key>Dafrican</key>
 	<dict>
@@ -380,6 +406,8 @@
 		<integer>-176</integer>
 		<key>Yhook</key>
 		<integer>-176</integer>
+		<key>glottalstop</key>
+		<integer>-154</integer>
 	</dict>
 	<key>Dcaron</key>
 	<dict>
@@ -407,6 +435,8 @@
 		<integer>-176</integer>
 		<key>Yhook</key>
 		<integer>-176</integer>
+		<key>glottalstop</key>
+		<integer>-154</integer>
 	</dict>
 	<key>Ddotbelow</key>
 	<dict>
@@ -434,6 +464,8 @@
 		<integer>-176</integer>
 		<key>Yhook</key>
 		<integer>-176</integer>
+		<key>glottalstop</key>
+		<integer>-154</integer>
 	</dict>
 	<key>Dhook</key>
 	<dict>
@@ -461,6 +493,8 @@
 		<integer>-110</integer>
 		<key>Yhook</key>
 		<integer>-110</integer>
+		<key>glottalstop</key>
+		<integer>-22</integer>
 	</dict>
 	<key>Dlinebelow</key>
 	<dict>
@@ -488,6 +522,8 @@
 		<integer>-176</integer>
 		<key>Yhook</key>
 		<integer>-176</integer>
+		<key>glottalstop</key>
+		<integer>-154</integer>
 	</dict>
 	<key>Dslash</key>
 	<dict>
@@ -515,6 +551,8 @@
 		<integer>-176</integer>
 		<key>Yhook</key>
 		<integer>-176</integer>
+		<key>glottalstop</key>
+		<integer>-154</integer>
 	</dict>
 	<key>E</key>
 	<dict>
@@ -545,6 +583,8 @@
 		<key>Ydieresis</key>
 		<integer>-154</integer>
 		<key>Yhook</key>
+		<integer>-154</integer>
+		<key>glottalstop</key>
 		<integer>-154</integer>
 		<key>apostrophemod</key>
 		<integer>-154</integer>
@@ -591,6 +631,8 @@
 		<integer>-154</integer>
 		<key>Yhook</key>
 		<integer>-154</integer>
+		<key>glottalstop</key>
+		<integer>-154</integer>
 		<key>apostrophemod</key>
 		<integer>-154</integer>
 		<key>quotedbl</key>
@@ -635,6 +677,8 @@
 		<key>Ydieresis</key>
 		<integer>-154</integer>
 		<key>Yhook</key>
+		<integer>-154</integer>
+		<key>glottalstop</key>
 		<integer>-154</integer>
 		<key>apostrophemod</key>
 		<integer>-154</integer>
@@ -681,6 +725,8 @@
 		<integer>-154</integer>
 		<key>Yhook</key>
 		<integer>-154</integer>
+		<key>glottalstop</key>
+		<integer>-154</integer>
 		<key>apostrophemod</key>
 		<integer>-154</integer>
 		<key>quotedbl</key>
@@ -725,6 +771,8 @@
 		<key>Ydieresis</key>
 		<integer>-154</integer>
 		<key>Yhook</key>
+		<integer>-154</integer>
+		<key>glottalstop</key>
 		<integer>-154</integer>
 		<key>apostrophemod</key>
 		<integer>-154</integer>
@@ -771,6 +819,8 @@
 		<integer>-154</integer>
 		<key>Yhook</key>
 		<integer>-154</integer>
+		<key>glottalstop</key>
+		<integer>-154</integer>
 		<key>apostrophemod</key>
 		<integer>-154</integer>
 		<key>quotedbl</key>
@@ -815,6 +865,8 @@
 		<key>Ydieresis</key>
 		<integer>-154</integer>
 		<key>Yhook</key>
+		<integer>-154</integer>
+		<key>glottalstop</key>
 		<integer>-154</integer>
 		<key>apostrophemod</key>
 		<integer>-154</integer>
@@ -861,6 +913,8 @@
 		<integer>-154</integer>
 		<key>Yhook</key>
 		<integer>-154</integer>
+		<key>glottalstop</key>
+		<integer>-154</integer>
 		<key>apostrophemod</key>
 		<integer>-154</integer>
 		<key>quotedbl</key>
@@ -905,6 +959,8 @@
 		<key>Ydieresis</key>
 		<integer>-154</integer>
 		<key>Yhook</key>
+		<integer>-154</integer>
+		<key>glottalstop</key>
 		<integer>-154</integer>
 		<key>apostrophemod</key>
 		<integer>-154</integer>
@@ -951,6 +1007,8 @@
 		<integer>-154</integer>
 		<key>Yhook</key>
 		<integer>-154</integer>
+		<key>glottalstop</key>
+		<integer>-154</integer>
 		<key>apostrophemod</key>
 		<integer>-154</integer>
 		<key>quotedbl</key>
@@ -995,6 +1053,8 @@
 		<key>Ydieresis</key>
 		<integer>-154</integer>
 		<key>Yhook</key>
+		<integer>-154</integer>
+		<key>glottalstop</key>
 		<integer>-154</integer>
 		<key>apostrophemod</key>
 		<integer>-154</integer>
@@ -1082,6 +1142,8 @@
 		<key>Zdotbelow</key>
 		<integer>-154</integer>
 		<key>Zstroke</key>
+		<integer>-154</integer>
+		<key>glottalstop</key>
 		<integer>-154</integer>
 	</dict>
 	<key>F</key>
@@ -1282,6 +1344,8 @@
 		<integer>-198</integer>
 		<key>Yhook</key>
 		<integer>-198</integer>
+		<key>glottalstop</key>
+		<integer>-198</integer>
 		<key>apostrophemod</key>
 		<integer>-187</integer>
 		<key>quotedbl</key>
@@ -1327,6 +1391,8 @@
     <integer>-341</integer>
     <key>Yhook</key>
     <integer>-341</integer>
+    <key>glottalstop</key>
+    <integer>-264</integer>
 		<key>apostrophemod</key>
 		<integer>-341</integer>
 		<key>quotedbl</key>
@@ -1372,6 +1438,8 @@
     <integer>-341</integer>
     <key>Yhook</key>
     <integer>-341</integer>
+    <key>glottalstop</key>
+    <integer>-264</integer>
 		<key>apostrophemod</key>
 		<integer>-341</integer>
 		<key>quotedbl</key>
@@ -1417,6 +1485,8 @@
     <integer>-341</integer>
     <key>Yhook</key>
     <integer>-341</integer>
+    <key>glottalstop</key>
+    <integer>-264</integer>
 		<key>apostrophemod</key>
 		<integer>-341</integer>
 		<key>quotedbl</key>
@@ -1462,6 +1532,8 @@
     <integer>-341</integer>
     <key>Yhook</key>
     <integer>-341</integer>
+    <key>glottalstop</key>
+    <integer>-264</integer>
 		<key>apostrophemod</key>
 		<integer>-341</integer>
 		<key>quotedbl</key>
@@ -1507,6 +1579,8 @@
     <integer>-341</integer>
     <key>Yhook</key>
     <integer>-341</integer>
+    <key>glottalstop</key>
+    <integer>-264</integer>
 		<key>apostrophemod</key>
 		<integer>-341</integer>
 		<key>quotedbl</key>
@@ -1552,6 +1626,8 @@
     <integer>-341</integer>
     <key>Yhook</key>
     <integer>-341</integer>
+    <key>glottalstop</key>
+    <integer>-264</integer>
 		<key>apostrophemod</key>
 		<integer>-341</integer>
 		<key>quotedbl</key>
@@ -1597,6 +1673,8 @@
     <integer>-198</integer>
     <key>Yhook</key>
     <integer>-198</integer>
+    <key>glottalstop</key>
+    <integer>-264</integer>
 		<key>apostrophemod</key>
 		<integer>-187</integer>
 		<key>quotedbl</key>
@@ -2016,6 +2094,8 @@
 		<integer>-220</integer>
 		<key>Yhook</key>
 		<integer>-220</integer>
+		<key>glottalstop</key>
+		<integer>-231</integer>
 	</dict>
 	<key>Y</key>
 	<dict>
