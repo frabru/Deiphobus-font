@@ -482,6 +482,8 @@
     <string>Y_dieresis.glif</string>
     <key>Yericyrillic</key>
     <string>Y_ericyrillic.glif</string>
+    <key>Yhook</key>
+    <string>Y_hook.glif</string>
     <key>Yicyrillic</key>
     <string>Y_icyrillic.glif</string>
     <key>Z</key>
