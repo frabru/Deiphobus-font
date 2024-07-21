@@ -500,6 +500,8 @@
     <string>Z_eta.glif</string>
     <key>Zhecyrillic</key>
     <string>Z_hecyrillic.glif</string>
+    <key>Zstroke</key>
+    <string>Z_stroke.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
     <key>acutecomb</key>
