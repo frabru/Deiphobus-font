@@ -494,6 +494,8 @@
     <string>Z_caron.glif</string>
     <key>Zdot</key>
     <string>Z_dot.glif</string>
+    <key>Zdotbelow</key>
+    <string>Z_dotbelow.glif</string>
     <key>Zecyrillic</key>
     <string>Z_ecyrillic.glif</string>
     <key>Zeta</key>

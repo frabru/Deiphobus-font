@@ -1077,6 +1077,8 @@
 		<integer>-154</integer>
 		<key>Zdot</key>
 		<integer>-154</integer>
+		<key>Zdotbelow</key>
+		<integer>-154</integer>
 		<key>Zstroke</key>
 		<integer>-154</integer>
 	</dict>
@@ -1945,6 +1947,8 @@
 		<key>Zcaron</key>
 		<integer>-110</integer>
 		<key>Zdot</key>
+		<integer>-110</integer>
+		<key>Zdotbelow</key>
 		<integer>-110</integer>
 		<key>Zstroke</key>
 		<integer>-110</integer>
