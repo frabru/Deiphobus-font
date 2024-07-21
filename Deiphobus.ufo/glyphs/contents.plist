@@ -414,6 +414,8 @@
     <string>U_.short.glif</string>
     <key>Uacute</key>
     <string>U_acute.glif</string>
+    <key>Ubar</key>
+    <string>U_bar.glif</string>
     <key>Ubreve</key>
     <string>U_breve.glif</string>
     <key>Ucircumflex</key>
