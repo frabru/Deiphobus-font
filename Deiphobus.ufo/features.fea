@@ -178,6 +178,7 @@ kgreenlandic
 longs
 napostrophe
 rfishhook
+uni024D
 uni0400
 uni040D
 uni1E9E
@@ -232,7 +233,7 @@ feature locl {
 
 feature abvm {
 	markClass [acutecomb brevecmb caroncmb circumflexcmb dotaccentcmb gravecomb hungarumlautcmb macroncmb ringcmb tildecomb uni0308] <anchor 704 1408> @TOP_MARKS;
-	pos base [Acyrillic A Adotbelow Aogonek Becyrillic B Bdotbelow Ccedilla C Checyrillic Dzecyrillic Dzhecyrillic Ecyrillic Encyrillic Eopen Ercyrillic Ereversedcyrillic Escyrillic Eth F Fhook florin Gammaafrican Gecyrillic Gheupturncyrillic gravecomb Hbar H Hdotbelow IAcyrillic Icyrillic I Idotbelow Iogonek Istroke Iicyrillic Kacyrillic K Khook Khacyrillic N Ncedilla Ndotbelow Nhookleft Eng Eng.sami Ocyrillic O Odotbelow Oopen Oslash Pecyrillic P Pacute Q R Rcedilla rfishhook Scedilla S Tcedilla Tecyrillic T Tbar Ucyrillic U Uogonek Vecyrillic V X Y Zecyrillic Z] <anchor 704 1408> mark @TOP_MARKS;
+	pos base [Acyrillic A Adotbelow Aogonek Becyrillic B Bdotbelow Ccedilla C Checyrillic Dzecyrillic Dzhecyrillic Ecyrillic Encyrillic Eopen Ercyrillic Ereversedcyrillic Escyrillic Eth F Fhook florin Gammaafrican Gecyrillic Gheupturncyrillic gravecomb Hbar H Hdotbelow IAcyrillic Icyrillic I Idotbelow Iogonek Istroke Iicyrillic Kacyrillic K Khook Khacyrillic N Ncedilla Ndotbelow Nhookleft Eng Eng.sami Ocyrillic O Odotbelow Oopen Oslash Pecyrillic P Pacute Q R Rcedilla rfishhook uni024D Scedilla S Tcedilla Tecyrillic T Tbar Ucyrillic U Uogonek Vecyrillic V X Y Zecyrillic Z] <anchor 704 1408> mark @TOP_MARKS;
 	pos base [AE Efcyrillic Emcyrillic IUcyrillic M Shacyrillic W Yericyrillic Zhecyrillic] <anchor 880 1408> mark @TOP_MARKS;
 	pos base [Alphalatin Dhook] <anchor 627 1408> mark @TOP_MARKS;
 	pos base [D Dafrican Ddotbelow Dlinebelow Dslash] <anchor 495 1408> mark @TOP_MARKS;
