@@ -1073,6 +1073,8 @@
 	</dict>
 	<key>Eth</key>
 	<dict>
+		<key>Ereversed</key>
+		<integer>-154</integer>
 		<key>Ezh</key>
 		<integer>-154</integer>
 		<key>Gammaafrican</key>
@@ -1988,6 +1990,8 @@
 	</dict>
 	<key>Thorn</key>
 	<dict>
+		<key>Ereversed</key>
+		<integer>-110</integer>
 		<key>Ezh</key>
 		<integer>-110</integer>
 		<key>Gammaafrican</key>
