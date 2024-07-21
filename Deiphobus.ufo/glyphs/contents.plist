@@ -454,6 +454,8 @@
     <string>V_.glif</string>
     <key>Vecyrillic</key>
     <string>V_ecyrillic.glif</string>
+    <key>Vturned</key>
+    <string>V_turned.glif</string>
     <key>W</key>
     <string>W_.glif</string>
     <key>Wcircumflex</key>

@@ -1046,6 +1046,8 @@
 		<integer>-154</integer>
 		<key>Jcircumflex</key>
 		<integer>-154</integer>
+		<key>Vturned</key>
+		<integer>-231</integer>
 		<key>Y</key>
 		<integer>-154</integer>
 		<key>Yacute</key>
@@ -1085,6 +1087,8 @@
 		<integer>-154</integer>
 		<key>Jcircumflex</key>
 		<integer>-154</integer>
+		<key>Vturned</key>
+		<integer>-231</integer>
 		<key>Y</key>
 		<integer>-154</integer>
 		<key>Yacute</key>
@@ -1124,6 +1128,8 @@
 		<integer>-154</integer>
 		<key>Jcircumflex</key>
 		<integer>-154</integer>
+		<key>Vturned</key>
+		<integer>-231</integer>
 		<key>Y</key>
 		<integer>-154</integer>
 		<key>Yacute</key>
@@ -1165,6 +1171,8 @@
 		<integer>-209</integer>
 		<key>Jcircumflex</key>
 		<integer>-209</integer>
+		<key>Vturned</key>
+		<integer>-231</integer>
 	</dict>
 	<key>Iotaafrican</key>
 	<dict>
@@ -1538,6 +1546,8 @@
 		<integer>-330</integer>
 		<key>Jcircumflex</key>
 		<integer>-330</integer>
+		<key>Vturned</key>
+		<integer>-231</integer>
 	</dict>
 	<key>rfishhook</key>
 	<dict>
@@ -1571,6 +1581,8 @@
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
 		<integer>-341</integer>
+		<key>Vturned</key>
+		<integer>-231</integer>
 	</dict>
 	<key>T</key>
 	<dict>
@@ -1604,6 +1616,8 @@
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
 		<integer>-341</integer>
+		<key>Vturned</key>
+		<integer>-231</integer>
 	</dict>
 	<key>Tbar</key>
 	<dict>
@@ -1637,6 +1651,8 @@
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
 		<integer>-341</integer>
+		<key>Vturned</key>
+		<integer>-231</integer>
 	</dict>
 	<key>Tcaron</key>
 	<dict>
@@ -1670,6 +1686,8 @@
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
 		<integer>-341</integer>
+		<key>Vturned</key>
+		<integer>-231</integer>
 	</dict>
 	<key>Tcedilla</key>
 	<dict>
@@ -1703,6 +1721,8 @@
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
 		<integer>-341</integer>
+		<key>Vturned</key>
+		<integer>-231</integer>
 	</dict>
 	<key>Tdotbelow</key>
 	<dict>
@@ -1736,6 +1756,8 @@
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
 		<integer>-341</integer>
+		<key>Vturned</key>
+		<integer>-231</integer>
 	</dict>
 	<key>Tlinebelow</key>
 	<dict>
@@ -1769,6 +1791,8 @@
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
 		<integer>-341</integer>
+		<key>Vturned</key>
+		<integer>-231</integer>
 	</dict>
 	<key>Thorn</key>
 	<dict>
@@ -1842,6 +1866,31 @@
 		<key>Jcircumflex</key>
 		<integer>-44</integer>
 	</dict>
+	<key>Vturned</key>
+	<dict>
+		<key>Gammaafrican</key>
+		<integer>-231</integer>
+		<key>T</key>
+		<integer>-231</integer>
+		<key>Tbar</key>
+		<integer>-231</integer>
+		<key>Tcaron</key>
+		<integer>-231</integer>
+		<key>Tcedilla</key>
+		<integer>-231</integer>
+		<key>Tdotbelow</key>
+		<integer>-231</integer>
+		<key>Tlinebelow</key>
+		<integer>-231</integer>
+		<key>Y</key>
+		<integer>-220</integer>
+		<key>Yacute</key>
+		<integer>-220</integer>
+		<key>Ycircumflex</key>
+		<integer>-220</integer>
+		<key>Ydieresis</key>
+		<integer>-220</integer>
+	</dict>
 	<key>Y</key>
 	<dict>
 		<key>AE</key>
@@ -1874,6 +1923,8 @@
     <integer>-341</integer>
 		<key>Jcircumflex</key>
     <integer>-341</integer>
+		<key>Vturned</key>
+		<integer>-220</integer>
 	</dict>
 	<key>Yacute</key>
 	<dict>
@@ -1907,6 +1958,8 @@
     <integer>-341</integer>
 		<key>Jcircumflex</key>
     <integer>-341</integer>
+		<key>Vturned</key>
+		<integer>-220</integer>
 	</dict>
 	<key>Ycircumflex</key>
 	<dict>
@@ -1940,6 +1993,8 @@
     <integer>-341</integer>
 		<key>Jcircumflex</key>
     <integer>-341</integer>
+		<key>Vturned</key>
+		<integer>-220</integer>
 	</dict>
 	<key>Ydieresis</key>
 	<dict>
@@ -1973,6 +2028,8 @@
     <integer>-341</integer>
 		<key>Jcircumflex</key>
     <integer>-341</integer>
+		<key>Vturned</key>
+		<integer>-220</integer>
 	</dict>
 	<key>Alpha</key>
 	<dict>
