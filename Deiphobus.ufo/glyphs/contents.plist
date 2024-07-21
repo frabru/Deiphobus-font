@@ -424,6 +424,8 @@
     <string>U_cyrillic.short.glif</string>
     <key>Udieresis</key>
     <string>U_dieresis.glif</string>
+    <key>Udotbelow</key>
+    <string>U_dotbelow.glif</string>
     <key>Ugrave</key>
     <string>U_grave.glif</string>
     <key>Uhungarumlaut</key>
