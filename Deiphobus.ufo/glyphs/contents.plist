@@ -140,6 +140,8 @@
     <string>E_reversedcyrillic.glif</string>
     <key>Escyrillic</key>
     <string>E_scyrillic.glif</string>
+    <key>Esh</key>
+    <string>E_sh.glif</string>
     <key>Eta</key>
     <string>E_ta.glif</string>
     <key>Etatonos</key>
