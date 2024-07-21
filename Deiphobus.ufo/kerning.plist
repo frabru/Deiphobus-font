@@ -1013,6 +1013,8 @@
 	</dict>
 	<key>Eth</key>
 	<dict>
+		<key>Ezh</key>
+		<integer>-154</integer>
 		<key>Gammaafrican</key>
 		<integer>-154</integer>
 		<key>I</key>
@@ -1108,6 +1110,8 @@
 		<integer>-143</integer>
 		<key>Abreve</key>
 		<integer>-143</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-154</integer>
 		<key>Jcircumflex</key>
@@ -1151,6 +1155,8 @@
 		<integer>-143</integer>
 		<key>Abreve</key>
 		<integer>-143</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-154</integer>
 		<key>Jcircumflex</key>
@@ -1194,6 +1200,8 @@
 		<integer>-143</integer>
 		<key>Abreve</key>
 		<integer>-143</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-154</integer>
 		<key>Jcircumflex</key>
@@ -1239,6 +1247,8 @@
 		<integer>-143</integer>
 		<key>Abreve</key>
 		<integer>-143</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-209</integer>
 		<key>Jcircumflex</key>
@@ -1630,6 +1640,8 @@
 		<integer>-143</integer>
 		<key>Abreve</key>
 		<integer>-143</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-330</integer>
 		<key>Jcircumflex</key>
@@ -1665,6 +1677,8 @@
 		<integer>-143</integer>
 		<key>Abreve</key>
 		<integer>-143</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -1700,6 +1714,8 @@
 		<integer>-143</integer>
 		<key>Abreve</key>
 		<integer>-143</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -1735,6 +1751,8 @@
 		<integer>-143</integer>
 		<key>Abreve</key>
 		<integer>-143</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -1770,6 +1788,8 @@
 		<integer>-143</integer>
 		<key>Abreve</key>
 		<integer>-143</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -1805,6 +1825,8 @@
 		<integer>-143</integer>
 		<key>Abreve</key>
 		<integer>-143</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -1840,6 +1862,8 @@
 		<integer>-143</integer>
 		<key>Abreve</key>
 		<integer>-143</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -1875,6 +1899,8 @@
 		<integer>-143</integer>
 		<key>Abreve</key>
 		<integer>-143</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -1884,6 +1910,8 @@
 	</dict>
 	<key>Thorn</key>
 	<dict>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>Gammaafrican</key>
 		<integer>-110</integer>
 		<key>I</key>
@@ -1955,6 +1983,8 @@
 	</dict>
 	<key>V</key>
 	<dict>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-44</integer>
 		<key>Jcircumflex</key>
@@ -2015,6 +2045,8 @@
 		<integer>-132</integer>
 		<key>Abreve</key>
 		<integer>-132</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
     <integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -2050,6 +2082,8 @@
 		<integer>-132</integer>
 		<key>Abreve</key>
 		<integer>-132</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
     <integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -2085,6 +2119,8 @@
 		<integer>-132</integer>
 		<key>Abreve</key>
 		<integer>-132</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
     <integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -2120,6 +2156,8 @@
 		<integer>-132</integer>
 		<key>Abreve</key>
 		<integer>-132</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
     <integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -2155,6 +2193,8 @@
 		<integer>-132</integer>
 		<key>Abreve</key>
 		<integer>-132</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
     <integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -2675,6 +2715,8 @@
 	</dict>
 	<key>apostrophemod</key>
 	<dict>
+		<key>Ezh</key>
+		<integer>-99</integer>
 		<key>J</key>
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -2698,6 +2740,8 @@
 	</dict>
 	<key>quotedbl</key>
 	<dict>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-352</integer>
 		<key>Jcircumflex</key>
@@ -2707,6 +2751,8 @@
 	</dict>
 	<key>quotedblleft</key>
 	<dict>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-352</integer>
 		<key>Jcircumflex</key>
@@ -2716,6 +2762,8 @@
 	</dict>
 	<key>quotedblright</key>
 	<dict>
+		<key>Ezh</key>
+		<integer>-110</integer>
 		<key>J</key>
 		<integer>-352</integer>
 		<key>Jcircumflex</key>
@@ -2725,6 +2773,8 @@
 	</dict>
 	<key>quoteleft</key>
 	<dict>
+		<key>Ezh</key>
+		<integer>-99</integer>
 		<key>J</key>
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -2734,6 +2784,8 @@
 	</dict>
 	<key>quoteright</key>
 	<dict>
+		<key>Ezh</key>
+		<integer>-99</integer>
 		<key>J</key>
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
@@ -2743,6 +2795,8 @@
 	</dict>
 	<key>quotesingle</key>
 	<dict>
+		<key>Ezh</key>
+		<integer>-99</integer>
 		<key>J</key>
 		<integer>-341</integer>
 		<key>Jcircumflex</key>
