@@ -394,6 +394,8 @@
     <string>T_caron.glif</string>
     <key>Tcedilla</key>
     <string>T_cedilla.glif</string>
+    <key>Tdotbelow</key>
+    <string>T_dotbelow.glif</string>
     <key>Tecyrillic</key>
     <string>T_ecyrillic.glif</string>
     <key>Theta</key>
