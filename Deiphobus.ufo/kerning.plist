@@ -1271,6 +1271,8 @@
 		<integer>-154</integer>
 		<key>glottalstop</key>
 		<integer>-154</integer>
+		<key>uniA7B3</key>
+		<integer>-154</integer>
 	</dict>
 	<key>F</key>
 	<dict>
@@ -2295,6 +2297,8 @@
 		<key>Zdotbelow</key>
 		<integer>-110</integer>
 		<key>Zstroke</key>
+		<integer>-110</integer>
+		<key>uniA7B3</key>
 		<integer>-110</integer>
 	</dict>
 	<key>V</key>
