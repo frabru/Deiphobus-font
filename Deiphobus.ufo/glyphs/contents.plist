@@ -416,6 +416,8 @@
     <string>T_horn.glif</string>
     <key>Tlinebelow</key>
     <string>T_linebelow.glif</string>
+    <key>Tretroflexhook</key>
+    <string>T_retroflexhook.glif</string>
     <key>Tsecyrillic</key>
     <string>T_secyrillic.glif</string>
     <key>Tshecyrillic</key>

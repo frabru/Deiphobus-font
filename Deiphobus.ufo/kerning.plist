@@ -21,6 +21,8 @@
 		<integer>-143</integer>
 		<key>Tlinebelow</key>
 		<integer>-143</integer>
+		<key>Tretroflexhook</key>
+		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
 		<key>Yacute</key>
@@ -51,6 +53,8 @@
 		<key>Thook</key>
 		<integer>-143</integer>
 		<key>Tlinebelow</key>
+		<integer>-143</integer>
+		<key>Tretroflexhook</key>
 		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
@@ -83,6 +87,8 @@
 		<integer>-143</integer>
 		<key>Tlinebelow</key>
 		<integer>-143</integer>
+		<key>Tretroflexhook</key>
+		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
 		<key>Yacute</key>
@@ -113,6 +119,8 @@
 		<key>Thook</key>
 		<integer>-143</integer>
 		<key>Tlinebelow</key>
+		<integer>-143</integer>
+		<key>Tretroflexhook</key>
 		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
@@ -145,6 +153,8 @@
 		<integer>-143</integer>
 		<key>Tlinebelow</key>
 		<integer>-143</integer>
+		<key>Tretroflexhook</key>
+		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
 		<key>Yacute</key>
@@ -175,6 +185,8 @@
 		<key>Thook</key>
 		<integer>-143</integer>
 		<key>Tlinebelow</key>
+		<integer>-143</integer>
+		<key>Tretroflexhook</key>
 		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
@@ -207,6 +219,8 @@
 		<integer>-143</integer>
 		<key>Tlinebelow</key>
 		<integer>-143</integer>
+		<key>Tretroflexhook</key>
+		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
 		<key>Yacute</key>
@@ -237,6 +251,8 @@
 		<key>Thook</key>
 		<integer>-143</integer>
 		<key>Tlinebelow</key>
+		<integer>-143</integer>
+		<key>Tretroflexhook</key>
 		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
@@ -269,6 +285,8 @@
 		<integer>-143</integer>
 		<key>Tlinebelow</key>
 		<integer>-143</integer>
+		<key>Tretroflexhook</key>
+		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
 		<key>Yacute</key>
@@ -299,6 +317,8 @@
 		<key>Thook</key>
 		<integer>-143</integer>
 		<key>Tlinebelow</key>
+		<integer>-143</integer>
+		<key>Tretroflexhook</key>
 		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
@@ -331,6 +351,8 @@
 		<integer>-143</integer>
 		<key>Tlinebelow</key>
 		<integer>-143</integer>
+		<key>Tretroflexhook</key>
+		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
 		<key>Yacute</key>
@@ -361,6 +383,8 @@
 		<key>Thook</key>
 		<integer>-143</integer>
 		<key>Tlinebelow</key>
+		<integer>-143</integer>
+		<key>Tretroflexhook</key>
 		<integer>-143</integer>
 		<key>Y</key>
 		<integer>-132</integer>
@@ -393,6 +417,8 @@
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
 		<integer>-154</integer>
+		<key>Tretroflexhook</key>
+		<integer>-154</integer>
 		<key>Y</key>
 		<integer>-176</integer>
 		<key>Yacute</key>
@@ -423,6 +449,8 @@
 		<key>Thook</key>
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
+		<integer>-154</integer>
+		<key>Tretroflexhook</key>
 		<integer>-154</integer>
 		<key>Y</key>
 		<integer>-176</integer>
@@ -455,6 +483,8 @@
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
 		<integer>-154</integer>
+		<key>Tretroflexhook</key>
+		<integer>-154</integer>
 		<key>Y</key>
 		<integer>-176</integer>
 		<key>Yacute</key>
@@ -485,6 +515,8 @@
 		<key>Thook</key>
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
+		<integer>-154</integer>
+		<key>Tretroflexhook</key>
 		<integer>-154</integer>
 		<key>Y</key>
 		<integer>-176</integer>
@@ -517,6 +549,8 @@
 		<integer>-22</integer>
 		<key>Tlinebelow</key>
 		<integer>-22</integer>
+		<key>Tretroflexhook</key>
+		<integer>-22</integer>
 		<key>Y</key>
 		<integer>-110</integer>
 		<key>Yacute</key>
@@ -548,6 +582,8 @@
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
 		<integer>-154</integer>
+		<key>Tretroflexhook</key>
+		<integer>-154</integer>
 		<key>Y</key>
 		<integer>-176</integer>
 		<key>Yacute</key>
@@ -578,6 +614,8 @@
 		<key>Thook</key>
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
+		<integer>-154</integer>
+		<key>Tretroflexhook</key>
 		<integer>-154</integer>
 		<key>Y</key>
 		<integer>-176</integer>
@@ -611,6 +649,8 @@
 		<key>Thook</key>
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
+		<integer>-154</integer>
+		<key>Tretroflexhook</key>
 		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
@@ -661,6 +701,8 @@
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
 		<integer>-154</integer>
+		<key>Tretroflexhook</key>
+		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
 		<key>Y</key>
@@ -709,6 +751,8 @@
 		<key>Thook</key>
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
+		<integer>-154</integer>
+		<key>Tretroflexhook</key>
 		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
@@ -759,6 +803,8 @@
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
 		<integer>-154</integer>
+		<key>Tretroflexhook</key>
+		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
 		<key>Y</key>
@@ -807,6 +853,8 @@
 		<key>Thook</key>
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
+		<integer>-154</integer>
+		<key>Tretroflexhook</key>
 		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
@@ -857,6 +905,8 @@
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
 		<integer>-154</integer>
+		<key>Tretroflexhook</key>
+		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
 		<key>Y</key>
@@ -905,6 +955,8 @@
 		<key>Thook</key>
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
+		<integer>-154</integer>
+		<key>Tretroflexhook</key>
 		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
@@ -955,6 +1007,8 @@
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
 		<integer>-154</integer>
+		<key>Tretroflexhook</key>
+		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
 		<key>Y</key>
@@ -1003,6 +1057,8 @@
 		<key>Thook</key>
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
+		<integer>-154</integer>
+		<key>Tretroflexhook</key>
 		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
@@ -1053,6 +1109,8 @@
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
 		<integer>-154</integer>
+		<key>Tretroflexhook</key>
+		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
 		<key>Y</key>
@@ -1101,6 +1159,8 @@
 		<key>Thook</key>
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
+		<integer>-154</integer>
+		<key>Tretroflexhook</key>
 		<integer>-154</integer>
 		<key>V</key>
 		<integer>-88</integer>
@@ -1182,6 +1242,8 @@
 		<key>Thook</key>
 		<integer>-154</integer>
 		<key>Tlinebelow</key>
+		<integer>-154</integer>
+		<key>Tretroflexhook</key>
 		<integer>-154</integer>
 		<key>X</key>
 		<integer>-154</integer>
@@ -1398,6 +1460,8 @@
 		<integer>-198</integer>
 		<key>Tlinebelow</key>
 		<integer>-198</integer>
+		<key>Tretroflexhook</key>
+		<integer>-198</integer>
 		<key>V</key>
 		<integer>-88</integer>
 		<key>Y</key>
@@ -1446,6 +1510,8 @@
     <key>Thook</key>
     <integer>-341</integer>
     <key>Tlinebelow</key>
+    <integer>-341</integer>
+    <key>Tretroflexhook</key>
     <integer>-341</integer>
     <key>V</key>
     <integer>-88</integer>
@@ -1496,6 +1562,8 @@
     <integer>-341</integer>
     <key>Tlinebelow</key>
     <integer>-341</integer>
+    <key>Tretroflexhook</key>
+    <integer>-341</integer>
     <key>V</key>
     <integer>-88</integer>
     <key>Y</key>
@@ -1544,6 +1612,8 @@
     <key>Thook</key>
     <integer>-341</integer>
     <key>Tlinebelow</key>
+    <integer>-341</integer>
+    <key>Tretroflexhook</key>
     <integer>-341</integer>
     <key>V</key>
     <integer>-88</integer>
@@ -1594,6 +1664,8 @@
     <integer>-341</integer>
     <key>Tlinebelow</key>
     <integer>-341</integer>
+    <key>Tretroflexhook</key>
+    <integer>-341</integer>
     <key>V</key>
     <integer>-88</integer>
     <key>Y</key>
@@ -1642,6 +1714,8 @@
     <key>Thook</key>
     <integer>-341</integer>
     <key>Tlinebelow</key>
+    <integer>-341</integer>
+    <key>Tretroflexhook</key>
     <integer>-341</integer>
     <key>V</key>
     <integer>-88</integer>
@@ -1692,6 +1766,8 @@
     <integer>-341</integer>
     <key>Tlinebelow</key>
     <integer>-341</integer>
+    <key>Tretroflexhook</key>
+    <integer>-341</integer>
     <key>V</key>
     <integer>-88</integer>
     <key>Y</key>
@@ -1740,6 +1816,8 @@
     <key>Thook</key>
     <integer>-198</integer>
     <key>Tlinebelow</key>
+    <integer>-198</integer>
+    <key>Tretroflexhook</key>
     <integer>-198</integer>
     <key>V</key>
     <integer>-88</integer>
@@ -2103,6 +2181,43 @@
 		<key>Vturned</key>
 		<integer>-231</integer>
 	</dict>
+	<key>Tretroflexhook</key>
+	<dict>
+		<key>AE</key>
+		<integer>-143</integer>
+		<key>A</key>
+		<integer>-143</integer>
+		<key>Agrave</key>
+		<integer>-143</integer>
+		<key>Aacute</key>
+		<integer>-143</integer>
+		<key>Acaron</key>
+		<integer>-143</integer>
+		<key>Acircumflex</key>
+		<integer>-143</integer>
+		<key>Adotbelow</key>
+		<integer>-143</integer>
+		<key>Amacron</key>
+		<integer>-143</integer>
+		<key>Atilde</key>
+		<integer>-143</integer>
+		<key>Adieresis</key>
+		<integer>-143</integer>
+		<key>Aogonek</key>
+		<integer>-143</integer>
+		<key>Aring</key>
+		<integer>-143</integer>
+		<key>Abreve</key>
+		<integer>-143</integer>
+		<key>Ezh</key>
+		<integer>-110</integer>
+		<key>J</key>
+		<integer>-341</integer>
+		<key>Jcircumflex</key>
+		<integer>-341</integer>
+		<key>Vturned</key>
+		<integer>-231</integer>
+	</dict>
 	<key>Thorn</key>
 	<dict>
 		<key>Ereversed</key>
@@ -2155,6 +2270,8 @@
 		<integer>-110</integer>
 		<key>Tlinebelow</key>
 		<integer>-110</integer>
+		<key>Tretroflexhook</key>
+		<integer>-110</integer>
 		<key>X</key>
 		<integer>-187</integer>
 		<key>Y</key>
@@ -2206,6 +2323,8 @@
 		<key>Thook</key>
 		<integer>-231</integer>
 		<key>Tlinebelow</key>
+		<integer>-231</integer>
+		<key>Tretroflexhook</key>
 		<integer>-231</integer>
 		<key>Y</key>
 		<integer>-220</integer>
