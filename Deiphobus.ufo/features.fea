@@ -125,6 +125,7 @@ OE
 Oacute
 Obreve
 Ocircumflex
+Ocenteredtilde
 Odieresis
 Odotbelow
 Ograve
@@ -250,7 +251,7 @@ feature locl {
 
 feature abvm {
 	markClass [acutecomb brevecmb caroncmb circumflexcmb dotaccentcmb gravecomb hungarumlautcmb macroncmb ringcmb tildecomb uni0308] <anchor 704 1408> @TOP_MARKS;
-	pos base [Acyrillic A Adotbelow Aogonek Becyrillic B Bdotbelow Ccedilla C Checyrillic Dzecyrillic Dzhecyrillic Ecyrillic Encyrillic Eopen Ercyrillic Ereversedcyrillic Escyrillic Esh Eth F Fhook florin Gammaafrican glottalstop glottalstopreversed Gecyrillic Gheupturncyrillic gravecomb Hbar H Hdotbelow IAcyrillic Icyrillic I Idotbelow Iogonek Istroke Iicyrillic Kacyrillic K Khook Khacyrillic N Ncedilla Ndotbelow Nhookleft Eng Eng.sami Ocyrillic O Odotbelow Oopen Oslash Pecyrillic P Pacute Q R Rcedilla rfishhook uni024D Scedilla S Sdotbelow Tcedilla Tecyrillic T Tbar Tdotbelow Tlinebelow Ucyrillic U Ubar Udotbelow Uogonek Upsilonafrican Vecyrillic V Vhook Vturned X Y Yhook Zecyrillic Z Zdotbelow Zstroke] <anchor 704 1408> mark @TOP_MARKS;
+	pos base [Acyrillic A Adotbelow Aogonek Becyrillic B Bdotbelow Ccedilla C Checyrillic Dzecyrillic Dzhecyrillic Ecyrillic Encyrillic Eopen Ercyrillic Ereversedcyrillic Escyrillic Esh Eth F Fhook florin Gammaafrican glottalstop glottalstopreversed Gecyrillic Gheupturncyrillic gravecomb Hbar H Hdotbelow IAcyrillic Icyrillic I Idotbelow Iogonek Istroke Iicyrillic Kacyrillic K Khook Khacyrillic N Ncedilla Ndotbelow Nhookleft Eng Eng.sami Ocyrillic O Ocenteredtilde Odotbelow Oopen Oslash Pecyrillic P Pacute Q R Rcedilla rfishhook uni024D Scedilla S Sdotbelow Tcedilla Tecyrillic T Tbar Tdotbelow Tlinebelow Ucyrillic U Ubar Udotbelow Uogonek Upsilonafrican Vecyrillic V Vhook Vturned X Y Yhook Zecyrillic Z Zdotbelow Zstroke] <anchor 704 1408> mark @TOP_MARKS;
 	pos base [Chook] <anchor 704 1914> mark @TOP_MARKS;
 	pos base [Ezh] <anchor 759 1408> mark @TOP_MARKS;
 	pos base [AE Efcyrillic Emcyrillic IUcyrillic M Shacyrillic W Yericyrillic Zhecyrillic] <anchor 880 1408> mark @TOP_MARKS;

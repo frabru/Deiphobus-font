@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocenteredtilde" format="2">
+  <advance width="1408"/>
+  <unicode hex="019F"/>
+  <unicode hex="0275"/>
+	<anchor x="704" y="1408" name="top"/>
+  <outline>
+    <contour>
+      <point x="176" y="308" type="line"/>
+      <point x="176" y="1100" type="line"/>
+      <point x="484" y="1408" type="line"/>
+      <point x="924" y="1408" type="line"/>
+      <point x="1232" y="1100" type="line"/>
+      <point x="1232" y="308" type="line"/>
+      <point x="924" y="0" type="line"/>
+      <point x="484" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="550" y="462" type="line"/>
+      <point x="638" y="374" type="line"/>
+      <point x="770" y="374" type="line"/>
+      <point x="858" y="462" type="line"/>
+      <point x="858" y="572" type="line"/>
+      <point x="550" y="572" type="line"/>
+    </contour>
+    <contour>
+      <point x="550" y="836" type="line"/>
+      <point x="858" y="836" type="line"/>
+      <point x="858" y="946" type="line"/>
+      <point x="770" y="1034" type="line"/>
+      <point x="638" y="1034" type="line"/>
+      <point x="550" y="946" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -316,6 +316,8 @@
     <string>O_acute.glif</string>
     <key>Obreve</key>
     <string>O_breve.glif</string>
+    <key>Ocenteredtilde</key>
+    <string>O_centeredtilde.glif</string>
     <key>Ocircumflex</key>
     <string>O_circumflex.glif</string>
     <key>Ocyrillic</key>
