@@ -372,6 +372,8 @@
     <string>R_cedilla.glif</string>
     <key>Rho</key>
     <string>R_ho.glif</string>
+    <key>Rhook</key>
+    <string>R_hook.glif</string>
     <key>S</key>
     <string>S_.glif</string>
     <key>Sacute</key>
