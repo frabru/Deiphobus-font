@@ -354,6 +354,8 @@
     <string>P_ecyrillic.glif</string>
     <key>Phi</key>
     <string>P_hi.glif</string>
+    <key>Phook</key>
+    <string>P_hook.glif</string>
     <key>Pi</key>
     <string>P_i.glif</string>
     <key>Psi</key>
