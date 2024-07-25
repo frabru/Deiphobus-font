@@ -410,6 +410,8 @@
     <string>T_ecyrillic.glif</string>
     <key>Theta</key>
     <string>T_heta.glif</string>
+    <key>Thook</key>
+    <string>T_hook.glif</string>
     <key>Thorn</key>
     <string>T_horn.glif</string>
     <key>Tlinebelow</key>
