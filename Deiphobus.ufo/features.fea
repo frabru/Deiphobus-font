@@ -192,6 +192,7 @@ Zcaron
 Zdot
 Zdotbelow
 Zstroke
+bilabialclick
 florin
 glottalstopreversed
 glottalstop
@@ -259,7 +260,7 @@ feature abvm {
 	pos base [Acyrillic A Adotbelow Aogonek Becyrillic B Bdotbelow Ccedilla C Checyrillic Dzecyrillic Dzhecyrillic Ecyrillic Encyrillic Eopen Ercyrillic Ereversedcyrillic Escyrillic Esh Eth F Fhook florin Gammaafrican glottalstop glottalstopreversed Gecyrillic Gheupturncyrillic gravecomb Hbar H Hdotbelow IAcyrillic Icyrillic I Idotbelow Iogonek Istroke Iicyrillic Kacyrillic K Khook Khacyrillic N Ncedilla Ndotbelow Nhookleft Eng Eng.sami Ocyrillic O Ocenteredtilde Odotbelow Oopen Oslash Pecyrillic P Pacute Phook Q R Rcedilla Rhook rfishhook uni024D Scedilla S Sdotbelow Tcedilla Tecyrillic T Tbar Tdotbelow Thook Tlinebelow Tretroflexhook Ucyrillic U Ubar Udotbelow Uogonek Upsilonafrican Vecyrillic V Vhook Vturned X Y Yhook Zecyrillic Z Zdotbelow Zstroke uniA7B3] <anchor 704 1408> mark @TOP_MARKS;
 	pos base [Chook] <anchor 704 1914> mark @TOP_MARKS;
 	pos base [Ezh] <anchor 759 1408> mark @TOP_MARKS;
-	pos base [AE Efcyrillic Emcyrillic IUcyrillic M Shacyrillic W Yericyrillic Zhecyrillic] <anchor 880 1408> mark @TOP_MARKS;
+	pos base [AE Efcyrillic Emcyrillic IUcyrillic M Shacyrillic W Yericyrillic Zhecyrillic bilabialclick] <anchor 880 1408> mark @TOP_MARKS;
 	pos base [Alphalatin Dhook] <anchor 627 1408> mark @TOP_MARKS;
 	pos base [D Dafrican Ddotbelow Dlinebelow Dslash] <anchor 495 1408> mark @TOP_MARKS;
 	pos base [Decyrillic] <anchor 968 1408> mark @TOP_MARKS;
