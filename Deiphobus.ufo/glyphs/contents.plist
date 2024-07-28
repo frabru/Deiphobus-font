@@ -576,6 +576,8 @@
     <string>cent.glif</string>
     <key>circumflexcmb</key>
     <string>circumflexcmb.glif</string>
+    <key>clickdental</key>
+    <string>clickdental.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>comma</key>
