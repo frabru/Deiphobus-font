@@ -193,6 +193,9 @@ Zdot
 Zdotbelow
 Zstroke
 bilabialclick
+clickalveolar
+clickdental
+clicklateral
 florin
 glottalstopreversed
 glottalstop
@@ -213,8 +216,6 @@ brevecmb
 caroncmb
 cedillacmb
 circumflexcmb
-clickdental
-clicklateral
 dialytikatonoscmb
 dotaccentcmb
 dotbelowcmb

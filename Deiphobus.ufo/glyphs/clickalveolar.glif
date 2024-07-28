@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="clickalveolar" format="2">
+  <advance width="1408"/>
+  <unicode hex="01C2"/>
+  <outline>
+    <contour>
+      <point x="176" y="253" type="line"/>
+      <point x="176" y="627" type="line"/>
+      <point x="514" y="627" type="line"/>
+      <point x="517" y="781" type="line"/>
+      <point x="176" y="781" type="line"/>
+      <point x="176" y="1155" type="line"/>
+      <point x="517" y="1155" type="line"/>
+      <point x="517" y="1584" type="line"/>
+      <point x="891" y="1584" type="line"/>
+      <point x="891" y="1155" type="line"/>
+      <point x="1232" y="1155" type="line"/>
+      <point x="1232" y="781" type="line"/>
+      <point x="891" y="781" type="line"/>
+      <point x="891" y="627" type="line"/>
+      <point x="1232" y="627" type="line"/>
+      <point x="1232" y="253" type="line"/>
+      <point x="891" y="253" type="line"/>
+      <point x="891" y="-176" type="line"/>
+      <point x="517" y="-176" type="line"/>
+      <point x="517" y="253" type="line"/>
+    </contour>
+  </outline>
+</glyph>
