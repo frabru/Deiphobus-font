@@ -582,6 +582,8 @@
     <string>clickdental.glif</string>
     <key>clicklateral</key>
     <string>clicklateral.glif</string>
+    <key>clickretroflex</key>
+    <string>clickretroflex.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>comma</key>
