@@ -3,6 +3,7 @@
   <advance width="1408"/>
   <unicode hex="0306"/>
 	<anchor x="704" y="1408" name="top.mark"/>
+	<anchor x="704" y="1914" name="top"/>
   <outline>
 		<component base="breve" yOffset="506"/>
   </outline>
