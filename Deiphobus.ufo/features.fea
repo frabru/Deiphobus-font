@@ -148,6 +148,7 @@ S
 Sacute
 Scaron
 Scedilla
+Schwa
 Scircumflex
 Sdotbelow
 T
@@ -344,6 +345,7 @@ feature abvm {
 		Rhook
 		S
 		Scedilla
+		Schwa
 		Sdotbelow
 		Sigma
 		T
