@@ -294,7 +294,6 @@ feature abvm {
 		Escyrillic
 		Esh
 		Eta
-		Eth
 		F
 		Fhook
 		Gamma
@@ -305,7 +304,6 @@ feature abvm {
 		Hbar
 		Hdotbelow
 		I
-		IAcyrillic
 		IJ
 		Icyrillic
 		Idotbelow
@@ -366,7 +364,6 @@ feature abvm {
 		Upsilon
 		Upsilonafrican
 		V
-		Vecyrillic
 		Vhook
 		Vturned
 		X
@@ -388,22 +385,7 @@ feature abvm {
 		uniA7B3
 		] <anchor 704 1408> mark @TOP_MARKS;
 	pos base [A.short I.short Icyrillic.short Iota.short O.short U.short Ucyrillic.short Upsilon.short Y.short] <anchor 704 1254> mark @TOP_MARKS;
-	pos base [
-		AE
-		Efcyrillic
-		Emcyrillic
-		IUcyrillic
-		M
-		Mhook
-		Mu
-		Psi
-		Shacyrillic
-		W
-		Yericyrillic
-		Zhecyrillic
-		bilabialclick
-		uniA7AE
-		] <anchor 880 1408> mark @TOP_MARKS;
+	pos base [AE Emcyrillic M Mhook Mu Psi Shacyrillic W Yericyrillic Zhecyrillic bilabialclick uniA7AE] <anchor 880 1408> mark @TOP_MARKS;
 	pos base [
 		Aacute
 		Abreve
@@ -485,26 +467,30 @@ feature abvm {
 	pos base [Djecyrillic Iotaafrican Tshecyrillic] <anchor 605 1408> mark @TOP_MARKS;
 	pos base [E.short Iecyrillic.short] <anchor 627 1254> mark @TOP_MARKS;
 	pos base [Eacute Ebreve Ecaron Ecircumflex Edieresis Edot Egrave Iocyrillic uni0400] <anchor 627 1760> mark @TOP_MARKS;
+	pos base Efcyrillic <anchor 880 1540> mark @TOP_MARKS;
 	pos base Elcyrillic <anchor 792 1408> mark @TOP_MARKS;
 	pos base Emacron <anchor 627 1650> mark @TOP_MARKS;
 	pos base Epsilontonos <anchor 979 1408> mark @TOP_MARKS;
+	pos base Eth <anchor 517 1408> mark @TOP_MARKS;
 	pos base Ezh <anchor 759 1408> mark @TOP_MARKS;
-	pos base [G Gcedilla Ghook] <anchor 682 1408> mark @TOP_MARKS;
-	pos base [Gbreve Gcircumflex Gdot] <anchor 682 1914> mark @TOP_MARKS;
-	pos base Hhook <anchor 770 1408> mark @TOP_MARKS;
-	pos base J <anchor 858 1408> mark @TOP_MARKS;
+	pos base [G Gcedilla] <anchor 682 1408> mark @TOP_MARKS;
+	pos base [Gbreve Gcircumflex Gdot Ghook] <anchor 682 1914> mark @TOP_MARKS;
+	pos base [Hhook IUcyrillic] <anchor 770 1408> mark @TOP_MARKS;
+	pos base IAcyrillic <anchor 814 1408> mark @TOP_MARKS;
+	pos base [J Jecyrillic] <anchor 858 1408> mark @TOP_MARKS;
 	pos base Jcircumflex <anchor 858 1914> mark @TOP_MARKS;
-	pos base Jecyrillic <anchor 1045 1408> mark @TOP_MARKS;
-	pos base [L Lcaron Lcedilla Ldot Ldotbelow Lslash] <anchor 550 1408> mark @TOP_MARKS;
+	pos base [L Lcaron Lcedilla Ldot Ldotbelow Lslash Thorn] <anchor 550 1408> mark @TOP_MARKS;
 	pos base Lacute <anchor 550 1914> mark @TOP_MARKS;
 	pos base [Ljecyrillic Tsecyrillic] <anchor 671 1408> mark @TOP_MARKS;
 	pos base OE <anchor 957 1408> mark @TOP_MARKS;
 	pos base Shchacyrillic <anchor 847 1408> mark @TOP_MARKS;
-	pos base Softsigncyrillic <anchor 594 1408> mark @TOP_MARKS;
-	pos base Thorn <anchor 363 1408> mark @TOP_MARKS;
+	pos base [Softsigncyrillic Vecyrillic] <anchor 594 1408> mark @TOP_MARKS;
 	pos base Uring <anchor 704 1958> mark @TOP_MARKS;
 	pos base [Wcircumflex Wdieresis] <anchor 880 1914> mark @TOP_MARKS;
+	pos base [clickalveolar clicklateral clickretroflex] <anchor 704 1584> mark @TOP_MARKS;
+	pos base clickdental <anchor 528 1584> mark @TOP_MARKS;
 	pos base dialytikatonoscmb <anchor 704 2442> mark @TOP_MARKS;
+	pos base equal <anchor 704 1144> mark @TOP_MARKS;
 	pos base [iotadieresistonos upsilondieresistonos] <anchor 704 2288> mark @TOP_MARKS;
 	pos base kgreenlandic <anchor 704 1056> mark @TOP_MARKS;
 	pos base [longs uni1E9E] <anchor 616 1408> mark @TOP_MARKS;
@@ -512,6 +498,253 @@ feature abvm {
 	pos base napostrophe <anchor 1408 1408> mark @TOP_MARKS;
 	pos base ringcmb <anchor 704 2178> mark @TOP_MARKS;
 } abvm;
+feature blwm {
+	markClass [dotbelowcmb macronbelowcmb] <anchor 704 0> @BOTTOM_MARKS;
+	pos base [
+		A
+		A.short
+		Aacute
+		Abreve
+		Acaron
+		Acircumflex
+		Acyrillic
+		Adieresis
+		Agrave
+		Amacron
+		Aring
+		Atilde
+		C
+		Cacute
+		Ccaron
+		Ccircumflex
+		Cdot
+		Checyrillic
+		Chi
+		Chook
+		Decyrillic
+		Deltagreek
+		Dzecyrillic
+		E
+		E.short
+		Eacute
+		Ebreve
+		Ecaron
+		Ecircumflex
+		Ecyrillic
+		Edieresis
+		Edot
+		Egrave
+		Elcyrillic
+		Emacron
+		Encyrillic
+		Eopen
+		Epsilon
+		Ereversedcyrillic
+		Escyrillic
+		Esh
+		Eta
+		Ezh
+		G
+		Gbreve
+		Gcircumflex
+		Gdot
+		Ghook
+		H
+		Hbar
+		Hcircumflex
+		I
+		I.short
+		IAcyrillic
+		IJ
+		Iacute
+		Ibreve
+		Icircumflex
+		Icyrillic
+		Icyrillic.short
+		Idieresis
+		Idotaccent
+		Iecyrillic
+		Iecyrillic.short
+		Igrave
+		Iicyrillic
+		Iishortcyrillic
+		Imacron
+		Iocyrillic
+		Iota
+		Iota.short
+		Iotadieresis
+		Istroke
+		Itilde
+		J
+		Jcircumflex
+		Jecyrillic
+		K
+		Kacyrillic
+		Kappa
+		Khacyrillic
+		Khook
+		Kjecyrillic
+		L
+		Lacute
+		Lambda
+		Lcaron
+		Ldot
+		Lslash
+		N
+		Nacute
+		Ncaron
+		Ntilde
+		Nu
+		O
+		O.short
+		Oacute
+		Obreve
+		Ocenteredtilde
+		Ocircumflex
+		Ocyrillic
+		Odieresis
+		Ograve
+		Ohungarumlaut
+		Omacron
+		Omegagreek
+		Omicron
+		Oopen
+		Oslash
+		Otilde
+		Pecyrillic
+		Phi
+		Pi
+		R
+		Racute
+		Rcaron
+		S
+		Sacute
+		Scaron
+		Schwa
+		Scircumflex
+		Sigma
+		T
+		Tau
+		Tbar
+		Tcaron
+		Tecyrillic
+		Theta
+		Thook
+		U
+		U.short
+		Uacute
+		Ubar
+		Ubreve
+		Ucircumflex
+		Ucyrillic
+		Ucyrillic.short
+		Udieresis
+		Ugrave
+		Uhungarumlaut
+		Umacron
+		Upsilon
+		Upsilon.short
+		Upsilonafrican
+		Upsilondieresis
+		Uring
+		Ushortcyrillic
+		Utilde
+		V
+		Vhook
+		Vturned
+		X
+		Xi
+		Y
+		Y.short
+		Yacute
+		Ycircumflex
+		Ydieresis
+		Yhook
+		Yicyrillic
+		Z
+		Zacute
+		Zcaron
+		Zdot
+		Zecyrillic
+		Zeta
+		Zstroke
+		clickretroflex
+		i
+		iotadieresistonos
+		kgreenlandic
+		uni024D
+		uni0400
+		uni040D
+		uniA7B3
+		upsilondieresistonos
+		] <anchor 704 0> mark @BOTTOM_MARKS;
+	pos base [
+		AE
+		Emcyrillic
+		Ljecyrillic
+		M
+		Mu
+		Njecyrillic
+		Psi
+		Shacyrillic
+		W
+		Wcircumflex
+		Wdieresis
+		Yericyrillic
+		Zhecyrillic
+		bilabialclick
+		uniA7AE
+		] <anchor 880 0> mark @BOTTOM_MARKS;
+	pos base [
+		Adotbelow
+		Dlinebelow
+		Edotbelow
+		Hdotbelow
+		Idotbelow
+		Ldotbelow
+		Ndotbelow
+		Odotbelow
+		Sdotbelow
+		Tdotbelow
+		Tlinebelow
+		Udotbelow
+		Zdotbelow
+		dotbelowcmb
+		macronbelowcmb
+		] <anchor 704 -506> mark @BOTTOM_MARKS;
+	pos base Alpha <anchor 740 0> mark @BOTTOM_MARKS;
+	pos base [Alphalatin glottalstop] <anchor 627 0> mark @BOTTOM_MARKS;
+	pos base Alphatonos <anchor 1092 0> mark @BOTTOM_MARKS;
+	pos base [Aogonek Eogonek Iogonek Uogonek] <anchor 704 -374> mark @BOTTOM_MARKS;
+	pos base [B Becyrillic Beta Bhook D Dafrican Dcaron Dhook Dslash Softsigncyrillic Vecyrillic uni1E9E] <anchor 594 0> mark @BOTTOM_MARKS;
+	pos base [Bdotbelow Ddotbelow] <anchor 594 -506> mark @BOTTOM_MARKS;
+	pos base [Ccedilla Scedilla Tcedilla] <anchor 704 -352> mark @BOTTOM_MARKS;
+	pos base Djecyrillic <anchor 561 0> mark @BOTTOM_MARKS;
+	pos base Dzhecyrillic <anchor 594 -187> mark @BOTTOM_MARKS;
+	pos base Efcyrillic <anchor 880 -187> mark @BOTTOM_MARKS;
+	pos base [Eng Eng.sami Nhookleft Rhook Tretroflexhook florin.sign nhookretroflex] <anchor 704 -528> mark @BOTTOM_MARKS;
+	pos base [Epsilontonos Etatonos Iotatonos Omegatonos Omicrontonos Upsilontonos] <anchor 1056 0> mark @BOTTOM_MARKS;
+	pos base [Ercyrillic F Gamma Gecyrillic Gheupturncyrillic Gjecyrillic P Pacute Rho Thorn rfishhook] <anchor 550 0> mark @BOTTOM_MARKS;
+	pos base [Ereversed Tshecyrillic] <anchor 803 0> mark @BOTTOM_MARKS;
+	pos base Eth <anchor 517 0> mark @BOTTOM_MARKS;
+	pos base [Fhook florin] <anchor 550 -528> mark @BOTTOM_MARKS;
+	pos base Gammaafrican <anchor 704 -132> mark @BOTTOM_MARKS;
+	pos base [Gcedilla Kcedilla Lcedilla Ncedilla Rcedilla] <anchor 704 -462> mark @BOTTOM_MARKS;
+	pos base Hardsigncyrillic <anchor 660 0> mark @BOTTOM_MARKS;
+	pos base [Hhook IUcyrillic] <anchor 770 0> mark @BOTTOM_MARKS;
+	pos base Iotaafrican <anchor 858 0> mark @BOTTOM_MARKS;
+	pos base Mhook <anchor 880 -528> mark @BOTTOM_MARKS;
+	pos base OE <anchor 957 0> mark @BOTTOM_MARKS;
+	pos base Phook <anchor 429 0> mark @BOTTOM_MARKS;
+	pos base [Q Shchacyrillic] <anchor 704 -187> mark @BOTTOM_MARKS;
+	pos base Tsecyrillic <anchor 671 -187> mark @BOTTOM_MARKS;
+	pos base [clickalveolar clicklateral] <anchor 704 -176> mark @BOTTOM_MARKS;
+	pos base clickdental <anchor 528 -176> mark @BOTTOM_MARKS;
+	pos base equal <anchor 704 264> mark @BOTTOM_MARKS;
+	pos base glottalstopreversed <anchor 781 0> mark @BOTTOM_MARKS;
+	pos base longs <anchor 363 -528> mark @BOTTOM_MARKS;
+	pos base napostrophe <anchor 1408 0> mark @BOTTOM_MARKS;
+} blwm;
 
 lookup alternatives {
 	sub florin from [Fhook florin.sign];

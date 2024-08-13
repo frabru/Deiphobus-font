@@ -3,7 +3,8 @@
   <advance width="1408"/>
   <unicode hex="0408"/>
   <unicode hex="0458"/>
-	<anchor x="1045" y="1408" name="top"/>
+	<anchor x="858" y="1408" name="top"/>
+	<anchor x="704" y="0" name="bottom"/>
   <outline>
 		<component base="J"/>
   </outline>

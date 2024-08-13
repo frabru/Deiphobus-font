@@ -3,6 +3,7 @@
   <advance width="1408"/>
   <unicode hex="0192"/>
   <anchor x="704" y="1408" name="top"/>
+	<anchor x="550" y="-528" name="bottom"/>
   <outline>
     <component base="Fhook"/>
   </outline>
