@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronbelowcmb.wide" format="2">
+  <advance width="1760"/>
+	<anchor x="880" y="0" name="bottom.mark"/>
+	<anchor x="880" y="-506" name="bottom"/>
+  <outline>
+		<component base="macronlowmod.wide" yOffset="-132"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncmb.wide" format="2">
+  <advance width="1760"/>
+	<anchor x="880" y="1408" name="top.mark"/>
+	<anchor x="880" y="1804" name="top"/>
+  <outline>
+		<component base="macron.wide" yOffset="396"/>
+  </outline>
+</glyph>

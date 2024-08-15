@@ -215,6 +215,28 @@ uni1E9E
 uniA7AE
 uniA7B3
 ];
+@wide_letter = [
+AE
+bilabialclick
+Efcyrillic
+Emcyrillic
+IUcyrillic
+Ljecyrillic
+M
+Mhook
+Mu
+Njecyrillic
+OE
+Psi
+Shacyrillic
+Shchacyrillic
+uniA7AE
+Wcircumflex
+Wdieresis
+W
+Yericyrillic
+Zhecyrillic
+];
 @combining_diacritic = [
 acutecomb
 brevecmb
@@ -229,11 +251,16 @@ hungarumlautcmb
 macronbelowcmb
 macroncmb
 macronlowmod
+macronbelowcmb.wide
+macroncmb.wide
+macronlowmod.wide
 ogonekcmb
 ringcmb
 tildecomb
 uni0308
 ];
+@cmb_with_wide = [macronbelowcmb      macroncmb];
+@cmb_wide      = [macronbelowcmb.wide macroncmb.wide];
 @whitespace = [space];
 
 lookup engvar {
@@ -265,6 +292,7 @@ feature locl {
 
 feature abvm {
 	markClass [acutecomb brevecmb caroncmb circumflexcmb dialytikatonoscmb dotaccentcmb gravecomb hungarumlautcmb macroncmb ringcmb tildecomb uni0308] <anchor 704 1408> @TOP_MARKS;
+	markClass macroncmb.wide <anchor 880 1408> @TOP_MARKS;
 	pos base [
 		A
 		Acyrillic
@@ -495,11 +523,13 @@ feature abvm {
 	pos base kgreenlandic <anchor 704 1056> mark @TOP_MARKS;
 	pos base [longs uni1E9E] <anchor 616 1408> mark @TOP_MARKS;
 	pos base macroncmb <anchor 704 1804> mark @TOP_MARKS;
+	pos base macroncmb.wide <anchor 880 1804> mark @TOP_MARKS;
 	pos base napostrophe <anchor 1408 1408> mark @TOP_MARKS;
 	pos base ringcmb <anchor 704 2178> mark @TOP_MARKS;
 } abvm;
 feature blwm {
 	markClass [dotbelowcmb macronbelowcmb] <anchor 704 0> @BOTTOM_MARKS;
+	markClass macronbelowcmb.wide <anchor 880 0> @BOTTOM_MARKS;
 	pos base [
 		A
 		A.short
@@ -510,6 +540,7 @@ feature blwm {
 		Acyrillic
 		Adieresis
 		Agrave
+		Alpha
 		Amacron
 		Aring
 		Atilde
@@ -712,9 +743,8 @@ feature blwm {
 		dotbelowcmb
 		macronbelowcmb
 		] <anchor 704 -506> mark @BOTTOM_MARKS;
-	pos base Alpha <anchor 740 0> mark @BOTTOM_MARKS;
 	pos base [Alphalatin glottalstop] <anchor 627 0> mark @BOTTOM_MARKS;
-	pos base Alphatonos <anchor 1092 0> mark @BOTTOM_MARKS;
+	pos base [Alphatonos Epsilontonos Etatonos Iotatonos Omegatonos Omicrontonos Upsilontonos] <anchor 1056 0> mark @BOTTOM_MARKS;
 	pos base [Aogonek Eogonek Iogonek Uogonek] <anchor 704 -374> mark @BOTTOM_MARKS;
 	pos base [B Becyrillic Beta Bhook D Dafrican Dcaron Dhook Dslash Softsigncyrillic Vecyrillic uni1E9E] <anchor 594 0> mark @BOTTOM_MARKS;
 	pos base [Bdotbelow Ddotbelow] <anchor 594 -506> mark @BOTTOM_MARKS;
@@ -723,7 +753,6 @@ feature blwm {
 	pos base Dzhecyrillic <anchor 594 -187> mark @BOTTOM_MARKS;
 	pos base Efcyrillic <anchor 880 -187> mark @BOTTOM_MARKS;
 	pos base [Eng Eng.sami Nhookleft Rhook Tretroflexhook florin.sign nhookretroflex] <anchor 704 -528> mark @BOTTOM_MARKS;
-	pos base [Epsilontonos Etatonos Iotatonos Omegatonos Omicrontonos Upsilontonos] <anchor 1056 0> mark @BOTTOM_MARKS;
 	pos base [Ercyrillic F Gamma Gecyrillic Gheupturncyrillic Gjecyrillic P Pacute Rho Thorn rfishhook] <anchor 550 0> mark @BOTTOM_MARKS;
 	pos base [Ereversed Tshecyrillic] <anchor 803 0> mark @BOTTOM_MARKS;
 	pos base Eth <anchor 517 0> mark @BOTTOM_MARKS;
@@ -743,6 +772,7 @@ feature blwm {
 	pos base equal <anchor 704 264> mark @BOTTOM_MARKS;
 	pos base glottalstopreversed <anchor 781 0> mark @BOTTOM_MARKS;
 	pos base longs <anchor 363 -528> mark @BOTTOM_MARKS;
+	pos base macronbelowcmb.wide <anchor 880 -506> mark @BOTTOM_MARKS;
 	pos base napostrophe <anchor 1408 0> mark @BOTTOM_MARKS;
 } blwm;
 
@@ -759,6 +789,9 @@ feature calt {
 	sub florin' @digit by florin.sign;
 	sub florin' @whitespace @digit by florin.sign;
 	sub florin' @whitespace [plus hyphen] @digit by florin.sign;
+	sub @wide_letter @cmb_with_wide' by @cmb_wide;
+	sub @wide_letter @combining_diacritic @cmb_with_wide' by @cmb_wide;
+	sub @wide_letter @combining_diacritic @combining_diacritic @cmb_with_wide' by @cmb_wide;
 } calt;
 
 feature aalt {

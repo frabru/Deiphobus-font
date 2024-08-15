@@ -686,12 +686,20 @@
     <string>longs.glif</string>
     <key>macron</key>
     <string>macron.glif</string>
+    <key>macron.wide</key>
+    <string>macron.wide.glif</string>
     <key>macronbelowcmb</key>
     <string>macronbelowcmb.glif</string>
+    <key>macronbelowcmb.wide</key>
+    <string>macronbelowcmb.wide.glif</string>
     <key>macroncmb</key>
     <string>macroncmb.glif</string>
+    <key>macroncmb.wide</key>
+    <string>macroncmb.wide.glif</string>
     <key>macronlowmod</key>
     <string>macronlowmod.glif</string>
+    <key>macronlowmod.wide</key>
+    <string>macronlowmod.wide.glif</string>
     <key>multiply</key>
     <string>multiply.glif</string>
     <key>napostrophe</key>
