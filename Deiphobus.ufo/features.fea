@@ -37,6 +37,7 @@ B
 Bdotbelow
 Beta
 Bhook
+Btopbar
 C
 Cacute
 Ccaron
@@ -312,6 +313,7 @@ feature abvm {
 		Becyrillic
 		Beta
 		Bhook
+		Btopbar
 		C
 		Ccedilla
 		Checyrillic
@@ -757,7 +759,21 @@ feature blwm {
 	pos base [Alphalatin glottalstop] <anchor 627 0> mark @BOTTOM_MARKS;
 	pos base [Alphatonos Epsilontonos Etatonos Iotatonos Omegatonos Omicrontonos Upsilontonos] <anchor 1056 0> mark @BOTTOM_MARKS;
 	pos base [Aogonek Eogonek Iogonek Uogonek] <anchor 704 -374> mark @BOTTOM_MARKS;
-	pos base [B Becyrillic Beta Bhook D Dafrican Dcaron Dhook Dslash Softsigncyrillic Vecyrillic uni1E9E] <anchor 594 0> mark @BOTTOM_MARKS;
+	pos base [
+		B
+		Becyrillic
+		Beta
+		Bhook
+		Btopbar
+		D
+		Dafrican
+		Dcaron
+		Dhook
+		Dslash
+		Softsigncyrillic
+		Vecyrillic
+		uni1E9E
+		] <anchor 594 0> mark @BOTTOM_MARKS;
 	pos base [Bdotbelow Ddotbelow] <anchor 594 -506> mark @BOTTOM_MARKS;
 	pos base [Ccedilla Scedilla Tcedilla] <anchor 704 -352> mark @BOTTOM_MARKS;
 	pos base Djecyrillic <anchor 561 0> mark @BOTTOM_MARKS;

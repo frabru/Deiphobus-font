@@ -14,6 +14,23 @@
 		<key>glottalstop</key>
 		<integer>-143</integer>
 	</dict>
+	<key>Btopbar</key>
+	<dict>
+		<key>Gammaafrican</key>
+		<integer>-110</integer>
+		<key>napostrophe</key>
+		<integer>-110</integer>
+		<key>public.kern2.T</key>
+		<integer>-110</integer>
+		<key>public.kern2.Y</key>
+		<integer>-110</integer>
+		<key>glottalstop</key>
+		<integer>-110</integer>
+		<key>public.kern2.apostrophe</key>
+		<integer>-99</integer>
+		<key>public.kern2.quotedbl</key>
+		<integer>-110</integer>
+	</dict>
 	<key>public.kern1.D</key>
 	<dict>
 		<key>Gammaafrican</key>
