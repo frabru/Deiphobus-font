@@ -61,6 +61,8 @@
 		<integer>-154</integer>
 		<key>Ezh</key>
 		<integer>-154</integer>
+		<key>Ezh.dagbani</key>
+		<integer>-154</integer>
 		<key>Gammaafrican</key>
 		<integer>-154</integer>
 		<key>public.kern2.I</key>
@@ -186,6 +188,8 @@
 		<key>Ereversed</key>
 		<integer>-110</integer>
 		<key>Ezh</key>
+		<integer>-110</integer>
+		<key>Ezh.dagbani</key>
 		<integer>-110</integer>
 		<key>Gammaafrican</key>
 		<integer>-110</integer>

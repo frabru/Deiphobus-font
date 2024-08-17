@@ -2,6 +2,7 @@ languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem latn TRK;
 languagesystem latn AZE;
+languagesystem latn DAG;
 languagesystem latn CRT;
 languagesystem latn SMI;
 languagesystem latn SME;
@@ -69,6 +70,7 @@ Ereversed
 Esh
 Eth
 Ezh
+Ezh.dagbani
 F
 Fhook
 G
@@ -267,6 +269,9 @@ uni0308
 lookup engvar {
 	sub Eng by Eng.sami;
 } engvar;
+lookup ezhvar {
+	sub Ezh by Ezh.dagbani;
+} ezhvar;
 
 feature locl {
 	script latn;
@@ -289,6 +294,8 @@ feature locl {
 	language SJK; lookup engvar;
 	language SMA; lookup engvar;
 	language SMN; lookup engvar;
+
+	language DAG; lookup ezhvar;
 } locl;
 
 feature abvm {
@@ -323,6 +330,7 @@ feature abvm {
 		Escyrillic
 		Esh
 		Eta
+		Ezh.dagbani
 		F
 		Fhook
 		Gamma
@@ -576,6 +584,7 @@ feature blwm {
 		Escyrillic
 		Esh
 		Eta
+		Ezh.dagbani
 		Ezh
 		G
 		Gbreve

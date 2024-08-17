@@ -150,6 +150,8 @@
     <string>E_tatonos.glif</string>
     <key>Eth</key>
     <string>E_th.glif</string>
+    <key>Ezh.dagbani</key>
+    <string>E_zh.dagbani.glif</string>
     <key>Ezh</key>
     <string>E_zh.glif</string>
     <key>F</key>
