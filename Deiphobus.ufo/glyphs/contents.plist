@@ -272,6 +272,8 @@
     <string>L_acute.glif</string>
     <key>Lambda</key>
     <string>L_ambda.glif</string>
+    <key>Lbelt</key>
+    <string>L_belt.glif</string>
     <key>Lcaron</key>
     <string>L_caron.glif</string>
     <key>Lcedilla</key>

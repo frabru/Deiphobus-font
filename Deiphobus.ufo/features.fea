@@ -106,6 +106,7 @@ Kcedilla
 Khook
 L
 Lacute
+Lbelt
 Lcaron
 Lcedilla
 Ldot
@@ -509,6 +510,7 @@ feature abvm {
 	pos base Jcircumflex <anchor 858 1914> mark @TOP_MARKS;
 	pos base [L Lcaron Lcedilla Ldot Ldotbelow Lslash Thorn] <anchor 550 1408> mark @TOP_MARKS;
 	pos base Lacute <anchor 550 1914> mark @TOP_MARKS;
+	pos base Lbelt <anchor 737 1408> mark @TOP_MARKS;
 	pos base [Ljecyrillic Tsecyrillic] <anchor 671 1408> mark @TOP_MARKS;
 	pos base OE <anchor 957 1408> mark @TOP_MARKS;
 	pos base Shchacyrillic <anchor 847 1408> mark @TOP_MARKS;
@@ -762,6 +764,7 @@ feature blwm {
 	pos base Hardsigncyrillic <anchor 660 0> mark @BOTTOM_MARKS;
 	pos base [Hhook IUcyrillic] <anchor 770 0> mark @BOTTOM_MARKS;
 	pos base Iotaafrican <anchor 858 0> mark @BOTTOM_MARKS;
+	pos base Lbelt <anchor 792 0> mark @BOTTOM_MARKS;
 	pos base Mhook <anchor 880 -528> mark @BOTTOM_MARKS;
 	pos base OE <anchor 957 0> mark @BOTTOM_MARKS;
 	pos base Phook <anchor 429 0> mark @BOTTOM_MARKS;
