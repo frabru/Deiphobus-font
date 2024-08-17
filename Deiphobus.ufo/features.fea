@@ -3,6 +3,9 @@ languagesystem latn dflt;
 languagesystem latn TRK;
 languagesystem latn AZE;
 languagesystem latn DAG;
+languagesystem latn DNJ;
+languagesystem latn KPE;
+languagesystem latn XPE;
 languagesystem latn CRT;
 languagesystem latn SMI;
 languagesystem latn SME;
@@ -273,6 +276,9 @@ lookup engvar {
 lookup ezhvar {
 	sub Ezh by Ezh.dagbani;
 } ezhvar;
+lookup bhookvar {
+	sub Bhook by Btopbar;
+} bhookvar;
 
 feature locl {
 	script latn;
@@ -297,6 +303,10 @@ feature locl {
 	language SMN; lookup engvar;
 
 	language DAG; lookup ezhvar;
+
+	language DNJ; lookup bhookvar;
+	language KPE; lookup bhookvar;
+	language XPE; lookup bhookvar;
 } locl;
 
 feature abvm {
