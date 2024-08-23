@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yajtifinagh" format="2">
+  <advance width="1760"/>
+  <unicode hex="2D36"/>
+  <outline>
+    <contour>
+      <point x="176" y="1012" type="line"/>
+      <point x="176" y="1199" type="line"/>
+      <point x="308" y="1331" type="line"/>
+      <point x="495" y="1331" type="line"/>
+      <point x="627" y="1199" type="line"/>
+      <point x="627" y="1012" type="line"/>
+      <point x="495" y="880" type="line"/>
+      <point x="308" y="880" type="line"/>
+    </contour>
+    <contour>
+      <point x="693" y="0" type="line"/>
+      <point x="693" y="1408" type="line"/>
+      <point x="1067" y="1408" type="line"/>
+      <point x="1067" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1133" y="1012" type="line"/>
+      <point x="1133" y="1199" type="line"/>
+      <point x="1265" y="1331" type="line"/>
+      <point x="1452" y="1331" type="line"/>
+      <point x="1584" y="1199" type="line"/>
+      <point x="1584" y="1012" type="line"/>
+      <point x="1452" y="880" type="line"/>
+      <point x="1265" y="880" type="line"/>
+    </contour>
+  </outline>
+</glyph>

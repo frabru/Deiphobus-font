@@ -17,6 +17,7 @@ languagesystem latn SJD;
 languagesystem latn SJK;
 languagesystem latn SMA;
 languagesystem latn SMN;
+languagesystem tfng dflt;
 
 
 @digit = [zero one two three four five six seven eight nine];

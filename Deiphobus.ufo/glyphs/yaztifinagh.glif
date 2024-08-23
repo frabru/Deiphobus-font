@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yaztifinagh" format="2">
+  <advance width="1760"/>
+  <unicode hex="2D63"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="297" type="line"/>
+      <point x="473" y="594" type="line"/>
+      <point x="693" y="594" type="line"/>
+      <point x="693" y="814" type="line"/>
+      <point x="473" y="814" type="line"/>
+      <point x="176" y="1111" type="line"/>
+      <point x="176" y="1408" type="line"/>
+      <point x="550" y="1408" type="line"/>
+      <point x="550" y="1265" type="line"/>
+      <point x="627" y="1188" type="line"/>
+      <point x="693" y="1188" type="line"/>
+      <point x="693" y="1408" type="line"/>
+      <point x="1067" y="1408" type="line"/>
+      <point x="1067" y="1188" type="line"/>
+      <point x="1133" y="1188" type="line"/>
+      <point x="1210" y="1265" type="line"/>
+      <point x="1210" y="1408" type="line"/>
+      <point x="1584" y="1408" type="line"/>
+      <point x="1584" y="1111" type="line"/>
+      <point x="1287" y="814" type="line"/>
+      <point x="1067" y="814" type="line"/>
+      <point x="1067" y="594" type="line"/>
+      <point x="1287" y="594" type="line"/>
+      <point x="1584" y="297" type="line"/>
+      <point x="1584" y="0" type="line"/>
+      <point x="1210" y="0" type="line"/>
+      <point x="1210" y="143" type="line"/>
+      <point x="1133" y="220" type="line"/>
+      <point x="1067" y="220" type="line"/>
+      <point x="1067" y="0" type="line"/>
+      <point x="693" y="0" type="line"/>
+      <point x="693" y="220" type="line"/>
+      <point x="627" y="220" type="line"/>
+      <point x="550" y="143" type="line"/>
+      <point x="550" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

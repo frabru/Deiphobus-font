@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yetifinagh" format="2">
+  <advance width="1760"/>
+  <unicode hex="2D66"/>
+  <outline>
+    <contour>
+      <point x="176" y="517" type="line"/>
+      <point x="176" y="891" type="line"/>
+      <point x="1210" y="1408" type="line"/>
+      <point x="1584" y="1408" type="line"/>
+      <point x="1584" y="1177" type="line"/>
+      <point x="638" y="704" type="line"/>
+      <point x="1584" y="231" type="line"/>
+      <point x="1584" y="0" type="line"/>
+      <point x="1210" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

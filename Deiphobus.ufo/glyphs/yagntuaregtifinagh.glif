@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yagntuaregtifinagh" format="2">
+  <advance width="1760"/>
+  <unicode hex="2D50"/>
+  <outline>
+    <contour>
+      <point x="176" y="253" type="line"/>
+      <point x="176" y="627" type="line"/>
+      <point x="693" y="627" type="line"/>
+      <point x="693" y="781" type="line"/>
+      <point x="176" y="781" type="line"/>
+      <point x="176" y="1155" type="line"/>
+      <point x="693" y="1155" type="line"/>
+      <point x="693" y="1408" type="line"/>
+      <point x="1067" y="1408" type="line"/>
+      <point x="1067" y="1155" type="line"/>
+      <point x="1584" y="1155" type="line"/>
+      <point x="1584" y="781" type="line"/>
+      <point x="1067" y="781" type="line"/>
+      <point x="1067" y="627" type="line"/>
+      <point x="1584" y="627" type="line"/>
+      <point x="1584" y="253" type="line"/>
+      <point x="1067" y="253" type="line"/>
+      <point x="1067" y="0" type="line"/>
+      <point x="693" y="0" type="line"/>
+      <point x="693" y="253" type="line"/>
+    </contour>
+  </outline>
+</glyph>

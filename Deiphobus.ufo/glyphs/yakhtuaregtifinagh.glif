@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yakhtuaregtifinagh" format="2">
+  <advance width="1408"/>
+  <unicode hex="2D46"/>
+  <outline>
+    <contour>
+      <point x="176" y="913" type="line"/>
+      <point x="176" y="1100" type="line"/>
+      <point x="308" y="1232" type="line"/>
+      <point x="495" y="1232" type="line"/>
+      <point x="627" y="1100" type="line"/>
+      <point x="627" y="913" type="line"/>
+      <point x="495" y="781" type="line"/>
+      <point x="308" y="781" type="line"/>
+    </contour>
+    <contour>
+      <point x="781" y="913" type="line"/>
+      <point x="781" y="1100" type="line"/>
+      <point x="913" y="1232" type="line"/>
+      <point x="1100" y="1232" type="line"/>
+      <point x="1232" y="1100" type="line"/>
+      <point x="1232" y="913" type="line"/>
+      <point x="1100" y="781" type="line"/>
+      <point x="913" y="781" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="308" type="line"/>
+      <point x="176" y="495" type="line"/>
+      <point x="308" y="627" type="line"/>
+      <point x="495" y="627" type="line"/>
+      <point x="627" y="495" type="line"/>
+      <point x="627" y="308" type="line"/>
+      <point x="495" y="176" type="line"/>
+      <point x="308" y="176" type="line"/>
+    </contour>
+    <contour>
+      <point x="781" y="308" type="line"/>
+      <point x="781" y="495" type="line"/>
+      <point x="913" y="627" type="line"/>
+      <point x="1100" y="627" type="line"/>
+      <point x="1232" y="495" type="line"/>
+      <point x="1232" y="308" type="line"/>
+      <point x="1100" y="176" type="line"/>
+      <point x="913" y="176" type="line"/>
+    </contour>
+  </outline>
+</glyph>
