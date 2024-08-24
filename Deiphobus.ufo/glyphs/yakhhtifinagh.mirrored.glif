@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yakhhtifinagh.mirrored" format="2">
+  <advance width="1760"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="154" type="line"/>
+      <point x="748" y="726" type="line"/>
+      <point x="176" y="1298" type="line"/>
+      <point x="176" y="1408" type="line"/>
+      <point x="594" y="1408" type="line"/>
+      <point x="1012" y="990" type="line"/>
+      <point x="1430" y="1408" type="line"/>
+      <point x="1584" y="1408" type="line"/>
+      <point x="1584" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="924" y="374" type="line"/>
+      <point x="1210" y="374" type="line"/>
+      <point x="1210" y="660" type="line"/>
+    </contour>
+  </outline>
+</glyph>

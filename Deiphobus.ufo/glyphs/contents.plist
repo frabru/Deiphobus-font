@@ -800,6 +800,8 @@
     <string>tamatarttifinagh.glif</string>
     <key>tazarasttifinagh</key>
     <string>tazarasttifinagh.glif</string>
+    <key>tazarasttifinagh.mirrored</key>
+    <string>tazarasttifinagh.mirrored.glif</string>
     <key>three</key>
     <string>three.glif</string>
     <key>threequarters</key>
@@ -846,6 +848,8 @@
     <string>yabtifinagh.glif</string>
     <key>yachtifinagh</key>
     <string>yachtifinagh.glif</string>
+    <key>yachtifinagh.mirrored</key>
+    <string>yachtifinagh.mirrored.glif</string>
     <key>yaddhtifinagh</key>
     <string>yaddhtifinagh.glif</string>
     <key>yaddtifinagh</key>
@@ -870,8 +874,12 @@
     <string>yagtifinagh.glif</string>
     <key>yahberbertifinagh</key>
     <string>yahberbertifinagh.glif</string>
+    <key>yahberbertifinagh.mirrored</key>
+    <string>yahberbertifinagh.mirrored.glif</string>
     <key>yahhtifinagh</key>
     <string>yahhtifinagh.glif</string>
+    <key>yahhtifinagh.mirrored</key>
+    <string>yahhtifinagh.mirrored.glif</string>
     <key>yahtifinagh</key>
     <string>yahtifinagh.glif</string>
     <key>yahtuaregtifinagh</key>
@@ -882,36 +890,56 @@
     <string>yajtifinagh.glif</string>
     <key>yakhhtifinagh</key>
     <string>yakhhtifinagh.glif</string>
+    <key>yakhhtifinagh.mirrored</key>
+    <string>yakhhtifinagh.mirrored.glif</string>
     <key>yakhtifinagh</key>
     <string>yakhtifinagh.glif</string>
     <key>yakhtuaregtifinagh</key>
     <string>yakhtuaregtifinagh.glif</string>
     <key>yaktifinagh</key>
     <string>yaktifinagh.glif</string>
+    <key>yaktifinagh.mirrored</key>
+    <string>yaktifinagh.mirrored.glif</string>
     <key>yaktuaregtifinagh</key>
     <string>yaktuaregtifinagh.glif</string>
+    <key>yaktuaregtifinagh.mirrored</key>
+    <string>yaktuaregtifinagh.mirrored.glif</string>
     <key>yaltifinagh</key>
     <string>yaltifinagh.glif</string>
+    <key>yaltifinagh.mirrored</key>
+    <string>yaltifinagh.mirrored.glif</string>
     <key>yamtifinagh</key>
     <string>yamtifinagh.glif</string>
+    <key>yamtifinagh.mirrored</key>
+    <string>yamtifinagh.mirrored.glif</string>
     <key>yangtuaregtifinagh</key>
     <string>yangtuaregtifinagh.glif</string>
     <key>yantifinagh</key>
     <string>yantifinagh.glif</string>
     <key>yaptifinagh</key>
     <string>yaptifinagh.glif</string>
+    <key>yaptifinagh.mirrored</key>
+    <string>yaptifinagh.mirrored.glif</string>
     <key>yaqtifinagh</key>
     <string>yaqtifinagh.glif</string>
+    <key>yaqtifinagh.mirrored</key>
+    <string>yaqtifinagh.mirrored.glif</string>
     <key>yaqtuaregtifinagh</key>
     <string>yaqtuaregtifinagh.glif</string>
     <key>yarrtifinagh</key>
     <string>yarrtifinagh.glif</string>
+    <key>yarrtifinagh.mirrored</key>
+    <string>yarrtifinagh.mirrored.glif</string>
     <key>yartifinagh</key>
     <string>yartifinagh.glif</string>
     <key>yashtifinagh</key>
     <string>yashtifinagh.glif</string>
+    <key>yashtifinagh.mirrored</key>
+    <string>yashtifinagh.mirrored.glif</string>
     <key>yasstifinagh</key>
     <string>yasstifinagh.glif</string>
+    <key>yasstifinagh.mirrored</key>
+    <string>yasstifinagh.mirrored.glif</string>
     <key>yastifinagh</key>
     <string>yastifinagh.glif</string>
     <key>yathtifinagh</key>
@@ -922,12 +950,16 @@
     <string>yattifinagh.glif</string>
     <key>yatttifinagh</key>
     <string>yatttifinagh.glif</string>
+    <key>yatttifinagh.mirrored</key>
+    <string>yatttifinagh.mirrored.glif</string>
     <key>yavtifinagh</key>
     <string>yavtifinagh.glif</string>
     <key>yawtifinagh</key>
     <string>yawtifinagh.glif</string>
     <key>yaytifinagh</key>
     <string>yaytifinagh.glif</string>
+    <key>yaytifinagh.mirrored</key>
+    <string>yaytifinagh.mirrored.glif</string>
     <key>yazhahaggartifinagh</key>
     <string>yazhahaggartifinagh.glif</string>
     <key>yazhtifinagh</key>
@@ -936,6 +968,8 @@
     <string>yazhtuaregtifinagh.glif</string>
     <key>yaztawellemettifinagh</key>
     <string>yaztawellemettifinagh.glif</string>
+    <key>yaztawellemettifinagh.mirrored</key>
+    <string>yaztawellemettifinagh.mirrored.glif</string>
     <key>yaztifinagh</key>
     <string>yaztifinagh.glif</string>
     <key>yazztifinagh</key>
@@ -944,10 +978,14 @@
     <string>yen.glif</string>
     <key>yetifinagh</key>
     <string>yetifinagh.glif</string>
+    <key>yetifinagh.mirrored</key>
+    <string>yetifinagh.mirrored.glif</string>
     <key>yeytifinagh</key>
     <string>yeytifinagh.glif</string>
     <key>yitifinagh</key>
     <string>yitifinagh.glif</string>
+    <key>yitifinagh.mirrored</key>
+    <string>yitifinagh.mirrored.glif</string>
     <key>yotifinagh</key>
     <string>yotifinagh.glif</string>
     <key>ypogegrammeni</key>

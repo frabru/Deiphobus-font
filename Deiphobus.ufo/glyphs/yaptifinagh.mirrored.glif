@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yaptifinagh.mirrored" format="2">
+  <advance width="1408"/>
+  <outline>
+    <contour>
+      <point x="176" y="220" type="line"/>
+      <point x="176" y="528" type="line"/>
+      <point x="440" y="792" type="line"/>
+      <point x="176" y="1056" type="line"/>
+      <point x="176" y="1408" type="line"/>
+      <point x="1232" y="1408" type="line"/>
+      <point x="1232" y="1034" type="line"/>
+      <point x="726" y="1034" type="line"/>
+      <point x="1232" y="528" type="line"/>
+      <point x="1232" y="220" type="line"/>
+      <point x="1012" y="0" type="line"/>
+      <point x="396" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="550" y="374" type="line"/>
+      <point x="858" y="374" type="line"/>
+      <point x="704" y="528" type="line"/>
+    </contour>
+  </outline>
+</glyph>

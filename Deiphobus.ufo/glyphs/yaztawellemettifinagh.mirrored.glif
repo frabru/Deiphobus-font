@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yaztawellemettifinagh.mirrored" format="2">
+  <advance width="1408"/>
+  <outline>
+    <contour>
+      <point x="176" y="594" type="line"/>
+      <point x="176" y="1012" type="line"/>
+      <point x="968" y="1408" type="line"/>
+      <point x="1232" y="1408" type="line"/>
+      <point x="1232" y="0" type="line"/>
+      <point x="858" y="0" type="line"/>
+      <point x="858" y="935" type="line"/>
+    </contour>
+  </outline>
+</glyph>
