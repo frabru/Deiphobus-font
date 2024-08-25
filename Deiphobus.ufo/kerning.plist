@@ -563,6 +563,8 @@
 		<integer>-352</integer>
 		<key>yahhtifinagh</key>
 		<integer>-308</integer>
+		<key>yavtifinagh</key>
+		<integer>-264</integer>
 	</dict>
 	<key>yadtifinagh</key>
 	<dict>
@@ -609,6 +611,8 @@
 		<integer>-77</integer>
 		<key>yattifinagh</key>
 		<integer>-132</integer>
+		<key>yavtifinagh</key>
+		<integer>-264</integer>
 		<key>yaytifinagh</key>
 		<integer>-77</integer>
 		<key>yetifinagh</key>
@@ -626,6 +630,8 @@
 		<integer>-154</integer>
 		<key>yathtifinagh</key>
 		<integer>-132</integer>
+		<key>yavtifinagh</key>
+		<integer>-110</integer>
 	</dict>
 	<key>yaktifinagh</key>
 	<dict>
@@ -648,6 +654,8 @@
 		<integer>-154</integer>
 		<key>yathtifinagh</key>
 		<integer>-132</integer>
+		<key>yavtifinagh</key>
+		<integer>-110</integer>
 	</dict>
 	<key>yakhhtifinagh</key>
 	<dict>
@@ -688,6 +696,8 @@
 		<integer>-154</integer>
 		<key>yathtifinagh</key>
 		<integer>-132</integer>
+		<key>yavtifinagh</key>
+		<integer>-110</integer>
 	</dict>
 	<key>yartifinagh</key>
 	<dict>
@@ -704,6 +714,8 @@
 		<integer>-132</integer>
 		<key>yahhtifinagh</key>
 		<integer>-88</integer>
+		<key>yavtifinagh</key>
+		<integer>-44</integer>
 	</dict>
 	<key>yattifinagh</key>
 	<dict>
@@ -715,6 +727,8 @@
 		<integer>-88</integer>
 		<key>yathtifinagh</key>
 		<integer>-132</integer>
+		<key>yavtifinagh</key>
+		<integer>-44</integer>
 	</dict>
 	<key>yathtifinagh</key>
 	<dict>
@@ -728,6 +742,27 @@
 		<integer>-132</integer>
 		<key>yotifinagh</key>
 		<integer>-132</integer>
+	</dict>
+	<key>yavtifinagh</key>
+	<dict>
+		<key>yadhtifinagh</key>
+		<integer>-264</integer>
+		<key>yajtifinagh</key>
+		<integer>-264</integer>
+		<key>yeytifinagh</key>
+		<integer>-110</integer>
+		<key>yaqtuaregtifinagh</key>
+		<integer>-110</integer>
+		<key>yaghtifinagh</key>
+		<integer>-44</integer>
+		<key>yattifinagh</key>
+		<integer>-44</integer>
+		<key>yetifinagh</key>
+		<integer>-44</integer>
+		<key>yotifinagh</key>
+		<integer>-44</integer>
+		<key>tamatarttifinagh</key>
+		<integer>-88</integer>
 	</dict>
 	<key>yaytifinagh</key>
 	<dict>
@@ -744,6 +779,8 @@
 		<integer>-77</integer>
 		<key>yahhtifinagh</key>
 		<integer>-121</integer>
+		<key>yavtifinagh</key>
+		<integer>-77</integer>
 	</dict>
 	<key>yotifinagh</key>
 	<dict>
@@ -755,6 +792,8 @@
 		<integer>-88</integer>
 		<key>yathtifinagh</key>
 		<integer>-132</integer>
+		<key>yavtifinagh</key>
+		<integer>-44</integer>
 	</dict>
 	<key>public.kern1.Ucyrillic</key>
 	<dict>
