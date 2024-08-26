@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yasstifinagh" format="2">
+  <advance width="1760"/>
+  <unicode hex="2D5A"/>
+  <outline>
+    <contour>
+      <point x="176" y="418" type="line"/>
+      <point x="176" y="990" type="line"/>
+      <point x="594" y="1408" type="line"/>
+      <point x="1100" y="1408" type="line"/>
+      <point x="1210" y="1298" type="line"/>
+      <point x="1430" y="1518" type="line"/>
+      <point x="1694" y="1254" type="line"/>
+      <point x="1474" y="1034" type="line"/>
+      <point x="1584" y="924" type="line"/>
+      <point x="1584" y="418" type="line"/>
+      <point x="1166" y="0" type="line"/>
+      <point x="594" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="550" y="572" type="line"/>
+      <point x="748" y="374" type="line"/>
+      <point x="1012" y="374" type="line"/>
+      <point x="1210" y="572" type="line"/>
+      <point x="1210" y="770" type="line"/>
+      <point x="968" y="528" type="line"/>
+      <point x="704" y="792" type="line"/>
+      <point x="946" y="1034" type="line"/>
+      <point x="748" y="1034" type="line"/>
+      <point x="550" y="836" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yazhtuaregtifinagh" format="2">
+  <advance width="1760"/>
+  <unicode hex="2D4C"/>
+  <outline>
+    <contour>
+      <point x="176" y="264" type="line"/>
+      <point x="176" y="638" type="line"/>
+      <point x="440" y="638" type="line"/>
+      <point x="440" y="770" type="line"/>
+      <point x="176" y="770" type="line"/>
+      <point x="176" y="1144" type="line"/>
+      <point x="440" y="1144" type="line"/>
+      <point x="440" y="1408" type="line"/>
+      <point x="814" y="1408" type="line"/>
+      <point x="814" y="1144" type="line"/>
+      <point x="946" y="1144" type="line"/>
+      <point x="946" y="1408" type="line"/>
+      <point x="1320" y="1408" type="line"/>
+      <point x="1320" y="1144" type="line"/>
+      <point x="1584" y="1144" type="line"/>
+      <point x="1584" y="770" type="line"/>
+      <point x="1320" y="770" type="line"/>
+      <point x="1320" y="638" type="line"/>
+      <point x="1584" y="638" type="line"/>
+      <point x="1584" y="264" type="line"/>
+      <point x="1320" y="264" type="line"/>
+      <point x="1320" y="0" type="line"/>
+      <point x="946" y="0" type="line"/>
+      <point x="946" y="264" type="line"/>
+      <point x="814" y="264" type="line"/>
+      <point x="814" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="440" y="264" type="line"/>
+    </contour>
+    <contour>
+      <point x="814" y="638" type="line"/>
+      <point x="946" y="638" type="line"/>
+      <point x="946" y="770" type="line"/>
+      <point x="814" y="770" type="line"/>
+		</contour>
+  </outline>
+</glyph>

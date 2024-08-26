@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tazarasttifinagh" format="2">
+  <advance width="1408"/>
+  <unicode hex="2D70"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="858" y="682" type="line"/>
+      <point x="858" y="1408" type="line"/>
+      <point x="1232" y="1408" type="line"/>
+      <point x="1232" y="528" type="line"/>
+      <point x="704" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -17,6 +17,7 @@ languagesystem latn SJD;
 languagesystem latn SJK;
 languagesystem latn SMA;
 languagesystem latn SMN;
+languagesystem tfng dflt;
 
 
 @digit = [zero one two three four five six seven eight nine];
@@ -304,6 +305,56 @@ feature locl {
 	language KPE; lookup bhookvar;
 	language XPE; lookup bhookvar;
 } locl;
+
+feature rtlm {
+	lookup tifinagh_rtl {
+		sub [
+			yaddtifinagh
+			yaddhtifinagh
+			yaktifinagh
+			yaktuaregtifinagh
+			yakhhtifinagh
+			yahberbertifinagh
+			yahhtifinagh
+			yaqtifinagh
+			yitifinagh
+			yaltifinagh
+			yamtifinagh
+			yaptifinagh
+			yarrtifinagh
+			yasstifinagh
+			yashtifinagh
+			yachtifinagh
+			yatttifinagh
+			yaytifinagh
+			yaztawellemettifinagh
+			yetifinagh
+			tazarasttifinagh
+		] by [
+			yaddhtifinagh
+			yaddtifinagh
+			yaktifinagh.mirrored
+			yaktuaregtifinagh.mirrored
+			yakhhtifinagh.mirrored
+			yahberbertifinagh.mirrored
+			yahhtifinagh.mirrored
+			yaqtifinagh.mirrored
+			yitifinagh.mirrored
+			yaltifinagh.mirrored
+			yamtifinagh.mirrored
+			yaptifinagh.mirrored
+			yarrtifinagh.mirrored
+			yasstifinagh.mirrored
+			yashtifinagh.mirrored
+			yachtifinagh.mirrored
+			yatttifinagh.mirrored
+			yaytifinagh.mirrored
+			yaztawellemettifinagh.mirrored
+			yetifinagh.mirrored
+			tazarasttifinagh.mirrored
+		];
+	} tifinagh_rtl;
+} rtlm;
 
 feature mark {
 	markClass [acutecomb brevecmb caroncmb circumflexcmb dialytikatonoscmb dotaccentcmb gravecomb hungarumlautcmb macroncmb ringcmb tildecomb uni0308] <anchor 704 1408> @TOP_MARKS;
