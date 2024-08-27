@@ -628,6 +628,8 @@
     <string>dotbelowcmb.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>eightnko</key>
+    <string>eightnko.glif</string>
     <key>ellipsis</key>
     <string>ellipsis.glif</string>
     <key>emdash</key>
@@ -646,12 +648,16 @@
     <string>figuredash.glif</string>
     <key>five</key>
     <string>five.glif</string>
+    <key>fivenko</key>
+    <string>fivenko.glif</string>
     <key>florin</key>
     <string>florin.glif</string>
     <key>florin.sign</key>
     <string>florin.sign.glif</string>
     <key>four</key>
     <string>four.glif</string>
+    <key>fournko</key>
+    <string>fournko.glif</string>
     <key>glottalstop</key>
     <string>glottalstop.glif</string>
     <key>glottalstopreversed</key>
@@ -716,6 +722,8 @@
     <string>nhookretroflex.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
+    <key>ninenko</key>
+    <string>ninenko.glif</string>
     <key>numbersign</key>
     <string>numbersign.glif</string>
     <key>numero</key>
@@ -728,6 +736,8 @@
     <string>one.glif</string>
     <key>onehalf</key>
     <string>onehalf.glif</string>
+    <key>onenko</key>
+    <string>onenko.glif</string>
     <key>onequarter</key>
     <string>onequarter.glif</string>
     <key>onesuperior</key>
@@ -788,8 +798,12 @@
     <string>semicolon.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
+    <key>sevennko</key>
+    <string>sevennko.glif</string>
     <key>six</key>
     <string>six.glif</string>
+    <key>sixnko</key>
+    <string>sixnko.glif</string>
     <key>slash</key>
     <string>slash.glif</string>
     <key>space</key>
@@ -804,6 +818,8 @@
     <string>tazarasttifinagh.mirrored.glif</string>
     <key>three</key>
     <string>three.glif</string>
+    <key>threenko</key>
+    <string>threenko.glif</string>
     <key>threequarters</key>
     <string>threequarters.glif</string>
     <key>threesuperior</key>
@@ -816,6 +832,8 @@
     <string>trademark.glif</string>
     <key>two</key>
     <string>two.glif</string>
+    <key>twonko</key>
+    <string>twonko.glif</string>
     <key>twosuperior</key>
     <string>twosuperior.glif</string>
     <key>underscore</key>
@@ -994,5 +1012,7 @@
     <string>yutifinagh.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
+    <key>zeronko</key>
+    <string>zeronko.glif</string>
   </dict>
 </plist>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twonko" format="2">
+  <advance width="1408"/>
+  <unicode hex="07C2"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="1408" type="line"/>
+      <point x="550" y="1408" type="line"/>
+      <point x="550" y="1100" type="line"/>
+      <point x="858" y="1100" type="line"/>
+      <point x="858" y="1408" type="line"/>
+      <point x="1232" y="1408" type="line"/>
+      <point x="1232" y="726" type="line"/>
+      <point x="550" y="726" type="line"/>
+      <point x="550" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
