@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eenko" format="2">
+  <advance width="1408"/>
+  <unicode hex="07CB"/>
+  <anchor name="top" x="704" y="880"/>
+  <anchor name="bottom" x="704" y="0"/>
+  <outline>
+    <contour>
+      <point x="176" y="220" type="line"/>
+      <point x="176" y="660" type="line"/>
+      <point x="396" y="880" type="line"/>
+      <point x="1012" y="880" type="line"/>
+      <point x="1232" y="660" type="line"/>
+      <point x="1232" y="220" type="line"/>
+      <point x="1012" y="0" type="line"/>
+      <point x="396" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="550" y="374" type="line"/>
+      <point x="858" y="374" type="line"/>
+      <point x="858" y="506" type="line"/>
+      <point x="550" y="506" type="line"/>
+    </contour>
+  </outline>
+</glyph>

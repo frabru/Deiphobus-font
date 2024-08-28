@@ -18,6 +18,7 @@ languagesystem latn SJK;
 languagesystem latn SMA;
 languagesystem latn SMN;
 languagesystem tfng dflt;
+languagesystem nko  dflt;
 
 
 @digit = [zero one two three four five six seven eight nine];
@@ -356,6 +357,26 @@ feature rtlm {
 	} tifinagh_rtl;
 } rtlm;
 
+@nko_letter      = [anko      eenko      inko      enko      unko      oonko      onko      dagbasinnanko];
+@nko_letter_init = [anko.init eenko.init inko.init enko.init unko.init oonko.init onko.init dagbasinnanko.init];
+@nko_letter_medi = [anko.medi eenko.medi inko.medi enko.medi unko.medi oonko.medi onko.medi dagbasinnanko.medi];
+@nko_letter_fina = [anko.fina eenko.fina inko.fina enko.fina unko.fina oonko.fina onko.fina dagbasinnanko.fina];
+feature init {
+	script nko;
+	lookupflag RightToLeft;
+	sub @nko_letter by @nko_letter_init;
+} init;
+feature medi {
+	script nko;
+	lookupflag RightToLeft;
+	sub @nko_letter by @nko_letter_medi;
+} medi;
+feature fina {
+	script nko;
+	lookupflag RightToLeft;
+	sub @nko_letter by @nko_letter_fina;
+} fina;
+
 feature mark {
 	markClass [acutecomb brevecmb caroncmb circumflexcmb dialytikatonoscmb dotaccentcmb gravecomb hungarumlautcmb macroncmb ringcmb tildecomb uni0308] <anchor 704 1408> @TOP_MARKS;
 	markClass macroncmb.wide <anchor 880 1408> @TOP_MARKS;
@@ -473,11 +494,23 @@ feature mark {
 		Zecyrillic
 		Zeta
 		Zstroke
+		dagbasinnanko.fina
+		dagbasinnanko
+		dagbasinnanko.init
+		dagbasinnanko.medi
 		florin
 		glottalstop
 		glottalstopreversed
 		i
+		inko.fina
+		inko
+		inko.init
+		inko.medi
 		nhookretroflex
+		onko.fina
+		onko
+		onko.init
+		onko.medi
 		rfishhook
 		uni024D
 		uniA7B3
@@ -577,11 +610,27 @@ feature mark {
 	pos base [Softsigncyrillic Vecyrillic] <anchor 594 1408> mark @TOP_MARKS;
 	pos base Uring <anchor 704 1958> mark @TOP_MARKS;
 	pos base [Wcircumflex Wdieresis] <anchor 880 1914> mark @TOP_MARKS;
+	pos base [anko.fina anko anko.init anko.medi] <anchor 528 1408> mark @TOP_MARKS;
 	pos base [clickalveolar clicklateral clickretroflex] <anchor 704 1584> mark @TOP_MARKS;
 	pos base clickdental <anchor 528 1584> mark @TOP_MARKS;
+	pos base [eenko.fina eenko eenko.init eenko.medi] <anchor 704 880> mark @TOP_MARKS;
+	pos base [
+		enko.fina
+		enko
+		enko.init
+		enko.medi
+		kgreenlandic
+		oonko.fina
+		oonko
+		oonko.init
+		oonko.medi
+		unko.fina
+		unko
+		unko.init
+		unko.medi
+		] <anchor 704 1056> mark @TOP_MARKS;
 	pos base equal <anchor 704 1144> mark @TOP_MARKS;
 	pos base [iotadieresistonos upsilondieresistonos] <anchor 704 2288> mark @TOP_MARKS;
-	pos base kgreenlandic <anchor 704 1056> mark @TOP_MARKS;
 	pos base [longs uni1E9E] <anchor 616 1408> mark @TOP_MARKS;
 	pos base napostrophe <anchor 1408 1408> mark @TOP_MARKS;
 	pos base [
@@ -755,13 +804,41 @@ feature mark {
 		Zeta
 		Zstroke
 		clickretroflex
+		dagbasinnanko.fina
+		dagbasinnanko
+		dagbasinnanko.init
+		dagbasinnanko.medi
+		eenko.fina
+		eenko
+		eenko.init
+		eenko.medi
+		enko.fina
+		enko
+		enko.init
+		enko.medi
 		i
+		inko.fina
+		inko
+		inko.init
+		inko.medi
 		iotadieresistonos
 		kgreenlandic
+		onko.fina
+		onko
+		onko.init
+		onko.medi
+		oonko.fina
+		oonko
+		oonko.init
+		oonko.medi
 		uni024D
 		uni0400
 		uni040D
 		uniA7B3
+		unko.fina
+		unko
+		unko.init
+		unko.medi
 		upsilondieresistonos
 		] <anchor 704 0> mark @BOTTOM_MARKS;
 	pos base [
@@ -835,6 +912,7 @@ feature mark {
 	pos base Phook <anchor 429 0> mark @BOTTOM_MARKS;
 	pos base [Q Shchacyrillic] <anchor 704 -187> mark @BOTTOM_MARKS;
 	pos base Tsecyrillic <anchor 671 -187> mark @BOTTOM_MARKS;
+	pos base [anko.fina anko anko.init anko.medi] <anchor 528 0> mark @BOTTOM_MARKS;
 	pos base [clickalveolar clicklateral] <anchor 704 -176> mark @BOTTOM_MARKS;
 	pos base clickdental <anchor 528 -176> mark @BOTTOM_MARKS;
 	pos base equal <anchor 704 264> mark @BOTTOM_MARKS;

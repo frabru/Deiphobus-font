@@ -534,6 +534,14 @@
     <string>acutecomb.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
+    <key>anko.fina</key>
+    <string>anko.fina.glif</string>
+    <key>anko</key>
+    <string>anko.glif</string>
+    <key>anko.init</key>
+    <string>anko.init.glif</string>
+    <key>anko.medi</key>
+    <string>anko.medi.glif</string>
     <key>apostrophemod</key>
     <string>apostrophemod.glif</string>
     <key>arrowdown</key>
@@ -604,6 +612,14 @@
     <string>copyright.glif</string>
     <key>currency</key>
     <string>currency.glif</string>
+    <key>dagbasinnanko.fina</key>
+    <string>dagbasinnanko.fina.glif</string>
+    <key>dagbasinnanko</key>
+    <string>dagbasinnanko.glif</string>
+    <key>dagbasinnanko.init</key>
+    <string>dagbasinnanko.init.glif</string>
+    <key>dagbasinnanko.medi</key>
+    <string>dagbasinnanko.medi.glif</string>
     <key>dagger</key>
     <string>dagger.glif</string>
     <key>daggerdbl</key>
@@ -626,6 +642,14 @@
     <string>dotaccentcmb.glif</string>
     <key>dotbelowcmb</key>
     <string>dotbelowcmb.glif</string>
+    <key>eenko.fina</key>
+    <string>eenko.fina.glif</string>
+    <key>eenko</key>
+    <string>eenko.glif</string>
+    <key>eenko.init</key>
+    <string>eenko.init.glif</string>
+    <key>eenko.medi</key>
+    <string>eenko.medi.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
     <key>eightnko</key>
@@ -636,6 +660,14 @@
     <string>emdash.glif</string>
     <key>endash</key>
     <string>endash.glif</string>
+    <key>enko.fina</key>
+    <string>enko.fina.glif</string>
+    <key>enko</key>
+    <string>enko.glif</string>
+    <key>enko.init</key>
+    <string>enko.init.glif</string>
+    <key>enko.medi</key>
+    <string>enko.medi.glif</string>
     <key>equal</key>
     <string>equal.glif</string>
     <key>euro</key>
@@ -688,6 +720,14 @@
     <string>hyphentwo.glif</string>
     <key>i</key>
     <string>i.glif</string>
+    <key>inko.fina</key>
+    <string>inko.fina.glif</string>
+    <key>inko</key>
+    <string>inko.glif</string>
+    <key>inko.init</key>
+    <string>inko.init.glif</string>
+    <key>inko.medi</key>
+    <string>inko.medi.glif</string>
     <key>iotadieresistonos</key>
     <string>iotadieresistonos.glif</string>
     <key>kgreenlandic</key>
@@ -742,6 +782,22 @@
     <string>onequarter.glif</string>
     <key>onesuperior</key>
     <string>onesuperior.glif</string>
+    <key>onko.fina</key>
+    <string>onko.fina.glif</string>
+    <key>onko</key>
+    <string>onko.glif</string>
+    <key>onko.init</key>
+    <string>onko.init.glif</string>
+    <key>onko.medi</key>
+    <string>onko.medi.glif</string>
+    <key>oonko.fina</key>
+    <string>oonko.fina.glif</string>
+    <key>oonko</key>
+    <string>oonko.glif</string>
+    <key>oonko.init</key>
+    <string>oonko.init.glif</string>
+    <key>oonko.medi</key>
+    <string>oonko.medi.glif</string>
     <key>ordfeminine</key>
     <string>ordfeminine.glif</string>
     <key>ordmasculine</key>
@@ -856,6 +912,14 @@
     <string>uniA_7A_E_.glif</string>
     <key>uniA7B3</key>
     <string>uniA_7B_3.glif</string>
+    <key>unko.fina</key>
+    <string>unko.fina.glif</string>
+    <key>unko</key>
+    <string>unko.glif</string>
+    <key>unko.init</key>
+    <string>unko.init.glif</string>
+    <key>unko.medi</key>
+    <string>unko.medi.glif</string>
     <key>upsilondieresistonos</key>
     <string>upsilondieresistonos.glif</string>
     <key>yaatifinagh</key>
