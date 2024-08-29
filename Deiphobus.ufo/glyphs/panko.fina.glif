@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="panko.fina" format="2">
+  <advance width="1056"/>
+  <anchor name="top" x="528" y="1408"/>
+  <anchor name="bottom" x="528" y="0"/>
+  <outline>
+    <contour>
+      <point x="176" y="528" type="line"/>
+      <point x="176" y="902" type="line"/>
+      <point x="506" y="902" type="line"/>
+      <point x="506" y="1034" type="line"/>
+      <point x="176" y="1034" type="line"/>
+      <point x="176" y="1408" type="line"/>
+      <point x="880" y="1408" type="line"/>
+      <point x="880" y="374" type="line"/>
+      <point x="1056" y="374" type="line"/>
+      <point x="1056" y="0" type="line"/>
+      <point x="506" y="0" type="line"/>
+      <point x="506" y="528" type="line"/>
+    </contour>
+  </outline>
+</glyph>

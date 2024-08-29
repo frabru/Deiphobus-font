@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rranko.init" format="2">
+  <advance width="1760"/>
+  <anchor x="880" y="1408" name="top"/>
+  <anchor x="880" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-176" y="0" type="line"/>
+      <point x="-176" y="374" type="line"/>
+      <point x="396" y="374" type="line"/>
+      <point x="396" y="682" type="line"/>
+      <point x="176" y="682" type="line"/>
+      <point x="176" y="1056" type="line"/>
+      <point x="396" y="1056" type="line"/>
+      <point x="396" y="1408" type="line"/>
+      <point x="770" y="1408" type="line"/>
+      <point x="770" y="1056" type="line"/>
+      <point x="990" y="1056" type="line"/>
+      <point x="990" y="1408" type="line"/>
+      <point x="1364" y="1408" type="line"/>
+      <point x="1364" y="1056" type="line"/>
+      <point x="1584" y="1056" type="line"/>
+      <point x="1584" y="682" type="line"/>
+      <point x="1364" y="682" type="line"/>
+      <point x="1364" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="770" y="374" type="line"/>
+      <point x="990" y="374" type="line"/>
+      <point x="990" y="682" type="line"/>
+      <point x="770" y="682" type="line"/>
+    </contour>
+  </outline>
+</glyph>

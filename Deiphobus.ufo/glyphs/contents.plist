@@ -562,6 +562,14 @@
     <string>at.glif</string>
     <key>backslash</key>
     <string>backslash.glif</string>
+    <key>banko.fina</key>
+    <string>banko.fina.glif</string>
+    <key>banko</key>
+    <string>banko.glif</string>
+    <key>banko.init</key>
+    <string>banko.init.glif</string>
+    <key>banko.medi</key>
+    <string>banko.medi.glif</string>
     <key>bar</key>
     <string>bar.glif</string>
     <key>bilabialclick</key>
@@ -592,6 +600,14 @@
     <string>cedillacmb.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
+    <key>chanko.fina</key>
+    <string>chanko.fina.glif</string>
+    <key>chanko</key>
+    <string>chanko.glif</string>
+    <key>chanko.init</key>
+    <string>chanko.init.glif</string>
+    <key>chanko.medi</key>
+    <string>chanko.medi.glif</string>
     <key>circumflexcmb</key>
     <string>circumflexcmb.glif</string>
     <key>clickalveolar</key>
@@ -624,6 +640,14 @@
     <string>dagger.glif</string>
     <key>daggerdbl</key>
     <string>daggerdbl.glif</string>
+    <key>danko.fina</key>
+    <string>danko.fina.glif</string>
+    <key>danko</key>
+    <string>danko.glif</string>
+    <key>danko.init</key>
+    <string>danko.init.glif</string>
+    <key>danko.medi</key>
+    <string>danko.medi.glif</string>
     <key>degree</key>
     <string>degree.glif</string>
     <key>dialytikatonos</key>
@@ -690,6 +714,14 @@
     <string>four.glif</string>
     <key>fournko</key>
     <string>fournko.glif</string>
+    <key>gbanko.fina</key>
+    <string>gbanko.fina.glif</string>
+    <key>gbanko</key>
+    <string>gbanko.glif</string>
+    <key>gbanko.init</key>
+    <string>gbanko.init.glif</string>
+    <key>gbanko.medi</key>
+    <string>gbanko.medi.glif</string>
     <key>glottalstop</key>
     <string>glottalstop.glif</string>
     <key>glottalstopreversed</key>
@@ -730,6 +762,14 @@
     <string>inko.medi.glif</string>
     <key>iotadieresistonos</key>
     <string>iotadieresistonos.glif</string>
+    <key>janko.fina</key>
+    <string>janko.fina.glif</string>
+    <key>janko</key>
+    <string>janko.glif</string>
+    <key>janko.init</key>
+    <string>janko.init.glif</string>
+    <key>janko.medi</key>
+    <string>janko.medi.glif</string>
     <key>kgreenlandic</key>
     <string>kgreenlandic.glif</string>
     <key>less</key>
@@ -764,6 +804,14 @@
     <string>nine.glif</string>
     <key>ninenko</key>
     <string>ninenko.glif</string>
+    <key>nnko.fina</key>
+    <string>nnko.fina.glif</string>
+    <key>nnko</key>
+    <string>nnko.glif</string>
+    <key>nnko.init</key>
+    <string>nnko.init.glif</string>
+    <key>nnko.medi</key>
+    <string>nnko.medi.glif</string>
     <key>numbersign</key>
     <string>numbersign.glif</string>
     <key>numero</key>
@@ -802,6 +850,14 @@
     <string>ordfeminine.glif</string>
     <key>ordmasculine</key>
     <string>ordmasculine.glif</string>
+    <key>panko.fina</key>
+    <string>panko.fina.glif</string>
+    <key>panko</key>
+    <string>panko.glif</string>
+    <key>panko.init</key>
+    <string>panko.init.glif</string>
+    <key>panko.medi</key>
+    <string>panko.medi.glif</string>
     <key>paragraph</key>
     <string>paragraph.glif</string>
     <key>parenleft</key>
@@ -840,6 +896,14 @@
     <string>quotesinglbase.glif</string>
     <key>quotesingle</key>
     <string>quotesingle.glif</string>
+    <key>ranko.fina</key>
+    <string>ranko.fina.glif</string>
+    <key>ranko</key>
+    <string>ranko.glif</string>
+    <key>ranko.init</key>
+    <string>ranko.init.glif</string>
+    <key>ranko.medi</key>
+    <string>ranko.medi.glif</string>
     <key>registered</key>
     <string>registered.glif</string>
     <key>rfishhook</key>
@@ -848,6 +912,22 @@
     <string>ring.glif</string>
     <key>ringcmb</key>
     <string>ringcmb.glif</string>
+    <key>rranko.fina</key>
+    <string>rranko.fina.glif</string>
+    <key>rranko</key>
+    <string>rranko.glif</string>
+    <key>rranko.init</key>
+    <string>rranko.init.glif</string>
+    <key>rranko.medi</key>
+    <string>rranko.medi.glif</string>
+    <key>sanko.fina</key>
+    <string>sanko.fina.glif</string>
+    <key>sanko</key>
+    <string>sanko.glif</string>
+    <key>sanko.init</key>
+    <string>sanko.init.glif</string>
+    <key>sanko.medi</key>
+    <string>sanko.medi.glif</string>
     <key>section</key>
     <string>section.glif</string>
     <key>semicolon</key>
@@ -868,6 +948,14 @@
     <string>sterling.glif</string>
     <key>tamatarttifinagh</key>
     <string>tamatarttifinagh.glif</string>
+    <key>tanko.fina</key>
+    <string>tanko.fina.glif</string>
+    <key>tanko</key>
+    <string>tanko.glif</string>
+    <key>tanko.init</key>
+    <string>tanko.init.glif</string>
+    <key>tanko.medi</key>
+    <string>tanko.medi.glif</string>
     <key>tazarasttifinagh</key>
     <string>tazarasttifinagh.glif</string>
     <key>tazarasttifinagh.mirrored</key>
