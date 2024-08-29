@@ -5,8 +5,8 @@
   <anchor name="bottom" x="704" y="0"/>
   <outline>
     <contour>
-      <point x="0" y="0" type="line"/>
-      <point x="0" y="374" type="line"/>
+      <point x="-176" y="0" type="line"/>
+      <point x="-176" y="374" type="line"/>
       <point x="176" y="374" type="line"/>
       <point x="176" y="660" type="line"/>
       <point x="396" y="880" type="line"/>
