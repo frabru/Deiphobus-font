@@ -700,6 +700,14 @@
     <string>exclam.glif</string>
     <key>exclamdown</key>
     <string>exclamdown.glif</string>
+    <key>fanko.fina</key>
+    <string>fanko.fina.glif</string>
+    <key>fanko</key>
+    <string>fanko.glif</string>
+    <key>fanko.init</key>
+    <string>fanko.init.glif</string>
+    <key>fanko.medi</key>
+    <string>fanko.medi.glif</string>
     <key>figuredash</key>
     <string>figuredash.glif</string>
     <key>five</key>
@@ -740,6 +748,14 @@
     <string>guilsinglleft.glif</string>
     <key>guilsinglright</key>
     <string>guilsinglright.glif</string>
+    <key>hanko.fina</key>
+    <string>hanko.fina.glif</string>
+    <key>hanko</key>
+    <string>hanko.glif</string>
+    <key>hanko.init</key>
+    <string>hanko.init.glif</string>
+    <key>hanko.medi</key>
+    <string>hanko.medi.glif</string>
     <key>horizontalbar</key>
     <string>horizontalbar.glif</string>
     <key>hungarumlaut</key>
@@ -770,8 +786,24 @@
     <string>janko.init.glif</string>
     <key>janko.medi</key>
     <string>janko.medi.glif</string>
+    <key>kanko.fina</key>
+    <string>kanko.fina.glif</string>
+    <key>kanko</key>
+    <string>kanko.glif</string>
+    <key>kanko.init</key>
+    <string>kanko.init.glif</string>
+    <key>kanko.medi</key>
+    <string>kanko.medi.glif</string>
     <key>kgreenlandic</key>
     <string>kgreenlandic.glif</string>
+    <key>lanko.fina</key>
+    <string>lanko.fina.glif</string>
+    <key>lanko</key>
+    <string>lanko.glif</string>
+    <key>lanko.init</key>
+    <string>lanko.init.glif</string>
+    <key>lanko.medi</key>
+    <string>lanko.medi.glif</string>
     <key>less</key>
     <string>less.glif</string>
     <key>logicalnot</key>
@@ -794,8 +826,24 @@
     <string>macronlowmod.glif</string>
     <key>macronlowmod.wide</key>
     <string>macronlowmod.wide.glif</string>
+    <key>manko.fina</key>
+    <string>manko.fina.glif</string>
+    <key>manko</key>
+    <string>manko.glif</string>
+    <key>manko.init</key>
+    <string>manko.init.glif</string>
+    <key>manko.medi</key>
+    <string>manko.medi.glif</string>
     <key>multiply</key>
     <string>multiply.glif</string>
+    <key>nanko.fina</key>
+    <string>nanko.fina.glif</string>
+    <key>nanko</key>
+    <string>nanko.glif</string>
+    <key>nanko.init</key>
+    <string>nanko.init.glif</string>
+    <key>nanko.medi</key>
+    <string>nanko.medi.glif</string>
     <key>napostrophe</key>
     <string>napostrophe.glif</string>
     <key>nhookretroflex</key>
@@ -816,6 +864,14 @@
     <string>numbersign.glif</string>
     <key>numero</key>
     <string>numero.glif</string>
+    <key>nyanko.fina</key>
+    <string>nyanko.fina.glif</string>
+    <key>nyanko</key>
+    <string>nyanko.glif</string>
+    <key>nyanko.init</key>
+    <string>nyanko.init.glif</string>
+    <key>nyanko.medi</key>
+    <string>nyanko.medi.glif</string>
     <key>ogonek</key>
     <string>ogonek.glif</string>
     <key>ogonekcmb</key>
@@ -1010,6 +1066,30 @@
     <string>unko.medi.glif</string>
     <key>upsilondieresistonos</key>
     <string>upsilondieresistonos.glif</string>
+    <key>wanko.fina</key>
+    <string>wanko.fina.glif</string>
+    <key>wanko</key>
+    <string>wanko.glif</string>
+    <key>wanko.init</key>
+    <string>wanko.init.glif</string>
+    <key>wanko.medi</key>
+    <string>wanko.medi.glif</string>
+    <key>wolosonanko.fina</key>
+    <string>wolosonanko.fina.glif</string>
+    <key>wolosonanko</key>
+    <string>wolosonanko.glif</string>
+    <key>wolosonanko.init</key>
+    <string>wolosonanko.init.glif</string>
+    <key>wolosonanko.medi</key>
+    <string>wolosonanko.medi.glif</string>
+    <key>wolosonyanko.fina</key>
+    <string>wolosonyanko.fina.glif</string>
+    <key>wolosonyanko</key>
+    <string>wolosonyanko.glif</string>
+    <key>wolosonyanko.init</key>
+    <string>wolosonyanko.init.glif</string>
+    <key>wolosonyanko.medi</key>
+    <string>wolosonyanko.medi.glif</string>
     <key>yaatifinagh</key>
     <string>yaatifinagh.glif</string>
     <key>yabhtifinagh</key>
@@ -1084,6 +1164,14 @@
     <string>yamtifinagh.mirrored.glif</string>
     <key>yangtuaregtifinagh</key>
     <string>yangtuaregtifinagh.glif</string>
+    <key>yanko.fina</key>
+    <string>yanko.fina.glif</string>
+    <key>yanko</key>
+    <string>yanko.glif</string>
+    <key>yanko.init</key>
+    <string>yanko.init.glif</string>
+    <key>yanko.medi</key>
+    <string>yanko.medi.glif</string>
     <key>yantifinagh</key>
     <string>yantifinagh.glif</string>
     <key>yaptifinagh</key>

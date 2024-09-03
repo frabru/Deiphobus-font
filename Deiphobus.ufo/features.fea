@@ -357,10 +357,10 @@ feature rtlm {
 	} tifinagh_rtl;
 } rtlm;
 
-@nko_letter      = [anko      eenko      inko      enko      unko      oonko      onko      dagbasinnanko      nnko      banko      panko      tanko      janko      chanko      danko      ranko      rranko      sanko      gbanko     ];
-@nko_letter_init = [anko.init eenko.init inko.init enko.init unko.init oonko.init onko.init dagbasinnanko.init nnko.init banko.init panko.init tanko.init janko.init chanko.init danko.init ranko.init rranko.init sanko.init gbanko.init];
-@nko_letter_medi = [anko.medi eenko.medi inko.medi enko.medi unko.medi oonko.medi onko.medi dagbasinnanko.medi nnko.medi banko.medi panko.medi tanko.medi janko.medi chanko.medi danko.medi ranko.medi rranko.medi sanko.medi gbanko.medi];
-@nko_letter_fina = [anko.fina eenko.fina inko.fina enko.fina unko.fina oonko.fina onko.fina dagbasinnanko.fina nnko.fina banko.fina panko.fina tanko.fina janko.fina chanko.fina danko.fina ranko.fina rranko.fina sanko.fina gbanko.fina];
+@nko_letter      = [anko      eenko      inko      enko      unko      oonko      onko      dagbasinnanko      nnko      banko      panko      tanko      janko      chanko      danko      ranko      rranko      sanko      gbanko      fanko      kanko      lanko      wolosonanko      manko      nyanko      nanko      hanko      wanko      yanko      wolosonyanko];
+@nko_letter_init = [anko.init eenko.init inko.init enko.init unko.init oonko.init onko.init dagbasinnanko.init nnko.init banko.init panko.init tanko.init janko.init chanko.init danko.init ranko.init rranko.init sanko.init gbanko.init fanko.init kanko.init lanko.init wolosonanko.init manko.init nyanko.init nanko.init hanko.init wanko.init yanko.init wolosonyanko.init];
+@nko_letter_medi = [anko.medi eenko.medi inko.medi enko.medi unko.medi oonko.medi onko.medi dagbasinnanko.medi nnko.medi banko.medi panko.medi tanko.medi janko.medi chanko.medi danko.medi ranko.medi rranko.medi sanko.medi gbanko.medi fanko.medi kanko.medi lanko.medi wolosonanko.medi manko.medi nyanko.medi nanko.medi hanko.medi wanko.medi yanko.medi wolosonyanko.medi];
+@nko_letter_fina = [anko.fina eenko.fina inko.fina enko.fina unko.fina oonko.fina onko.fina dagbasinnanko.fina nnko.fina banko.fina panko.fina tanko.fina janko.fina chanko.fina danko.fina ranko.fina rranko.fina sanko.fina gbanko.fina fanko.fina kanko.fina lanko.fina wolosonanko.fina manko.fina nyanko.fina nanko.fina hanko.fina wanko.fina yanko.fina wolosonyanko.fina];
 feature init {
 	script nko;
 	lookupflag RightToLeft;
@@ -505,6 +505,10 @@ feature mark {
 		gbanko.medi
 		glottalstop
 		glottalstopreversed
+		hanko.fina
+		hanko
+		hanko.init
+		hanko.medi
 		i
 		inko.fina
 		inko
@@ -514,6 +518,22 @@ feature mark {
 		janko
 		janko.init
 		janko.medi
+		kanko.fina
+		kanko
+		kanko.init
+		kanko.medi
+		lanko.fina
+		lanko
+		lanko.init
+		lanko.medi
+		manko.fina
+		manko
+		manko.init
+		manko.medi
+		nanko.fina
+		nanko
+		nanko.init
+		nanko.medi
 		nhookretroflex
 		onko.fina
 		onko
@@ -526,6 +546,22 @@ feature mark {
 		rfishhook
 		uni024D
 		uniA7B3
+		wanko.fina
+		wanko
+		wanko.init
+		wanko.medi
+		wolosonanko.fina
+		wolosonanko
+		wolosonanko.init
+		wolosonanko.medi
+		wolosonyanko.fina
+		wolosonyanko
+		wolosonyanko.init
+		wolosonyanko.medi
+		yanko.fina
+		yanko
+		yanko.init
+		yanko.medi
 		] <anchor 704 1408> mark @TOP_MARKS;
 	pos base [A.short I.short Icyrillic.short Iota.short O.short U.short Ucyrillic.short Upsilon.short Y.short] <anchor 704 1254> mark @TOP_MARKS;
 	pos base [
@@ -540,6 +576,10 @@ feature mark {
 		Yericyrillic
 		Zhecyrillic
 		bilabialclick
+		fanko.fina
+		fanko
+		fanko.init
+		fanko.medi
 		rranko.fina
 		rranko
 		rranko.init
@@ -669,6 +709,7 @@ feature mark {
 	pos base [longs uni1E9E] <anchor 616 1408> mark @TOP_MARKS;
 	pos base napostrophe <anchor 1408 1408> mark @TOP_MARKS;
 	pos base [nnko.fina nnko nnko.init nnko.medi] <anchor 660 1408> mark @TOP_MARKS;
+	pos base [nyanko.fina nyanko nyanko.init nyanko.medi] <anchor 748 1408> mark @TOP_MARKS;
 	pos base [sanko.fina sanko sanko.init sanko.medi] <anchor 880 1056> mark @TOP_MARKS;
 	pos base [
 		A
@@ -857,6 +898,8 @@ feature mark {
 		gbanko
 		gbanko.init
 		gbanko.medi
+		hanko.init
+		hanko.medi
 		i
 		inko.fina
 		inko
@@ -867,7 +910,19 @@ feature mark {
 		janko
 		janko.init
 		janko.medi
+		kanko.init
+		kanko.medi
 		kgreenlandic
+		lanko.fina
+		lanko
+		lanko.init
+		lanko.medi
+		manko.fina
+		manko
+		manko.init
+		manko.medi
+		nanko.init
+		nanko.medi
 		onko.fina
 		onko
 		onko.init
@@ -893,6 +948,22 @@ feature mark {
 		unko.init
 		unko.medi
 		upsilondieresistonos
+		wanko.fina
+		wanko
+		wanko.init
+		wanko.medi
+		wolosonanko.fina
+		wolosonanko
+		wolosonanko.init
+		wolosonanko.medi
+		wolosonyanko.fina
+		wolosonyanko
+		wolosonyanko.init
+		wolosonyanko.medi
+		yanko.fina
+		yanko
+		yanko.init
+		yanko.medi
 		] <anchor 704 0> mark @BOTTOM_MARKS;
 	pos base [
 		AE
@@ -913,6 +984,10 @@ feature mark {
 		danko
 		danko.init
 		danko.medi
+		fanko.fina
+		fanko
+		fanko.init
+		fanko.medi
 		rranko.fina
 		rranko
 		rranko.init
@@ -970,7 +1045,7 @@ feature mark {
 	pos base [Gcedilla Kcedilla Lcedilla Ncedilla Rcedilla] <anchor 704 -462> mark @BOTTOM_MARKS;
 	pos base Hardsigncyrillic <anchor 660 0> mark @BOTTOM_MARKS;
 	pos base [Hhook IUcyrillic] <anchor 770 0> mark @BOTTOM_MARKS;
-	pos base Iotaafrican <anchor 858 0> mark @BOTTOM_MARKS;
+	pos base [Iotaafrican hanko.fina hanko kanko.fina kanko nanko.fina nanko] <anchor 858 0> mark @BOTTOM_MARKS;
 	pos base Lbelt <anchor 792 0> mark @BOTTOM_MARKS;
 	pos base Mhook <anchor 880 -528> mark @BOTTOM_MARKS;
 	pos base OE <anchor 957 0> mark @BOTTOM_MARKS;
@@ -986,6 +1061,7 @@ feature mark {
 	pos base longs <anchor 363 -528> mark @BOTTOM_MARKS;
 	pos base napostrophe <anchor 1408 0> mark @BOTTOM_MARKS;
 	pos base [nnko.fina nnko nnko.init nnko.medi] <anchor 1034 0> mark @BOTTOM_MARKS;
+	pos base [nyanko.fina nyanko nyanko.init nyanko.medi] <anchor 748 0> mark @BOTTOM_MARKS;
 } mark;
 feature mkmk {
 	markClass [acutecomb brevecmb caroncmb circumflexcmb dialytikatonoscmb dotaccentcmb gravecomb hungarumlautcmb macroncmb ringcmb tildecomb uni0308] <anchor 704 1408> @TOP_MARKS_STACKED;
