@@ -600,6 +600,14 @@
     <string>cedillacmb.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
+    <key>chajonanko.fina</key>
+    <string>chajonanko.fina.glif</string>
+    <key>chajonanko</key>
+    <string>chajonanko.glif</string>
+    <key>chajonanko.init</key>
+    <string>chajonanko.init.glif</string>
+    <key>chajonanko.medi</key>
+    <string>chajonanko.medi.glif</string>
     <key>chanko.fina</key>
     <string>chanko.fina.glif</string>
     <key>chanko</key>
@@ -778,6 +786,14 @@
     <string>inko.medi.glif</string>
     <key>iotadieresistonos</key>
     <string>iotadieresistonos.glif</string>
+    <key>jajonanko.fina</key>
+    <string>jajonanko.fina.glif</string>
+    <key>jajonanko</key>
+    <string>jajonanko.glif</string>
+    <key>jajonanko.init</key>
+    <string>jajonanko.init.glif</string>
+    <key>jajonanko.medi</key>
+    <string>jajonanko.medi.glif</string>
     <key>janko.fina</key>
     <string>janko.fina.glif</string>
     <key>janko</key>
@@ -952,6 +968,14 @@
     <string>quotesinglbase.glif</string>
     <key>quotesingle</key>
     <string>quotesingle.glif</string>
+    <key>rajonanko.fina</key>
+    <string>rajonanko.fina.glif</string>
+    <key>rajonanko</key>
+    <string>rajonanko.glif</string>
+    <key>rajonanko.init</key>
+    <string>rajonanko.init.glif</string>
+    <key>rajonanko.medi</key>
+    <string>rajonanko.medi.glif</string>
     <key>ranko.fina</key>
     <string>ranko.fina.glif</string>
     <key>ranko</key>

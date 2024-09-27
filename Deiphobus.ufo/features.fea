@@ -357,10 +357,10 @@ feature rtlm {
 	} tifinagh_rtl;
 } rtlm;
 
-@nko_letter      = [anko      eenko      inko      enko      unko      oonko      onko      dagbasinnanko      nnko      banko      panko      tanko      janko      chanko      danko      ranko      rranko      sanko      gbanko      fanko      kanko      lanko      wolosonanko      manko      nyanko      nanko      hanko      wanko      yanko      wolosonyanko];
-@nko_letter_init = [anko.init eenko.init inko.init enko.init unko.init oonko.init onko.init dagbasinnanko.init nnko.init banko.init panko.init tanko.init janko.init chanko.init danko.init ranko.init rranko.init sanko.init gbanko.init fanko.init kanko.init lanko.init wolosonanko.init manko.init nyanko.init nanko.init hanko.init wanko.init yanko.init wolosonyanko.init];
-@nko_letter_medi = [anko.medi eenko.medi inko.medi enko.medi unko.medi oonko.medi onko.medi dagbasinnanko.medi nnko.medi banko.medi panko.medi tanko.medi janko.medi chanko.medi danko.medi ranko.medi rranko.medi sanko.medi gbanko.medi fanko.medi kanko.medi lanko.medi wolosonanko.medi manko.medi nyanko.medi nanko.medi hanko.medi wanko.medi yanko.medi wolosonyanko.medi];
-@nko_letter_fina = [anko.fina eenko.fina inko.fina enko.fina unko.fina oonko.fina onko.fina dagbasinnanko.fina nnko.fina banko.fina panko.fina tanko.fina janko.fina chanko.fina danko.fina ranko.fina rranko.fina sanko.fina gbanko.fina fanko.fina kanko.fina lanko.fina wolosonanko.fina manko.fina nyanko.fina nanko.fina hanko.fina wanko.fina yanko.fina wolosonyanko.fina];
+@nko_letter      = [anko      eenko      inko      enko      unko      oonko      onko      dagbasinnanko      nnko      banko      panko      tanko      janko      chanko      danko      ranko      rranko      sanko      gbanko      fanko      kanko      lanko      wolosonanko      manko      nyanko      nanko      hanko      wanko      yanko      wolosonyanko      jajonanko      chajonanko      rajonanko     ];
+@nko_letter_init = [anko.init eenko.init inko.init enko.init unko.init oonko.init onko.init dagbasinnanko.init nnko.init banko.init panko.init tanko.init janko.init chanko.init danko.init ranko.init rranko.init sanko.init gbanko.init fanko.init kanko.init lanko.init wolosonanko.init manko.init nyanko.init nanko.init hanko.init wanko.init yanko.init wolosonyanko.init jajonanko.init chajonanko.init rajonanko.init];
+@nko_letter_medi = [anko.medi eenko.medi inko.medi enko.medi unko.medi oonko.medi onko.medi dagbasinnanko.medi nnko.medi banko.medi panko.medi tanko.medi janko.medi chanko.medi danko.medi ranko.medi rranko.medi sanko.medi gbanko.medi fanko.medi kanko.medi lanko.medi wolosonanko.medi manko.medi nyanko.medi nanko.medi hanko.medi wanko.medi yanko.medi wolosonyanko.medi jajonanko.medi chajonanko.medi rajonanko.medi];
+@nko_letter_fina = [anko.fina eenko.fina inko.fina enko.fina unko.fina oonko.fina onko.fina dagbasinnanko.fina nnko.fina banko.fina panko.fina tanko.fina janko.fina chanko.fina danko.fina ranko.fina rranko.fina sanko.fina gbanko.fina fanko.fina kanko.fina lanko.fina wolosonanko.fina manko.fina nyanko.fina nanko.fina hanko.fina wanko.fina yanko.fina wolosonyanko.fina jajonanko.fina chajonanko.fina rajonanko.fina];
 feature init {
 	script nko;
 	lookupflag RightToLeft;
@@ -680,6 +680,7 @@ feature mark {
 	pos base Uring <anchor 704 1958> mark @TOP_MARKS;
 	pos base [Wcircumflex Wdieresis] <anchor 880 1914> mark @TOP_MARKS;
 	pos base [anko.fina anko anko.init anko.medi banko.fina banko banko.init banko.medi panko.fina panko panko.init panko.medi] <anchor 528 1408> mark @TOP_MARKS;
+	pos base [chajonanko.fina chajonanko chajonanko.init chajonanko.medi jajonanko.fina jajonanko jajonanko.init jajonanko.medi rajonanko.fina rajonanko rajonanko.init rajonanko.medi] <anchor 704 704> mark @TOP_MARKS;
 	pos base [chanko.fina chanko chanko.init chanko.medi] <anchor 506 1408> mark @TOP_MARKS;
 	pos base [clickalveolar clicklateral clickretroflex] <anchor 704 1584> mark @TOP_MARKS;
 	pos base clickdental <anchor 528 1584> mark @TOP_MARKS;
@@ -1053,6 +1054,7 @@ feature mark {
 	pos base [Q Shchacyrillic] <anchor 704 -187> mark @BOTTOM_MARKS;
 	pos base Tsecyrillic <anchor 671 -187> mark @BOTTOM_MARKS;
 	pos base [anko.fina anko anko.init anko.medi banko.fina banko banko.init banko.medi panko.fina panko panko.init panko.medi] <anchor 528 0> mark @BOTTOM_MARKS;
+	pos base [chajonanko.fina chajonanko chajonanko.init chajonanko.medi jajonanko.fina jajonanko jajonanko.init jajonanko.medi rajonanko.fina rajonanko rajonanko.init rajonanko.medi] <anchor 704 -704> mark @BOTTOM_MARKS;
 	pos base [chanko.fina chanko chanko.init chanko.medi] <anchor 506 0> mark @BOTTOM_MARKS;
 	pos base [clickalveolar clicklateral] <anchor 704 -176> mark @BOTTOM_MARKS;
 	pos base clickdental <anchor 528 -176> mark @BOTTOM_MARKS;

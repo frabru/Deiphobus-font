@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chajonanko.fina" format="2">
+  <advance width="1408"/>
+  <anchor x="704" y="704" name="top"/>
+  <anchor x="704" y="-704" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="176" y="-704" type="line"/>
+      <point x="176" y="-440" type="line"/>
+      <point x="396" y="0" type="line"/>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="374" type="line"/>
+      <point x="517" y="374" type="line"/>
+      <point x="517" y="704" type="line"/>
+      <point x="891" y="704" type="line"/>
+      <point x="891" y="374" type="line"/>
+      <point x="1408" y="374" type="line"/>
+      <point x="1408" y="0" type="line"/>
+      <point x="1012" y="0" type="line"/>
+      <point x="1232" y="-220" type="line"/>
+      <point x="1232" y="-484" type="line"/>
+      <point x="1012" y="-704" type="line"/>
+    </contour>
+    <contour>
+      <point x="649" y="-330" type="line"/>
+      <point x="968" y="-330" type="line"/>
+      <point x="814" y="-176" type="line"/>
+      <point x="726" y="-176" type="line"/>
+    </contour>
+  </outline>
+</glyph>
