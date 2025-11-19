@@ -824,6 +824,14 @@
     <string>less.glif</string>
     <key>logicalnot</key>
     <string>logicalnot.glif</string>
+    <key>longdescendingtonenkocmb</key>
+    <string>longdescendingtonenkocmb.glif</string>
+    <key>longhightonenkocmb</key>
+    <string>longhightonenkocmb.glif</string>
+    <key>longlowtonenkocmb</key>
+    <string>longlowtonenkocmb.glif</string>
+    <key>longrisingtonenkocmb</key>
+    <string>longrisingtonenkocmb.glif</string>
     <key>longs</key>
     <string>longs.glif</string>
     <key>macron</key>
@@ -1016,6 +1024,12 @@
     <string>seven.glif</string>
     <key>sevennko</key>
     <string>sevennko.glif</string>
+    <key>shorthightonenkocmb</key>
+    <string>shorthightonenkocmb.glif</string>
+    <key>shortlowtonenkocmb</key>
+    <string>shortlowtonenkocmb.glif</string>
+    <key>shortrisingtonenkocmb</key>
+    <string>shortrisingtonenkocmb.glif</string>
     <key>six</key>
     <string>six.glif</string>
     <key>sixnko</key>

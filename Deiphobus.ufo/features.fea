@@ -255,12 +255,19 @@ dotaccentcmb
 dotbelowcmb
 gravecomb
 hungarumlautcmb
+longdescendingtonenkocmb
+longhightonenkocmb
+longlowtonenkocmb
+longrisingtonenkocmb
 macronbelowcmb
 macroncmb
 macronbelowcmb.wide
 macroncmb.wide
 ogonekcmb
 ringcmb
+shorthightonenkocmb
+shortlowtonenkocmb
+shortrisingtonenkocmb
 tildecomb
 uni0308
 ];
@@ -378,7 +385,27 @@ feature fina {
 } fina;
 
 feature mark {
-	markClass [acutecomb brevecmb caroncmb circumflexcmb dialytikatonoscmb dotaccentcmb gravecomb hungarumlautcmb macroncmb ringcmb tildecomb uni0308] <anchor 704 1408> @TOP_MARKS;
+	markClass [
+		acutecomb
+		brevecmb
+		caroncmb
+		circumflexcmb
+		dialytikatonoscmb
+		dotaccentcmb
+		gravecomb
+		hungarumlautcmb
+		longdescendingtonenkocmb
+		longhightonenkocmb
+		longlowtonenkocmb
+		longrisingtonenkocmb
+		macroncmb
+		ringcmb
+		shorthightonenkocmb
+		shortlowtonenkocmb
+		shortrisingtonenkocmb
+		tildecomb
+		uni0308
+		] <anchor 704 1408> @TOP_MARKS;
 	markClass macroncmb.wide <anchor 880 1408> @TOP_MARKS;
 	markClass [dotbelowcmb macronbelowcmb] <anchor 704 0> @BOTTOM_MARKS;
 	markClass macronbelowcmb.wide <anchor 880 0> @BOTTOM_MARKS;
@@ -1066,13 +1093,49 @@ feature mark {
 	pos base [nyanko.fina nyanko nyanko.init nyanko.medi] <anchor 748 0> mark @BOTTOM_MARKS;
 } mark;
 feature mkmk {
-	markClass [acutecomb brevecmb caroncmb circumflexcmb dialytikatonoscmb dotaccentcmb gravecomb hungarumlautcmb macroncmb ringcmb tildecomb uni0308] <anchor 704 1408> @TOP_MARKS_STACKED;
+	markClass [
+		acutecomb
+		brevecmb
+		caroncmb
+		circumflexcmb
+		dialytikatonoscmb
+		dotaccentcmb
+		gravecomb
+		hungarumlautcmb
+		longdescendingtonenkocmb
+		longhightonenkocmb
+		longlowtonenkocmb
+		longrisingtonenkocmb
+		macroncmb
+		ringcmb
+		shorthightonenkocmb
+		shortlowtonenkocmb
+		shortrisingtonenkocmb
+		tildecomb
+		uni0308
+		] <anchor 704 1408> @TOP_MARKS_STACKED;
 	markClass macroncmb.wide <anchor 880 1408> @TOP_MARKS_STACKED;
 	markClass [dotbelowcmb macronbelowcmb] <anchor 704 0> @BOTTOM_MARKS_STACKED;
 	markClass macronbelowcmb.wide <anchor 880 0> @BOTTOM_MARKS_STACKED;
-	pos mark [acutecomb brevecmb caroncmb circumflexcmb dotaccentcmb gravecomb hungarumlautcmb tildecomb uni0308] <anchor 704 1914> mark @TOP_MARKS_STACKED;
+	pos mark [
+		acutecomb
+		brevecmb
+		caroncmb
+		circumflexcmb
+		dotaccentcmb
+		gravecomb
+		hungarumlautcmb
+		longdescendingtonenkocmb
+		longhightonenkocmb
+		longlowtonenkocmb
+		longrisingtonenkocmb
+		shortlowtonenkocmb
+		shortrisingtonenkocmb
+		tildecomb
+		uni0308
+		] <anchor 704 1914> mark @TOP_MARKS_STACKED;
 	pos mark dialytikatonoscmb <anchor 704 2442> mark @TOP_MARKS_STACKED;
-	pos mark macroncmb <anchor 704 1804> mark @TOP_MARKS_STACKED;
+	pos mark [macroncmb shorthightonenkocmb] <anchor 704 1804> mark @TOP_MARKS_STACKED;
 	pos mark macroncmb.wide <anchor 880 1804> mark @TOP_MARKS_STACKED;
 	pos mark ringcmb <anchor 704 2178> mark @TOP_MARKS_STACKED;
 	pos mark [dotbelowcmb macronbelowcmb] <anchor 704 -506> mark @BOTTOM_MARKS_STACKED;

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shortrisingtonenkocmb" format="2">
+  <advance width="1408"/>
+  <unicode hex="07ED"/>
+	<anchor x="704" y="1408" name="top.mark"/>
+	<anchor x="704" y="1914" name="top"/>
+  <outline>
+		<component base="dotaccent" yOffset="506"/>
+  </outline>
+</glyph>
