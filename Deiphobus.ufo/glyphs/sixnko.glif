@@ -2,6 +2,8 @@
 <glyph name="sixnko" format="2">
   <advance width="1408"/>
   <unicode hex="07C6"/>
+  <anchor name="top" x="363" y="1408"/>
+  <anchor name="bottom" x="1045" y="0"/>
   <outline>
     <contour>
       <point x="176" y="418" type="line"/>

@@ -572,6 +572,7 @@ feature mark {
 		nanko.init
 		nanko.medi
 		nhookretroflex
+		ninenko
 		onko.fina
 		onko
 		onko.init
@@ -581,6 +582,7 @@ feature mark {
 		ranko.init
 		ranko.medi
 		rfishhook
+		twonko
 		uni024D
 		uniA7B3
 		wanko.fina
@@ -599,6 +601,7 @@ feature mark {
 		yanko
 		yanko.init
 		yanko.medi
+		zeronko
 		] <anchor 704 1408> mark @TOP_MARKS;
 	pos base [A.short I.short Icyrillic.short Iota.short O.short U.short Ucyrillic.short Upsilon.short Y.short] <anchor 704 1254> mark @TOP_MARKS;
 	pos base [
@@ -723,6 +726,7 @@ feature mark {
 	pos base clickdental <anchor 528 1584> mark @TOP_MARKS;
 	pos base [danko.fina danko danko.init danko.medi] <anchor 869 1056> mark @TOP_MARKS;
 	pos base [eenko.fina eenko eenko.init eenko.medi] <anchor 704 880> mark @TOP_MARKS;
+	pos base [eightnko fivenko sevennko sixnko] <anchor 363 1408> mark @TOP_MARKS;
 	pos base [
 		enko.fina
 		enko
@@ -743,8 +747,9 @@ feature mark {
 		unko.medi
 		] <anchor 704 1056> mark @TOP_MARKS;
 	pos base equal <anchor 704 1144> mark @TOP_MARKS;
+	pos base [fournko threenko] <anchor 1045 1408> mark @TOP_MARKS;
 	pos base [iotadieresistonos upsilondieresistonos] <anchor 704 2288> mark @TOP_MARKS;
-	pos base [longs uni1E9E] <anchor 616 1408> mark @TOP_MARKS;
+	pos base [longs onenko uni1E9E] <anchor 616 1408> mark @TOP_MARKS;
 	pos base napostrophe <anchor 1408 1408> mark @TOP_MARKS;
 	pos base [nnko.fina nnko nnko.init nnko.medi] <anchor 660 1408> mark @TOP_MARKS;
 	pos base [nyanko.fina nyanko nyanko.init nyanko.medi] <anchor 748 1408> mark @TOP_MARKS;
@@ -932,6 +937,7 @@ feature mark {
 		enko
 		enko.init
 		enko.medi
+		fournko
 		gbanko.fina
 		gbanko
 		gbanko.init
@@ -961,6 +967,7 @@ feature mark {
 		manko.medi
 		nanko.init
 		nanko.medi
+		ninenko
 		onko.fina
 		onko
 		onko.init
@@ -977,6 +984,7 @@ feature mark {
 		tanko
 		tanko.init
 		tanko.medi
+		threenko
 		uni024D
 		uni0400
 		uni040D
@@ -1002,6 +1010,7 @@ feature mark {
 		yanko
 		yanko.init
 		yanko.medi
+		zeronko
 		] <anchor 704 0> mark @BOTTOM_MARKS;
 	pos base [
 		AE
@@ -1095,12 +1104,15 @@ feature mark {
 	pos base [chanko.fina chanko chanko.init chanko.medi] <anchor 506 0> mark @BOTTOM_MARKS;
 	pos base [clickalveolar clicklateral] <anchor 704 -176> mark @BOTTOM_MARKS;
 	pos base clickdental <anchor 528 -176> mark @BOTTOM_MARKS;
+	pos base [eightnko fivenko sevennko twonko] <anchor 363 0> mark @BOTTOM_MARKS;
 	pos base equal <anchor 704 264> mark @BOTTOM_MARKS;
 	pos base glottalstopreversed <anchor 781 0> mark @BOTTOM_MARKS;
 	pos base longs <anchor 363 -528> mark @BOTTOM_MARKS;
 	pos base napostrophe <anchor 1408 0> mark @BOTTOM_MARKS;
 	pos base [nnko.fina nnko nnko.init nnko.medi] <anchor 1034 0> mark @BOTTOM_MARKS;
 	pos base [nyanko.fina nyanko nyanko.init nyanko.medi] <anchor 748 0> mark @BOTTOM_MARKS;
+	pos base onenko <anchor 616 0> mark @BOTTOM_MARKS;
+	pos base sixnko <anchor 1045 0> mark @BOTTOM_MARKS;
 } mark;
 feature mkmk {
 	markClass [

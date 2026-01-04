@@ -2,6 +2,8 @@
 <glyph name="sevennko" format="2">
   <advance width="1408"/>
   <unicode hex="07C7"/>
+  <anchor name="top" x="363" y="1408"/>
+  <anchor name="bottom" x="363" y="0"/>
   <outline>
     <contour>
       <point x="176" y="0" type="line"/>

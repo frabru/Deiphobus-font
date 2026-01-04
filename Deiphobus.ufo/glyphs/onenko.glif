@@ -2,6 +2,8 @@
 <glyph name="onenko" format="2">
   <advance width="1408"/>
   <unicode hex="07C1"/>
+  <anchor name="top" x="616" y="1408"/>
+  <anchor name="bottom" x="616" y="0"/>
   <outline>
     <contour>
       <point x="176" y="0" type="line"/>
