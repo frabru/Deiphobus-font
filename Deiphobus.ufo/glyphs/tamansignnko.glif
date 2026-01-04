@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tamansignnko" format="2">
+  <advance width="1408"/>
+  <unicode hex="07FF"/>
+  <outline>
+    <contour>
+      <point x="44" y="1012" type="line"/>
+      <point x="44" y="1276" type="line"/>
+      <point x="264" y="1276" type="line"/>
+      <point x="264" y="1408" type="line"/>
+      <point x="638" y="1408" type="line"/>
+      <point x="638" y="1276" type="line"/>
+      <point x="1045" y="1276" type="line"/>
+      <point x="1045" y="1012" type="line"/>
+      <point x="638" y="1012" type="line"/>
+      <point x="638" y="880" type="line"/>
+      <point x="1012" y="880" type="line"/>
+      <point x="1232" y="660" type="line"/>
+      <point x="1232" y="220" type="line"/>
+      <point x="1012" y="0" type="line"/>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="1012" type="line"/>
+    </contour>
+    <contour>
+      <point x="638" y="374" type="line"/>
+      <point x="858" y="374" type="line"/>
+      <point x="858" y="506" type="line"/>
+      <point x="638" y="506" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -630,6 +630,8 @@
     <string>colon.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
+    <key>commanko</key>
+    <string>commanko.glif</string>
     <key>consonantjoinertifinagh</key>
     <string>consonantjoinertifinagh.glif</string>
     <key>copyright</key>
@@ -656,6 +658,10 @@
     <string>danko.init.glif</string>
     <key>danko.medi</key>
     <string>danko.medi.glif</string>
+    <key>dantayalannkocmb</key>
+    <string>dantayalannkocmb.glif</string>
+    <key>dantayalannkocmb.wide</key>
+    <string>dantayalannkocmb.wide.glif</string>
     <key>degree</key>
     <string>degree.glif</string>
     <key>dialytikatonos</key>
@@ -668,12 +674,16 @@
     <string>divide.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
+    <key>doromesignnko</key>
+    <string>doromesignnko.glif</string>
     <key>dotaccent</key>
     <string>dotaccent.glif</string>
     <key>dotaccentcmb</key>
     <string>dotaccentcmb.glif</string>
     <key>dotbelowcmb</key>
     <string>dotbelowcmb.glif</string>
+    <key>doubledotabovenkocmb</key>
+    <string>doubledotabovenkocmb.glif</string>
     <key>eenko.fina</key>
     <string>eenko.fina.glif</string>
     <key>eenko</key>
@@ -708,6 +718,8 @@
     <string>exclam.glif</string>
     <key>exclamdown</key>
     <string>exclamdown.glif</string>
+    <key>exclamnko</key>
+    <string>exclamnko.glif</string>
     <key>fanko.fina</key>
     <string>fanko.fina.glif</string>
     <key>fanko</key>
@@ -730,6 +742,8 @@
     <string>four.glif</string>
     <key>fournko</key>
     <string>fournko.glif</string>
+    <key>gbakurunensymbolnko</key>
+    <string>gbakurunensymbolnko.glif</string>
     <key>gbanko.fina</key>
     <string>gbanko.fina.glif</string>
     <key>gbanko</key>
@@ -764,6 +778,8 @@
     <string>hanko.init.glif</string>
     <key>hanko.medi</key>
     <string>hanko.medi.glif</string>
+    <key>hightoneapostrophenko</key>
+    <string>hightoneapostrophenko.glif</string>
     <key>horizontalbar</key>
     <string>horizontalbar.glif</string>
     <key>hungarumlaut</key>
@@ -812,6 +828,14 @@
     <string>kanko.medi.glif</string>
     <key>kgreenlandic</key>
     <string>kgreenlandic.glif</string>
+    <key>lajanyalannko.fina</key>
+    <string>lajanyalannko.fina.glif</string>
+    <key>lajanyalannko</key>
+    <string>lajanyalannko.glif</string>
+    <key>lajanyalannko.init</key>
+    <string>lajanyalannko.init.glif</string>
+    <key>lajanyalannko.medi</key>
+    <string>lajanyalannko.medi.glif</string>
     <key>lanko.fina</key>
     <string>lanko.fina.glif</string>
     <key>lanko</key>
@@ -834,6 +858,8 @@
     <string>longrisingtonenkocmb.glif</string>
     <key>longs</key>
     <string>longs.glif</string>
+    <key>lowtoneapostrophenko</key>
+    <string>lowtoneapostrophenko.glif</string>
     <key>macron</key>
     <string>macron.glif</string>
     <key>macron.wide</key>
@@ -870,6 +896,8 @@
     <string>nanko.medi.glif</string>
     <key>napostrophe</key>
     <string>napostrophe.glif</string>
+    <key>nasalizationmarknkocmb</key>
+    <string>nasalizationmarknkocmb.glif</string>
     <key>nhookretroflex</key>
     <string>nhookretroflex.glif</string>
     <key>nine</key>
@@ -918,6 +946,8 @@
     <string>onko.init.glif</string>
     <key>onko.medi</key>
     <string>onko.medi.glif</string>
+    <key>oodennensymbolnko</key>
+    <string>oodennensymbolnko.glif</string>
     <key>oonko.fina</key>
     <string>oonko.fina.glif</string>
     <key>oonko</key>
@@ -1040,6 +1070,8 @@
     <string>space.glif</string>
     <key>sterling</key>
     <string>sterling.glif</string>
+    <key>tamansignnko</key>
+    <string>tamansignnko.glif</string>
     <key>tamatarttifinagh</key>
     <string>tamatarttifinagh.glif</string>
     <key>tanko.fina</key>

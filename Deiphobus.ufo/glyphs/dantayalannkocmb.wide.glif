@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dantayalannkocmb.wide" format="2">
+  <advance width="1760"/>
+	<anchor x="880" y="0" name="bottom.mark"/>
+	<anchor x="880" y="-506" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="176" y="-506" type="line"/>
+      <point x="176" y="-132" type="line"/>
+      <point x="1584" y="-132" type="line"/>
+      <point x="1584" y="-506" type="line"/>
+      <point x="1320" y="-506" type="line"/>
+      <point x="1320" y="-396" type="line"/>
+      <point x="440" y="-396" type="line"/>
+      <point x="440" y="-506" type="line"/>
+    </contour>
+  </outline>
+</glyph>
