@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="consonantjoinertifinagh" format="2">
-  <!--advance width="0"/-->
+  <advance width="1408"/>
   <unicode hex="2D7F"/>
   <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="176" type="line"/>
+      <point x="176" y="176" type="line"/>
+      <point x="176" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="0" type="line"/>
+      <point x="308" y="176" type="line"/>
+      <point x="484" y="176" type="line"/>
+      <point x="484" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="616" y="0" type="line"/>
+      <point x="616" y="176" type="line"/>
+      <point x="792" y="176" type="line"/>
+      <point x="792" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="924" y="0" type="line"/>
+      <point x="924" y="176" type="line"/>
+      <point x="1100" y="176" type="line"/>
+      <point x="1100" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1232" y="0" type="line"/>
+      <point x="1232" y="176" type="line"/>
+      <point x="1408" y="176" type="line"/>
+      <point x="1408" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>
