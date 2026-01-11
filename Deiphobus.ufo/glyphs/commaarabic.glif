@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaarabic" format="2">
+  <advance width="704"/>
+  <unicode hex="060C"/>
+  <outline>
+    <contour>
+      <point x="154" y="0" type="line"/>
+      <point x="154" y="187" type="line"/>
+      <point x="528" y="561" type="line"/>
+      <point x="528" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

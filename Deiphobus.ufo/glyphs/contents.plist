@@ -630,6 +630,8 @@
     <string>colon.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
+    <key>commaarabic</key>
+    <string>commaarabic.glif</string>
     <key>commanko</key>
     <string>commanko.glif</string>
     <key>consonantjoinertifinagh</key>
@@ -972,8 +974,12 @@
     <string>paragraph.glif</string>
     <key>parenleft</key>
     <string>parenleft.glif</string>
+    <key>parenleftaltonearabic</key>
+    <string>parenleftaltonearabic.glif</string>
     <key>parenright</key>
     <string>parenright.glif</string>
+    <key>parenrightaltonearabic</key>
+    <string>parenrightaltonearabic.glif</string>
     <key>percent</key>
     <string>percent.glif</string>
     <key>period</key>
@@ -988,6 +994,8 @@
     <string>plusminus.glif</string>
     <key>question</key>
     <string>question.glif</string>
+    <key>questionarabic</key>
+    <string>questionarabic.glif</string>
     <key>questiondown</key>
     <string>questiondown.glif</string>
     <key>quotedbl</key>
@@ -1050,6 +1058,8 @@
     <string>section.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
+    <key>semicolonarabic</key>
+    <string>semicolonarabic.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
     <key>sevennko</key>
