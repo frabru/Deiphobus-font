@@ -1,4 +1,4 @@
-![Deiphobus 1.0](./demo/demo.svg)
+![Deiphobus 1.4](./demo/demo.svg)
 
 
 # Deiphobus font
