@@ -5,14 +5,20 @@ This file provides detailed information on the Deiphobus Font Software. This inf
 
 Basic Font Information
 
-Deiphobus is an all caps geometric display typeface with bold blocky shapes. The initial design was for Latin script and has since been extended to Cyrillic and Greek script.
+Deiphobus is an all caps geometric display typeface with bold blocky shapes. The initial design was for Latin script and has since been extended to Cyrillic, Greek, Tifinagh and N'Ko script.
 
 This release supports:
 
 - the Unicode blocks
   * Basic Latin,
-  * Latin-1 Supplement, and
-  * Latin Extended-A;
+  * Latin-1 Supplement,
+  * Latin Extended-A,
+  * N'Ko, and
+  * Tifinagh;
+- parts of various Latin and IPA Unicode blocks sufficient to cover:
+  * The International African Alphabet,
+  * The Pan-Nigerian alphabet, and
+  * ISO 6438;
 - parts of the Unicode block Cyrillic sufficient to cover the character sets:
   * ISO 8859-5 and
   * Windows-1251
@@ -31,6 +37,16 @@ This release supports:
 
 
 ChangeLog
+
+ 2026-01-11 (Frank Bruder)  Deiphobus Version 1.4
+- slight redesign of shortened base glyphs for A and O umlaut
+- added wide macron glyph and rules to use it on wide glyphs
+- general mark-to-base and mark-to-mark positioning rules
+- Latin extensions for Africa Alphabet and Pan-Nigerian alphabet
+- localisation rules for variant glyph forms in Africa Alphabet
+- Tifinagh glyphs, kerning, and RTL mirroring rules
+- N'Ko glyphs, positioning rules, and positional alternate rules
+- low paraphrase backets and Arabic punctuation marks that see use in N'Ko text
 
  2024-03-10 (Frank Bruder)  Deiphobus Version 1.3
 - Greek glyphs and drachma sign (ISO 8859-7)

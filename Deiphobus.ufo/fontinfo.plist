@@ -14,9 +14,9 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>3</integer>
+	<integer>4</integer>
 	<key>copyright</key>
-	<string>Copyright 2023-2024 Frank Bruder</string>
+	<string>Copyright 2023-2026 Frank Bruder</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>descender</key>
@@ -30,7 +30,7 @@
 	<key>italicAngle</key>
 	<integer>0</integer>
 	<key>openTypeNameLicense</key>
-	<string>Copyright (c) 2023-2024, Frank Bruder (http://frabru.de/),
+	<string>Copyright (c) 2023-2026, Frank Bruder (http://frabru.de/),
 with Reserved Font Name Deiphobus.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
